@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+/* Custom CSS variables for theming */
+@theme {
+  /* Colors - Neutral grays for minimal aesthetic */
+  --color-background: #ffffff;
+  --color-background-dark: #0a0a0a;
+  --color-foreground: #171717;
+  --color-foreground-dark: #fafafa;
+  --color-muted: #737373;
+  --color-muted-dark: #a3a3a3;
+  --color-border: #e5e5e5;
+  --color-border-dark: #262626;
+
+  /* Typography - System font stack with modern sans-serif */
+  --font-sans: "Inter", "SF Pro Display", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Spacing */
+  --container-padding: 1rem;
+  --container-padding-lg: 2rem;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 200ms ease;
+}
+
+/* Base styles */
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-white text-neutral-900 dark:bg-neutral-950 dark:text-neutral-50;
+    @apply min-h-screen;
+  }
+
+  /* Focus styles for accessibility (WCAG AA) */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-neutral-900 dark:outline-neutral-100;
+  }
+
+  /* Reduced motion preferences */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+/* Utility classes */
+@layer utilities {
+  .container {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Skip link for accessibility */
+  .skip-link {
+    @apply absolute left-4 top-4 z-50 -translate-y-16 bg-neutral-900 px-4 py-2 text-white transition-transform focus:translate-y-0 dark:bg-white dark:text-neutral-900;
+  }
+
+  /* Prevent image right-click */
+  .no-context-menu {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+}
