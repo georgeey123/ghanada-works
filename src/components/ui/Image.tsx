@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect, useMemo } from 'react';
 import { cn, getContentfulImageUrl } from '@/lib/utils';
 import type { ContentfulImage } from '@/types';
 
@@ -23,29 +23,52 @@ export default function Image({
 }: ImageProps) {
   const [loaded, setLoaded] = useState(false);
   const [error, setError] = useState(false);
+  const [sourceUrl, setSourceUrl] = useState('');
+  const [triedFallback, setTriedFallback] = useState(false);
 
   const handleLoad = useCallback(() => {
     setLoaded(true);
   }, []);
 
-  const handleError = useCallback(() => {
-    setError(true);
-  }, []);
+  const normalizedUrl = useMemo(() => {
+    if (!image?.url) return '';
+    return image.url.startsWith('//') ? `https:${image.url}` : image.url;
+  }, [image?.url]);
 
   // Prevent right-click for image protection
-  const handleContextMenu = useCallback(
-    (e: React.MouseEvent) => {
-      e.preventDefault();
-    },
-    []
+  const handleContextMenu = useCallback((e: React.MouseEvent) => {
+    e.preventDefault();
+  }, []);
+
+  const imageWidth = width || image.width || 800;
+  const imageHeight = height || image.height || 600;
+
+  const imageUrl = useMemo(
+    () =>
+      getContentfulImageUrl(normalizedUrl, {
+        width: imageWidth,
+        height: imageHeight,
+        format: 'jpg',
+        quality: 85,
+      }),
+    [normalizedUrl, imageWidth, imageHeight]
   );
 
-  const imageUrl = getContentfulImageUrl(image.url, {
-    width: width || image.width,
-    height: height || image.height,
-    format: 'jpg',
-    quality: 85,
-  });
+  useEffect(() => {
+    setLoaded(false);
+    setError(false);
+    setTriedFallback(false);
+    setSourceUrl(imageUrl);
+  }, [imageUrl]);
+
+  const handleError = useCallback(() => {
+    if (!triedFallback && normalizedUrl && sourceUrl !== normalizedUrl) {
+      setTriedFallback(true);
+      setSourceUrl(normalizedUrl);
+      return;
+    }
+    setError(true);
+  }, [normalizedUrl, sourceUrl, triedFallback]);
 
   const altText = alt || image.title || 'Gallery image';
 
@@ -56,7 +79,7 @@ export default function Image({
           'bg-neutral-100 dark:bg-neutral-800 flex items-center justify-center',
           className
         )}
-        style={{ aspectRatio: `${image.width} / ${image.height}` }}
+        style={{ aspectRatio: `${imageWidth} / ${imageHeight}` }}
       >
         <span className="text-neutral-400 dark:text-neutral-600 text-sm">
           Image unavailable
@@ -68,7 +91,7 @@ export default function Image({
   return (
     <div
       className={cn('relative overflow-hidden', className)}
-      style={{ aspectRatio: `${image.width} / ${image.height}` }}
+      style={{ aspectRatio: `${imageWidth} / ${imageHeight}` }}
     >
       {/* Placeholder */}
       {!loaded && (
@@ -77,10 +100,10 @@ export default function Image({
 
       {/* Image */}
       <img
-        src={imageUrl}
+        src={sourceUrl}
         alt={altText}
-        width={width || image.width}
-        height={height || image.height}
+        width={imageWidth}
+        height={imageHeight}
         loading={priority ? 'eager' : 'lazy'}
         decoding={priority ? 'sync' : 'async'}
         onLoad={handleLoad}

@@ -1,8 +1,21 @@
 import { useSiteSettings } from '@/hooks';
 import { Image, Loader } from '@/components/ui';
+import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
+import type { Document } from '@contentful/rich-text-types';
 
 export default function About() {
   const { data: settings, isLoading } = useSiteSettings();
+
+  const renderRichContent = (content?: Document | string) => {
+    if (!content) return null;
+    if (typeof content === 'string') {
+      return content
+        .split('\n')
+        .filter((line) => line.trim().length > 0)
+        .map((line) => <p key={line}>{line}</p>);
+    }
+    return documentToReactComponents(content);
+  };
 
   if (isLoading) {
     return (
@@ -30,14 +43,14 @@ export default function About() {
 
         {/* Bio */}
         <div className="lg:order-1">
-          {settings?.bio && (
+          {settings?.bio ? (
             <div className="prose prose-neutral dark:prose-invert max-w-none">
-              {settings.bio.split('\n\n').map((paragraph, index) => (
-                <p key={index} className="text-lg leading-relaxed mb-6">
-                  {paragraph}
-                </p>
-              ))}
+              {renderRichContent(settings.bio)}
             </div>
+          ) : (
+            <p className="text-neutral-600 dark:text-neutral-400">
+              Bio content is unavailable right now.
+            </p>
           )}
         </div>
       </div>
@@ -46,34 +59,7 @@ export default function About() {
       {settings?.processContent && (
         <section className="mt-16 md:mt-24">
           <div className="prose prose-neutral dark:prose-invert max-w-3xl mx-auto">
-            {settings.processContent.split('\n').map((line, index) => {
-              // Handle markdown-style headers
-              if (line.startsWith('## ')) {
-                return (
-                  <h2
-                    key={index}
-                    className="text-3xl font-bold mt-12 mb-6 first:mt-0"
-                  >
-                    {line.replace('## ', '')}
-                  </h2>
-                );
-              }
-              if (line.startsWith('**') && line.endsWith('**')) {
-                return (
-                  <h3 key={index} className="text-xl font-semibold mt-8 mb-3">
-                    {line.replace(/\*\*/g, '')}
-                  </h3>
-                );
-              }
-              if (line.trim() === '') {
-                return null;
-              }
-              return (
-                <p key={index} className="mb-4 text-neutral-600 dark:text-neutral-400">
-                  {line}
-                </p>
-              );
-            })}
+            {renderRichContent(settings.processContent)}
           </div>
         </section>
       )}

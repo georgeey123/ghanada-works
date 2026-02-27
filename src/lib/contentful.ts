@@ -1,15 +1,10 @@
 import { createClient } from 'contentful';
-import type {
-  Category,
-  Project,
-  SiteSettings,
-  ContentfulImage,
-} from '@/types';
+import type { Category, Project, SiteSettings, ContentfulImage } from '@/types';
 
 // Check if Contentful is configured
 export const isContentfulConfigured = Boolean(
   import.meta.env.VITE_CONTENTFUL_SPACE_ID &&
-    import.meta.env.VITE_CONTENTFUL_ACCESS_TOKEN
+  import.meta.env.VITE_CONTENTFUL_ACCESS_TOKEN
 );
 
 // Create Contentful client only if configured
@@ -88,10 +83,8 @@ function transformSiteSettings(entry: any): SiteSettings {
     recentWorkCount:
       typeof fields.recentWorkCount === 'number' ? fields.recentWorkCount : 6,
     photographerPhoto: transformAsset(fields.photographerPhoto),
-    bio: fields.bio ? String(fields.bio) : undefined,
-    processContent: fields.processContent
-      ? String(fields.processContent)
-      : undefined,
+    bio: fields.bio ?? undefined,
+    processContent: fields.processContent ?? undefined,
     email: String(fields.email || ''),
     phone: String(fields.phone || ''),
     location: String(fields.location || ''),
@@ -191,6 +184,7 @@ export async function fetchSiteSettings(): Promise<SiteSettings> {
 
   const response = await contentfulClient.getEntries({
     content_type: 'siteSettings',
+    include: 2,
     limit: 1,
   } as any);
 
@@ -205,7 +199,36 @@ export async function fetchSiteSettings(): Promise<SiteSettings> {
     };
   }
 
-  return transformSiteSettings(response.items[0]);
+  const entry = response.items[0];
+
+  const resolveAsset = async (assetRef: any) => {
+    if (!assetRef) return undefined;
+    if (assetRef.fields?.file) return assetRef;
+    if (assetRef.sys?.id) {
+      try {
+        return await contentfulClient.getAsset(assetRef.sys.id);
+      } catch {
+        return undefined;
+      }
+    }
+    return undefined;
+  };
+
+  const [heroImage, photographerPhoto] = await Promise.all([
+    resolveAsset(entry.fields.heroImage),
+    resolveAsset(entry.fields.photographerPhoto),
+  ]);
+
+  const resolvedEntry = {
+    ...entry,
+    fields: {
+      ...entry.fields,
+      heroImage,
+      photographerPhoto,
+    },
+  };
+
+  return transformSiteSettings(resolvedEntry);
 }
 
 export async function fetchRecentWork(count: number): Promise<Project[]> {

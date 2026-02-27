@@ -1,3 +1,5 @@
+import type { Document } from '@contentful/rich-text-types';
+
 // Contentful Image type
 export interface ContentfulImage {
   url: string;
@@ -46,8 +48,8 @@ export interface SiteSettings {
   heroSubtitle?: string;
   recentWorkCount: number;
   photographerPhoto?: ContentfulImage;
-  bio?: string;
-  processContent?: string;
+  bio?: Document | string;
+  processContent?: Document | string;
   email: string;
   phone: string;
   location: string;

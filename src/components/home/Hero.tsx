@@ -16,6 +16,8 @@ export default function Hero() {
     return null;
   }
 
+  const hasCopy = Boolean(settings?.heroTitle || settings?.heroSubtitle);
+
   return (
     <section className="relative h-[80vh] min-h-[500px] w-full overflow-hidden">
       {/* Hero Image */}
@@ -26,25 +28,28 @@ export default function Hero() {
           priority
           className="w-full h-full"
         />
-        {/* Gradient overlay for text readability */}
-        <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
+        {hasCopy && (
+          <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
+        )}
       </div>
 
       {/* Hero Content */}
-      <div className="relative h-full flex items-end">
-        <div className="container pb-16 md:pb-24">
-          {settings.heroTitle && (
-            <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-4">
-              {settings.heroTitle}
-            </h1>
-          )}
-          {settings.heroSubtitle && (
-            <p className="text-xl md:text-2xl text-white/90 max-w-xl">
-              {settings.heroSubtitle}
-            </p>
-          )}
+      {hasCopy && (
+        <div className="relative h-full flex items-end">
+          <div className="container pb-16 md:pb-24">
+            {settings.heroTitle && (
+              <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-4">
+                {settings.heroTitle}
+              </h1>
+            )}
+            {settings.heroSubtitle && (
+              <p className="text-xl md:text-2xl text-white/90 max-w-xl">
+                {settings.heroSubtitle}
+              </p>
+            )}
+          </div>
         </div>
-      </div>
+      )}
     </section>
   );
 }

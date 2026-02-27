@@ -22,33 +22,37 @@ export function getContentfulImageUrl(
     fit?: 'pad' | 'fill' | 'scale' | 'crop' | 'thumb';
   } = {}
 ): string {
+  const normalizedUrl = url.startsWith('//') ? `https:${url}` : url;
+
   // Handle non-Contentful URLs (e.g., picsum for mock data)
-  if (!url.includes('ctfassets.net') && !url.includes('images.ctfassets.net')) {
+  if (
+    !normalizedUrl.includes('ctfassets.net') &&
+    !normalizedUrl.includes('images.ctfassets.net')
+  ) {
     // For picsum.photos, we can append size
-    if (url.includes('picsum.photos')) {
-      const baseUrl = url.split('?')[0];
+    if (normalizedUrl.includes('picsum.photos')) {
+      const baseUrl = normalizedUrl.split('?')[0];
       const width = options.width || 800;
       const height = options.height || 600;
       return `${baseUrl}/${width}/${height}`;
     }
-    return url;
+    return normalizedUrl;
   }
 
-  const params = new URLSearchParams();
+  const imageUrl = new URL(normalizedUrl);
 
-  if (options.width) params.set('w', String(options.width));
-  if (options.height) params.set('h', String(options.height));
-  if (options.format) params.set('fm', options.format);
-  if (options.quality) params.set('q', String(options.quality));
-  if (options.fit) params.set('fit', options.fit);
+  if (options.width) imageUrl.searchParams.set('w', String(options.width));
+  if (options.height) imageUrl.searchParams.set('h', String(options.height));
+  if (options.format) imageUrl.searchParams.set('fm', options.format);
+  if (options.quality) imageUrl.searchParams.set('q', String(options.quality));
+  if (options.fit) imageUrl.searchParams.set('fit', options.fit);
 
   // Progressive JPEG for better loading experience
   if (options.format === 'jpg' || !options.format) {
-    params.set('fl', 'progressive');
+    imageUrl.searchParams.set('fl', 'progressive');
   }
 
-  const queryString = params.toString();
-  return queryString ? `${url}?${queryString}` : url;
+  return imageUrl.toString();
 }
 
 /**
