@@ -16,7 +16,7 @@ export default function CategoryCard({
 
   return (
     <Link
-      to={`/gallery/${category.slug}`}
+      to={`/event-media/${category.slug}`}
       className={cn(
         'group relative overflow-hidden rounded-lg',
         'focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-neutral-900 dark:focus-visible:outline-neutral-100'

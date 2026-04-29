@@ -1,5 +1,11 @@
 import { createClient } from 'contentful';
-import type { Category, Project, SiteSettings, ContentfulImage } from '@/types';
+import type {
+  Category,
+  Project,
+  SiteSettings,
+  ContentfulImage,
+  HeroMediaItem,
+} from '@/types';
 
 // Check if Contentful is configured
 export const isContentfulConfigured = Boolean(
@@ -36,6 +42,27 @@ function transformAsset(asset: any): ContentfulImage | undefined {
     description: description || undefined,
     width: file.details?.image?.width || 0,
     height: file.details?.image?.height || 0,
+  };
+}
+
+function transformHeroMediaAsset(asset: any): HeroMediaItem | undefined {
+  if (!asset?.fields?.file) return undefined;
+
+  const { file, title, description } = asset.fields;
+  const contentType =
+    typeof file.contentType === 'string' ? file.contentType : '';
+  const kind: HeroMediaItem['kind'] = contentType.startsWith('video/')
+    ? 'video'
+    : 'image';
+
+  return {
+    url: file.url.startsWith('//') ? `https:${file.url}` : file.url,
+    title: title || undefined,
+    description: description || undefined,
+    width: file.details?.image?.width || file.details?.video?.width || 0,
+    height: file.details?.image?.height || file.details?.video?.height || 0,
+    contentType: contentType || undefined,
+    kind,
   };
 }
 
@@ -78,6 +105,11 @@ function transformSiteSettings(entry: any): SiteSettings {
   const fields = entry.fields;
   return {
     heroImage: transformAsset(fields.heroImage),
+    heroMedia: Array.isArray(fields.heroMedia)
+      ? fields.heroMedia
+          .map(transformHeroMediaAsset)
+          .filter((media: any): media is HeroMediaItem => media !== undefined)
+      : undefined,
     heroTitle: fields.heroTitle ? String(fields.heroTitle) : undefined,
     heroSubtitle: fields.heroSubtitle ? String(fields.heroSubtitle) : undefined,
     recentWorkCount:
@@ -214,9 +246,18 @@ export async function fetchSiteSettings(): Promise<SiteSettings> {
     return undefined;
   };
 
-  const [heroImage, photographerPhoto] = await Promise.all([
+  const resolveAssets = async (assetRefs: any) => {
+    if (!Array.isArray(assetRefs)) return [];
+    const assets = await Promise.all(
+      assetRefs.map((assetRef: any) => resolveAsset(assetRef))
+    );
+    return assets.filter((asset: any) => asset !== undefined);
+  };
+
+  const [heroImage, photographerPhoto, heroMedia] = await Promise.all([
     resolveAsset(entry.fields.heroImage),
     resolveAsset(entry.fields.photographerPhoto),
+    resolveAssets(entry.fields.heroMedia),
   ]);
 
   const resolvedEntry = {
@@ -225,6 +266,7 @@ export async function fetchSiteSettings(): Promise<SiteSettings> {
       ...entry.fields,
       heroImage,
       photographerPhoto,
+      heroMedia,
     },
   };
 

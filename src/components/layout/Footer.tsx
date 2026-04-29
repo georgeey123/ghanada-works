@@ -11,9 +11,11 @@ const categories = [
 
 const navLinks = [
   { label: 'Home', href: '/' },
-  { label: 'Gallery', href: '/gallery' },
+  { label: 'Event Media', href: '/event-media' },
   { label: 'About', href: '/about' },
   { label: 'Contact', href: '/contact' },
+  { label: 'Conferences', href: '/conferences' },
+  { label: 'Videos', href: '/videos' },
   { label: 'Livestream', href: '/livestream' },
 ];
 
@@ -88,12 +90,12 @@ export default function Footer() {
 
           {/* Categories */}
           <div>
-            <h3 className="font-semibold mb-4">Categories</h3>
+            <h3 className="font-semibold mb-4">Event Media</h3>
             <ul className="space-y-2">
               {categories.map((category) => (
                 <li key={category.slug}>
                   <Link
-                    to={`/gallery/${category.slug}`}
+                    to={`/event-media/${category.slug}`}
                     className="text-sm text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors"
                   >
                     {category.name}

@@ -8,7 +8,8 @@ export default function Category() {
   const { data: category, isLoading: categoryLoading } = useCategory(
     categorySlug || ''
   );
-  const { data: projects, isLoading: projectsLoading } = useProjects(categorySlug);
+  const { data: projects, isLoading: projectsLoading } =
+    useProjects(categorySlug);
 
   const isLoading = categoryLoading || projectsLoading;
 
@@ -28,10 +29,10 @@ export default function Category() {
           The category you&apos;re looking for doesn&apos;t exist.
         </p>
         <Link
-          to="/gallery"
+          to="/event-media"
           className="text-neutral-900 dark:text-white underline hover:no-underline"
         >
-          Back to Gallery
+          Back to Event Media
         </Link>
       </div>
     );
@@ -97,7 +98,7 @@ export default function Category() {
         {/* Back link */}
         <div className="mt-12 text-center">
           <Link
-            to="/gallery"
+            to="/event-media"
             className="inline-flex items-center gap-2 text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors"
           >
             <svg
@@ -113,7 +114,7 @@ export default function Category() {
                 d="M7 16l-4-4m0 0l4-4m-4 4h18"
               />
             </svg>
-            Back to Gallery
+            Back to Event Media
           </Link>
         </div>
       </div>

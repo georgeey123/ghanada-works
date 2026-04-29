@@ -24,10 +24,10 @@ export default function Project() {
           The project you&apos;re looking for doesn&apos;t exist.
         </p>
         <Link
-          to="/gallery"
+          to="/event-media"
           className="text-neutral-900 dark:text-white underline hover:no-underline"
         >
-          Back to Gallery
+          Back to Event Media
         </Link>
       </div>
     );
@@ -42,7 +42,7 @@ export default function Project() {
         {/* Project Header */}
         <div className="mb-8 md:mb-12">
           <Link
-            to={`/gallery/${project.category.slug}`}
+            to={`/event-media/${project.category.slug}`}
             className="inline-flex items-center gap-2 text-sm text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors mb-4"
           >
             <svg
@@ -61,7 +61,9 @@ export default function Project() {
             {project.category.name}
           </Link>
 
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">{project.title}</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">
+            {project.title}
+          </h1>
 
           {project.description && (
             <p className="text-lg text-neutral-600 dark:text-neutral-400 max-w-2xl mb-4">

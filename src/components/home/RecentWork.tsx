@@ -11,7 +11,7 @@ export default function RecentWork() {
       <section className="py-16 md:py-24">
         <div className="container">
           <div className="flex justify-center">
-            <Loader size="lg" text="Loading recent work..." />
+            <Loader size="lg" text="Loading event media..." />
           </div>
         </div>
       </section>
@@ -26,7 +26,7 @@ export default function RecentWork() {
     <section className="py-16 md:py-24">
       <div className="container">
         <h2 className="text-3xl md:text-4xl font-bold mb-8 md:mb-12">
-          Recent Work
+          Event Media
         </h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -79,10 +79,10 @@ export default function RecentWork() {
         {/* View all link */}
         <div className="mt-12 text-center">
           <Link
-            to="/gallery"
+            to="/event-media"
             className="inline-flex items-center gap-2 text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors"
           >
-            View all work
+            View all event media
             <svg
               className="w-4 h-4"
               fill="none"

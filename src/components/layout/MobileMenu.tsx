@@ -4,7 +4,7 @@ import { useAppStore } from '@/store';
 import { useLockBodyScroll } from '@/hooks/useLockBodyScroll';
 import { cn } from '@/lib/utils';
 
-const categories = [
+const eventMediaCategories = [
   { name: 'Weddings', slug: 'weddings' },
   { name: 'Glamour', slug: 'glamour' },
   { name: 'Family', slug: 'family' },
@@ -13,22 +13,21 @@ const categories = [
   { name: 'Lifestyle', slug: 'lifestyle' },
 ];
 
-const navItems = [
-  { label: 'Home', href: '/' },
-  { label: 'Gallery', href: '/gallery', hasDropdown: true },
-  { label: 'About', href: '/about' },
-  { label: 'Contact', href: '/contact' },
+const corporateMediaItems = [
+  { label: 'Conferences', href: '/conferences' },
+  { label: 'Videos', href: '/videos' },
   { label: 'Livestream', href: '/livestream' },
+  { label: 'Gallery', href: '/corporate-gallery' },
 ];
 
 export default function MobileMenu() {
   const location = useLocation();
   const { mobileMenuOpen, closeMobileMenu } = useAppStore();
-  const [galleryExpanded, setGalleryExpanded] = useState(false);
+  const [corporateExpanded, setCorporateExpanded] = useState(false);
+  const [eventMediaExpanded, setEventMediaExpanded] = useState(false);
 
   useLockBodyScroll(mobileMenuOpen);
 
-  // Close on Escape key
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === 'Escape' && mobileMenuOpen) {
@@ -47,9 +46,24 @@ export default function MobileMenu() {
     return location.pathname.startsWith(href);
   };
 
+  const isEventMediaRoute =
+    location.pathname.startsWith('/event-media') ||
+    location.pathname.startsWith('/gallery');
+
+  const isCorporateMediaRoute =
+    location.pathname.startsWith('/conferences') ||
+    location.pathname.startsWith('/videos') ||
+    location.pathname.startsWith('/livestream') ||
+    location.pathname.startsWith('/corporate-gallery');
+
+  const isEventMediaCategoryActive = (slug: string) =>
+    location.pathname === `/event-media/${slug}` ||
+    location.pathname === `/gallery/${slug}`;
+
   const handleLinkClick = () => {
     closeMobileMenu();
-    setGalleryExpanded(false);
+    setCorporateExpanded(false);
+    setEventMediaExpanded(false);
   };
 
   if (!mobileMenuOpen) return null;
@@ -62,16 +76,13 @@ export default function MobileMenu() {
       aria-modal="true"
       aria-label="Mobile navigation menu"
     >
-      {/* Backdrop */}
       <div
         className="absolute inset-0 bg-black/50"
         onClick={closeMobileMenu}
         aria-hidden="true"
       />
 
-      {/* Menu panel */}
       <div className="absolute right-0 top-0 bottom-0 w-full max-w-sm bg-white dark:bg-neutral-950 shadow-xl">
-        {/* Header */}
         <div className="flex items-center justify-between h-16 px-4 border-b border-neutral-200 dark:border-neutral-800">
           <span className="text-xl font-semibold">Menu</span>
           <button
@@ -96,92 +107,175 @@ export default function MobileMenu() {
           </button>
         </div>
 
-        {/* Navigation */}
-        <nav className="p-4">
-          {navItems.map((item) => (
-            <div key={item.href}>
-              {item.hasDropdown ? (
-                <>
-                  <button
-                    type="button"
-                    onClick={() => setGalleryExpanded(!galleryExpanded)}
-                    className={cn(
-                      'w-full flex items-center justify-between px-4 py-3 text-lg font-medium rounded-md transition-colors',
-                      isActive(item.href)
-                        ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
-                        : 'text-neutral-600 dark:text-neutral-400'
-                    )}
-                    aria-expanded={galleryExpanded}
-                  >
-                    {item.label}
-                    <svg
-                      className={cn(
-                        'w-5 h-5 transition-transform',
-                        galleryExpanded && 'rotate-180'
-                      )}
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      stroke="currentColor"
-                      strokeWidth={2}
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M19 9l-7 7-7-7"
-                      />
-                    </svg>
-                  </button>
+        <nav className="p-4 space-y-1">
+          <Link
+            to="/"
+            onClick={handleLinkClick}
+            className={cn(
+              'block px-4 py-3 text-lg font-medium rounded-md transition-colors',
+              isActive('/')
+                ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
+                : 'text-neutral-600 dark:text-neutral-400'
+            )}
+            aria-current={isActive('/') ? 'page' : undefined}
+          >
+            Home
+          </Link>
 
-                  {/* Expanded category list */}
-                  {galleryExpanded && (
-                    <div className="ml-4 mt-1 space-y-1">
-                      <Link
-                        to="/gallery"
-                        onClick={handleLinkClick}
-                        className={cn(
-                          'block px-4 py-2 text-base rounded-md transition-colors',
-                          location.pathname === '/gallery'
-                            ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
-                            : 'text-neutral-600 dark:text-neutral-400'
-                        )}
-                      >
-                        All Categories
-                      </Link>
-                      {categories.map((category) => (
-                        <Link
-                          key={category.slug}
-                          to={`/gallery/${category.slug}`}
-                          onClick={handleLinkClick}
-                          className={cn(
-                            'block px-4 py-2 text-base rounded-md transition-colors',
-                            location.pathname === `/gallery/${category.slug}`
-                              ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
-                              : 'text-neutral-600 dark:text-neutral-400'
-                          )}
-                        >
-                          {category.name}
-                        </Link>
-                      ))}
-                    </div>
-                  )}
-                </>
-              ) : (
+          <Link
+            to="/about"
+            onClick={handleLinkClick}
+            className={cn(
+              'block px-4 py-3 text-lg font-medium rounded-md transition-colors',
+              isActive('/about')
+                ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
+                : 'text-neutral-600 dark:text-neutral-400'
+            )}
+            aria-current={isActive('/about') ? 'page' : undefined}
+          >
+            About
+          </Link>
+
+          <button
+            type="button"
+            onClick={() => setCorporateExpanded((prev) => !prev)}
+            className={cn(
+              'w-full flex items-center justify-between px-4 py-3 text-lg font-medium rounded-md transition-colors',
+              isCorporateMediaRoute
+                ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
+                : 'text-neutral-600 dark:text-neutral-400'
+            )}
+            aria-expanded={corporateExpanded}
+          >
+            Corporate Media
+            <svg
+              className={cn(
+                'w-5 h-5 transition-transform',
+                corporateExpanded && 'rotate-180'
+              )}
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              strokeWidth={2}
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M19 9l-7 7-7-7"
+              />
+            </svg>
+          </button>
+
+          {corporateExpanded && (
+            <div className="ml-4 mt-1 space-y-1">
+              {corporateMediaItems.map((item) => (
                 <Link
+                  key={item.href}
                   to={item.href}
                   onClick={handleLinkClick}
                   className={cn(
-                    'block px-4 py-3 text-lg font-medium rounded-md transition-colors',
+                    'block px-4 py-2 text-base rounded-md transition-colors',
                     isActive(item.href)
                       ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
                       : 'text-neutral-600 dark:text-neutral-400'
                   )}
-                  aria-current={isActive(item.href) ? 'page' : undefined}
                 >
                   {item.label}
                 </Link>
-              )}
+              ))}
             </div>
-          ))}
+          )}
+
+          <button
+            type="button"
+            onClick={() => setEventMediaExpanded((prev) => !prev)}
+            className={cn(
+              'w-full flex items-center justify-between px-4 py-3 text-lg font-medium rounded-md transition-colors',
+              isEventMediaRoute
+                ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
+                : 'text-neutral-600 dark:text-neutral-400'
+            )}
+            aria-expanded={eventMediaExpanded}
+          >
+            Event Media
+            <svg
+              className={cn(
+                'w-5 h-5 transition-transform',
+                eventMediaExpanded && 'rotate-180'
+              )}
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              strokeWidth={2}
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M19 9l-7 7-7-7"
+              />
+            </svg>
+          </button>
+
+          {eventMediaExpanded && (
+            <div className="ml-4 mt-1 space-y-1">
+              <Link
+                to="/event-media"
+                onClick={handleLinkClick}
+                className={cn(
+                  'block px-4 py-2 text-base rounded-md transition-colors',
+                  isEventMediaRoute &&
+                    !location.pathname.includes('/event-media/')
+                    ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
+                    : 'text-neutral-600 dark:text-neutral-400'
+                )}
+              >
+                All Categories
+              </Link>
+              {eventMediaCategories.map((category) => (
+                <Link
+                  key={category.slug}
+                  to={`/event-media/${category.slug}`}
+                  onClick={handleLinkClick}
+                  className={cn(
+                    'block px-4 py-2 text-base rounded-md transition-colors',
+                    isEventMediaCategoryActive(category.slug)
+                      ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
+                      : 'text-neutral-600 dark:text-neutral-400'
+                  )}
+                >
+                  {category.name}
+                </Link>
+              ))}
+            </div>
+          )}
+
+          <Link
+            to="/contact"
+            onClick={handleLinkClick}
+            className={cn(
+              'block px-4 py-3 text-lg font-medium rounded-md transition-colors',
+              isActive('/contact')
+                ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
+                : 'text-neutral-600 dark:text-neutral-400'
+            )}
+            aria-current={isActive('/contact') ? 'page' : undefined}
+          >
+            Contact
+          </Link>
+
+          <Link
+            to="/livestream"
+            onClick={handleLinkClick}
+            className={cn(
+              'block px-4 py-3 text-lg font-medium rounded-md transition-colors',
+              isActive('/livestream')
+                ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
+                : 'text-neutral-600 dark:text-neutral-400'
+            )}
+            aria-current={isActive('/livestream') ? 'page' : undefined}
+          >
+            Livestream
+          </Link>
         </nav>
       </div>
     </div>

@@ -9,7 +9,7 @@ export default function Portfolio() {
   if (categoriesLoading) {
     return (
       <div className="min-h-[60vh] flex items-center justify-center">
-        <Loader size="lg" text="Loading gallery..." />
+        <Loader size="lg" text="Loading event media..." />
       </div>
     );
   }
@@ -34,14 +34,17 @@ export default function Portfolio() {
     // Sort by date and get first image from most recent project
     const sortedProjects = [...categoryProjects].sort(
       (a, b) =>
-        new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime()
+        new Date(b.publishedDate).getTime() -
+        new Date(a.publishedDate).getTime()
     );
     return sortedProjects[0]?.images[0];
   };
 
   return (
     <div className="container py-16">
-      <h1 className="text-4xl md:text-5xl font-bold mb-8 md:mb-12">Gallery</h1>
+      <h1 className="text-4xl md:text-5xl font-bold mb-8 md:mb-12">
+        Event Media
+      </h1>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {categories

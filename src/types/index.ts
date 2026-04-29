@@ -9,6 +9,16 @@ export interface ContentfulImage {
   height: number;
 }
 
+export interface HeroMediaItem {
+  url: string;
+  title?: string;
+  description?: string;
+  width: number;
+  height: number;
+  contentType?: string;
+  kind: 'image' | 'video';
+}
+
 // Category content type
 export interface Category {
   id: string;
@@ -44,6 +54,7 @@ export interface SocialLink {
 // Site settings singleton
 export interface SiteSettings {
   heroImage?: ContentfulImage;
+  heroMedia?: HeroMediaItem[];
   heroTitle?: string;
   heroSubtitle?: string;
   recentWorkCount: number;

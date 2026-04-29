@@ -4,23 +4,55 @@ test.describe('Navigation', () => {
   test('should load the home page', async ({ page }) => {
     await page.goto('/');
     // Use more specific selector - the header logo
-    await expect(page.getByRole('banner').getByRole('link', { name: 'Ghanadaworks' })).toBeVisible();
+    await expect(
+      page.getByRole('banner').getByRole('link', { name: 'Ghanadaworks' })
+    ).toBeVisible();
   });
 
-  test('should navigate to gallery page', async ({ page }) => {
+  test('should navigate to event media page', async ({ page }) => {
     await page.goto('/');
     // On desktop, use the nav link; on mobile, use the mobile menu
     const isMobile = (await page.viewportSize())?.width ?? 1280;
     if (isMobile < 768) {
       await page.click('button[aria-label="Open menu"]');
-      // Gallery has a dropdown, click to expand then click "All Categories"
-      await page.click('#mobile-menu button:has-text("Gallery")');
+      // Event Media has a dropdown, click to expand then click "All Categories"
+      await page.click('#mobile-menu button:has-text("Event Media")');
       await page.click('#mobile-menu >> text=All Categories');
     } else {
-      await page.click('nav >> text=Gallery');
+      await page.click('nav >> text=Event Media');
     }
-    await expect(page).toHaveURL('/gallery');
-    await expect(page.locator('h1')).toContainText('Gallery');
+    await expect(page).toHaveURL('/event-media');
+    await expect(page.locator('h1')).toContainText('Event Media');
+  });
+
+  test('should navigate to conferences page', async ({ page }) => {
+    await page.goto('/');
+    const isMobile = (await page.viewportSize())?.width ?? 1280;
+    if (isMobile < 768) {
+      await page.click('button[aria-label="Open menu"]');
+      await page.click('#mobile-menu button:has-text("Corporate Media")');
+      await page.click('#mobile-menu >> text=Conferences');
+    } else {
+      await page.hover('nav >> text=Corporate Media');
+      await page.click('nav >> text=Conferences');
+    }
+    await expect(page).toHaveURL('/conferences');
+    await expect(page.locator('h1')).toContainText('Conferences');
+  });
+
+  test('should navigate to videos page', async ({ page }) => {
+    await page.goto('/');
+    const isMobile = (await page.viewportSize())?.width ?? 1280;
+    if (isMobile < 768) {
+      await page.click('button[aria-label="Open menu"]');
+      await page.click('#mobile-menu button:has-text("Corporate Media")');
+      await page.click('#mobile-menu >> text=Videos');
+    } else {
+      await page.hover('nav >> text=Corporate Media');
+      await page.click('nav >> text=Videos');
+    }
+    await expect(page).toHaveURL('/videos');
+    await expect(page.locator('h1')).toContainText('Videos');
   });
 
   test('should navigate to about page', async ({ page }) => {
@@ -54,8 +86,10 @@ test.describe('Navigation', () => {
     const isMobile = (await page.viewportSize())?.width ?? 1280;
     if (isMobile < 768) {
       await page.click('button[aria-label="Open menu"]');
+      await page.click('#mobile-menu button:has-text("Corporate Media")');
       await page.click('#mobile-menu >> text=Livestream');
     } else {
+      await page.hover('nav >> text=Corporate Media');
       await page.click('nav >> text=Livestream');
     }
     await expect(page).toHaveURL('/livestream');
@@ -72,7 +106,7 @@ test.describe('Navigation', () => {
 
 test.describe('Gallery', () => {
   test('should display category cards', async ({ page }) => {
-    await page.goto('/gallery');
+    await page.goto('/event-media');
     // Check that categories are visible
     await expect(page.locator('text=Weddings')).toBeVisible();
     await expect(page.locator('text=Glamour')).toBeVisible();
@@ -80,9 +114,9 @@ test.describe('Gallery', () => {
   });
 
   test('should navigate to category page', async ({ page }) => {
-    await page.goto('/gallery');
+    await page.goto('/event-media');
     await page.click('text=Weddings');
-    await expect(page).toHaveURL('/gallery/weddings');
+    await expect(page).toHaveURL('/event-media/weddings');
     await expect(page.locator('h1')).toContainText('Weddings');
   });
 });

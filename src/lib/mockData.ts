@@ -1,9 +1,4 @@
-import type {
-  Category,
-  Project,
-  SiteSettings,
-  ContentfulImage,
-} from '@/types';
+import type { Category, Project, SiteSettings, ContentfulImage } from '@/types';
 
 // Helper to generate picsum image URLs
 function generateImage(
@@ -143,6 +138,7 @@ export const mockProjects: Project[] = [
     featured: true,
     publishedDate: '2024-11-01',
     description: 'A series celebrating timeless beauty and grace.',
+    tags: ['corporate-conference'],
   },
   {
     id: 'proj-5',
@@ -164,8 +160,10 @@ export const mockProjects: Project[] = [
     images: generateProjectImages(300, 28),
     featured: true,
     publishedDate: '2024-11-10',
-    description: 'Three generations coming together for a special portrait session.',
+    description:
+      'Three generations coming together for a special portrait session.',
     location: 'City Park',
+    tags: ['corporate-conference'],
   },
   {
     id: 'proj-7',
@@ -221,6 +219,7 @@ export const mockProjects: Project[] = [
     featured: true,
     publishedDate: '2024-10-28',
     description: 'Professional headshots for corporate leaders.',
+    tags: ['corporate-video'],
   },
   {
     id: 'proj-12',
@@ -254,6 +253,7 @@ export const mockProjects: Project[] = [
     publishedDate: '2024-10-01',
     description: 'Exploring the city through a candid lens.',
     location: 'Downtown',
+    tags: ['corporate-video'],
   },
   {
     id: 'proj-15',
@@ -269,9 +269,27 @@ export const mockProjects: Project[] = [
 
 // Site Settings
 export const mockSiteSettings: SiteSettings = {
+  heroMedia: [
+    {
+      ...generateImage(1018, 1920, 1080),
+      contentType: 'image/jpeg',
+      kind: 'image',
+    },
+    {
+      url: 'https://cdn.coverr.co/videos/coverr-mountain-lake-1579/1080p.mp4',
+      width: 1920,
+      height: 1080,
+      title: 'Hero video',
+      contentType: 'video/mp4',
+      kind: 'video',
+    },
+    {
+      ...generateImage(1025, 1920, 1080),
+      contentType: 'image/jpeg',
+      kind: 'image',
+    },
+  ],
   heroImage: generateImage(1018, 1920, 1080),
-  heroTitle: 'Authentic Moments',
-  heroSubtitle: 'Captured with Heart',
   recentWorkCount: 6,
   photographerPhoto: generateImage(1012, 800, 1000),
   bio: `I'm a passionate photographer based in the heart of the city, dedicated to capturing life's most precious moments with authenticity and heart.
@@ -314,7 +332,9 @@ export async function getMockCategory(slug: string): Promise<Category | null> {
   return mockCategories.find((c) => c.slug === slug) || null;
 }
 
-export async function getMockProjects(categorySlug?: string): Promise<Project[]> {
+export async function getMockProjects(
+  categorySlug?: string
+): Promise<Project[]> {
   await new Promise((resolve) => setTimeout(resolve, 100));
   if (categorySlug) {
     return mockProjects.filter((p) => p.category.slug === categorySlug);
@@ -337,7 +357,8 @@ export async function getMockRecentWork(count: number): Promise<Project[]> {
   return [...mockProjects]
     .sort(
       (a, b) =>
-        new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime()
+        new Date(b.publishedDate).getTime() -
+        new Date(a.publishedDate).getTime()
     )
     .slice(0, count);
 }

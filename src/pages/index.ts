@@ -4,5 +4,8 @@ export { default as Category } from './Category';
 export { default as Project } from './Project';
 export { default as About } from './About';
 export { default as Contact } from './Contact';
+export { default as Conferences } from './Conferences';
+export { default as Videos } from './Videos';
+export { default as CorporateGallery } from './CorporateGallery';
 export { default as Livestream } from './Livestream';
 export { default as NotFound } from './NotFound';
