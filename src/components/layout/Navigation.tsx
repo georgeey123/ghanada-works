@@ -198,18 +198,6 @@ export default function Navigation({ className }: NavigationProps) {
         Contact
       </Link>
 
-      <Link
-        to="/livestream"
-        className={cn(
-          'px-4 py-2 text-sm font-medium rounded-md transition-colors',
-          isActive('/livestream')
-            ? 'text-neutral-900 dark:text-white'
-            : 'text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-white'
-        )}
-        aria-current={isActive('/livestream') ? 'page' : undefined}
-      >
-        Livestream
-      </Link>
     </nav>
   );
 }

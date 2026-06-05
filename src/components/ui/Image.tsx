@@ -7,6 +7,7 @@ interface ImageProps {
   alt?: string;
   width?: number;
   height?: number;
+  fit?: 'pad' | 'fill' | 'scale' | 'crop' | 'thumb';
   className?: string;
   priority?: boolean;
   onClick?: () => void;
@@ -17,6 +18,7 @@ export default function Image({
   alt,
   width,
   height,
+  fit,
   className,
   priority = false,
   onClick,
@@ -50,8 +52,9 @@ export default function Image({
         height: imageHeight,
         format: 'jpg',
         quality: 85,
+        fit,
       }),
-    [normalizedUrl, imageWidth, imageHeight]
+    [normalizedUrl, imageWidth, imageHeight, fit]
   );
 
   useEffect(() => {
@@ -111,7 +114,7 @@ export default function Image({
         onContextMenu={handleContextMenu}
         onClick={onClick}
         className={cn(
-          'w-full h-full object-cover transition-opacity duration-300 no-context-menu',
+          'w-full h-full object-cover object-center transition-opacity duration-300 no-context-menu',
           loaded ? 'opacity-100' : 'opacity-0',
           onClick && 'cursor-pointer'
         )}

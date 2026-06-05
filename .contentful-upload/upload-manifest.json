@@ -1,0 +1,3498 @@
+{
+  "generatedAt": "2026-05-14T15:11:45.708Z",
+  "sourceDir": "/Users/george/Downloads/AmazonPhotos",
+  "uploads": [
+    {
+      "fingerprint": "e612aad80c15737fa7eda9a16d358080a22d405e",
+      "relativePath": "038A0028 (2024-06-09T23_55_47.098).jpg",
+      "size": 14593636,
+      "assetId": "3yB4P6FuU8u2oT45aqf92e",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3yB4P6FuU8u2oT45aqf92e/5c5f9acbd517278f053c6e671950e99f/038A0028__2024-06-09T23_55_47.098_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:33:21.937Z"
+    },
+    {
+      "fingerprint": "0916cbd147e49f25beeeb91ba2c9efd61c5a6a66",
+      "relativePath": "038A0110 (2024-06-09T23_57_31.136).jpg",
+      "size": 8868833,
+      "assetId": "2eghAvMHQeEkTRytqy0UHT",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2eghAvMHQeEkTRytqy0UHT/02177cbd2b43426129ae52803c08631b/038A0110__2024-06-09T23_57_31.136_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:33:29.854Z"
+    },
+    {
+      "fingerprint": "af1003a3805eb16eb284e61431c679a3ee972abc",
+      "relativePath": "038A0021 (2024-06-09T23_55_41.724).jpg",
+      "size": 14955601,
+      "assetId": "5feCxDNBNMNpxXlXdYYIvz",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5feCxDNBNMNpxXlXdYYIvz/c69e63bd145766806f6556b11a74c268/038A0021__2024-06-09T23_55_41.724_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:33:35.837Z"
+    },
+    {
+      "fingerprint": "3cc9267ae122e460cd9fda78de7afe53755fe1f2",
+      "relativePath": "038A0112 (2024-06-09T23_57_33.576).jpg",
+      "size": 8879257,
+      "assetId": "61RCy2PS86Xm3UX3LPWFiR",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/61RCy2PS86Xm3UX3LPWFiR/d1d6d752ebb70b68fdba73eee4273664/038A0112__2024-06-09T23_57_33.576_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:33:36.381Z"
+    },
+    {
+      "fingerprint": "e2007d6ee461764dec2adcecbea41f58acd044ed",
+      "relativePath": "038A0108 (2024-06-09T23_57_28.830).jpg",
+      "size": 8323051,
+      "assetId": "3UidiOZGkAqpQWvNjdBjY2",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3UidiOZGkAqpQWvNjdBjY2/8b8d47886f5ec45fcfaa6c3262e567e1/038A0108__2024-06-09T23_57_28.830_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:33:40.021Z"
+    },
+    {
+      "fingerprint": "fe46a84992978c1a0fd0f29ae2b82645cb1b1d5a",
+      "relativePath": "038A0182 (2024-03-02T20_28_54.234).jpg",
+      "size": 12880834,
+      "assetId": "76e74Cftn3QO0IBsyUlxJ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/76e74Cftn3QO0IBsyUlxJ/57f315bc379eb221edb8b60d03862503/038A0182__2024-03-02T20_28_54.234_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:33:46.459Z"
+    },
+    {
+      "fingerprint": "421c3a1350d307783a62387034fee00570d30281",
+      "relativePath": "038A0237.jpg",
+      "size": 5369796,
+      "assetId": "6OpmYfE0jgsLpeOCaGqSe5",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6OpmYfE0jgsLpeOCaGqSe5/54ce8c95cd42c2fcb6cd2c70c0bed968/038A0237.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:33:53.358Z"
+    },
+    {
+      "fingerprint": "cb9a5a62a4912085d150891f767caf5582b44bb6",
+      "relativePath": "038A0262.jpg",
+      "size": 8699753,
+      "assetId": "50Qyn9CotEEQXViHdcIzj6",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/50Qyn9CotEEQXViHdcIzj6/3b04e3fe45ab7f083858b2c9d015458e/038A0262.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:34:04.511Z"
+    },
+    {
+      "fingerprint": "539c4b5a8582b2ca274d5d8b34137afbb4903be2",
+      "relativePath": "038A0348.jpg",
+      "size": 10054049,
+      "assetId": "RE3SbguwpfAkGVtOFwM2r",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/RE3SbguwpfAkGVtOFwM2r/398ce339c307b18ba029038860a8bd86/038A0348.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:34:12.173Z"
+    },
+    {
+      "fingerprint": "8a24fbbb7951d455700189f0f1a06774b6debf08",
+      "relativePath": "038A0229.jpg",
+      "size": 10213728,
+      "assetId": "57qDunmikypdftVHdjZvds",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/57qDunmikypdftVHdjZvds/f265fcd0e0f3fbd33d31b84461af481c/038A0229.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:34:12.302Z"
+    },
+    {
+      "fingerprint": "b931756e9f1a3202f32e72047ef506bce64ca091",
+      "relativePath": "038A0135 (2024-06-09T23_57_56.166).jpg",
+      "size": 11681203,
+      "assetId": "2xX4fZa7k0GBtfwuvtK7cy",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2xX4fZa7k0GBtfwuvtK7cy/a0d6ca28de486520cb09bdffe810cc80/038A0135__2024-06-09T23_57_56.166_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:34:14.968Z"
+    },
+    {
+      "fingerprint": "67837af449c7595362f54e5067053e83cf7af291",
+      "relativePath": "038A0420.jpg",
+      "size": 13798431,
+      "assetId": "tg5OGu6kKjoq1sqIRVjyT",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/tg5OGu6kKjoq1sqIRVjyT/b715340e228edaac5d442529ca854d18/038A0420.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:34:23.350Z"
+    },
+    {
+      "fingerprint": "9ade67aa89701bfaaebe971a96ef086169750f0b",
+      "relativePath": "038A0447.jpg",
+      "size": 14081588,
+      "assetId": "2Dtm5uitbdy0OXWnA3TOPT",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2Dtm5uitbdy0OXWnA3TOPT/8dd9a7d29a6b619c35fd55ca66f2520b/038A0447.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:34:25.893Z"
+    },
+    {
+      "fingerprint": "bf51d6f2e1a63ba681f86bd05cef7896454d1181",
+      "relativePath": "038A0452.jpg",
+      "size": 14598225,
+      "assetId": "1QKex2pssCx6r72AIovJ8g",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1QKex2pssCx6r72AIovJ8g/b1de92e67cc4b4120bd3a9eae8cc4145/038A0452.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:34:39.991Z"
+    },
+    {
+      "fingerprint": "e10ca10d9a23d561432cba60228332d5c095837c",
+      "relativePath": "038A1056.JPG",
+      "size": 8794499,
+      "assetId": "3sJ4v14bzXowWXvvH3r24F",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3sJ4v14bzXowWXvvH3r24F/4fcf59fe07ab1bae5d684a39bc4be1cc/038A1056.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:34:49.884Z"
+    },
+    {
+      "fingerprint": "3f37624a09e5c58b62a632d83073e4605736daff",
+      "relativePath": "038A1354.JPG",
+      "size": 14836918,
+      "assetId": "1zGxPj4mZkFrxE3vG6TgXj",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1zGxPj4mZkFrxE3vG6TgXj/08394def740538f7bfe2995f139ed5cc/038A1354.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:34:59.977Z"
+    },
+    {
+      "fingerprint": "5fabf2bf605f5dd44cbcefac5938f9d1f62050d9",
+      "relativePath": "038A0572.jpg",
+      "size": 13649934,
+      "assetId": "amFC7vijBeQIEkkOaSVpz",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/amFC7vijBeQIEkkOaSVpz/cf41b4778a5491ac26d9342a77215a45/038A0572.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:35:03.416Z"
+    },
+    {
+      "fingerprint": "615d349206d8c8d057b317a054cfbacd99866cd9",
+      "relativePath": "038A0359.jpg",
+      "size": 9845241,
+      "assetId": "4g3xWj1AOLdtPHIJHVoeCs",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4g3xWj1AOLdtPHIJHVoeCs/43777758a7e11423d37fa9e67d0da8b1/038A0359.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:35:07.922Z"
+    },
+    {
+      "fingerprint": "faeb4f50cd8054900cd24f30e7d3a895c81b3bbe",
+      "relativePath": "038A1372.JPG",
+      "size": 18987025,
+      "assetId": "63vZTdpUMX2ixGc9PUL26N",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/63vZTdpUMX2ixGc9PUL26N/35fb1928f6e1184dc16967f32fec995e/038A1372.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:35:11.619Z"
+    },
+    {
+      "fingerprint": "c551d463c1aed8ad9a5e68eada6a3b45e39d5fe9",
+      "relativePath": "038A1379.JPG",
+      "size": 14994547,
+      "assetId": "01aLfDdvRY3gpu3HMTZu5O",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/01aLfDdvRY3gpu3HMTZu5O/a4591a242790920e36f39026ad4cfe86/038A1379.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:35:20.601Z"
+    },
+    {
+      "fingerprint": "e08bd15e354790ecb9e806b4d6ea32ea78986577",
+      "relativePath": "038A1414.JPG",
+      "size": 19548182,
+      "assetId": "62qaC3WDwiDDcvfEkc8l4f",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/62qaC3WDwiDDcvfEkc8l4f/dff4e0a08806734679a6858fd75e0ae6/038A1414.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:35:33.199Z"
+    },
+    {
+      "fingerprint": "618b71ff38cb3873e15ed568948b142139ba9cb0",
+      "relativePath": "038A1374.JPG",
+      "size": 26279797,
+      "assetId": "5uNvX0hh6MFwuuK8f9sNzX",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5uNvX0hh6MFwuuK8f9sNzX/0d6254da25a22904d3ea023c5916448c/038A1374.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:35:35.413Z"
+    },
+    {
+      "fingerprint": "9894ae38097f3a2673c4d4fded5b46aabc4e4af9",
+      "relativePath": "038A1420.JPG",
+      "size": 18797563,
+      "assetId": "2MmJFOd9bhpLfVHJ6o6rmz",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2MmJFOd9bhpLfVHJ6o6rmz/3b363459228c653e526c9d8b6e3b5242/038A1420.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:35:45.392Z"
+    },
+    {
+      "fingerprint": "2631d7d6ff0342f1940d48402b9ac86f0b965a6c",
+      "relativePath": "038A1447.jpeg",
+      "size": 7253072,
+      "assetId": "39pVIfCOD8BTWzwvcbAEY5",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/39pVIfCOD8BTWzwvcbAEY5/ec1d32e6dbf45cac50a628c106b2e58a/038A1447.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:35:52.512Z"
+    },
+    {
+      "fingerprint": "24c13f9f412f2732dad52c18a9a8745ea420ab6c",
+      "relativePath": "038A1440.jpeg",
+      "size": 6924266,
+      "assetId": "C1AzK8Q4lgxT96l0UZmwY",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/C1AzK8Q4lgxT96l0UZmwY/fdac0e76bac8c0c2f244bb71e86acf62/038A1440.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:35:54.967Z"
+    },
+    {
+      "fingerprint": "0311ea63fae7f047e3c4c0e071dcef29ce105da9",
+      "relativePath": "038A1599.jpeg",
+      "size": 5353693,
+      "assetId": "aLQtlL6WSw6fmXFUAlavO",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/aLQtlL6WSw6fmXFUAlavO/21f31af6e9ae646502b23782d2f6d9e8/038A1599.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:35:58.416Z"
+    },
+    {
+      "fingerprint": "a932c163eca6abae0c79b915fed862eeb47f8b35",
+      "relativePath": "038A1682.jpeg",
+      "size": 4821632,
+      "assetId": "4E6IzA0hH9zsKcH24V7ygN",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4E6IzA0hH9zsKcH24V7ygN/0c9587b2f6775247d88ea4df206ea685/038A1682.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:00.404Z"
+    },
+    {
+      "fingerprint": "94d47e4a33ffb8a1414d959b175ef4a789d3ce38",
+      "relativePath": "038A1683.jpeg",
+      "size": 6669418,
+      "assetId": "7CBXATQmcZFeYX7GbYbxa5",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7CBXATQmcZFeYX7GbYbxa5/7ffd8eb415f6d6fba59bc83c009e8d0f/038A1683.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:05.070Z"
+    },
+    {
+      "fingerprint": "48ec089e964a2a7624fa56b6caee3bada7b584e8",
+      "relativePath": "038A1799.JPG",
+      "size": 7727616,
+      "assetId": "3DUPlIz8jkfxZS9uMqDVcW",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3DUPlIz8jkfxZS9uMqDVcW/f3c75507d9816cc14a829ef8d12a550d/038A1799.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:13.175Z"
+    },
+    {
+      "fingerprint": "cb23cd1f6b200e76ca1bc65d5325db50e831118e",
+      "relativePath": "038A1823.jpeg",
+      "size": 3677118,
+      "assetId": "32SJAnm0uvy5rHOwny3eCj",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/32SJAnm0uvy5rHOwny3eCj/98872ec6e77b10c909b069d08af9d06f/038A1823.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:18.211Z"
+    },
+    {
+      "fingerprint": "312c85272e012db82706bca4f53386113029a47d",
+      "relativePath": "038A1763.jpeg",
+      "size": 5108906,
+      "assetId": "JlSBjRr8HxtVjSRDzzK7f",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/JlSBjRr8HxtVjSRDzzK7f/08790ccf469d6d56f3ff6b3b104bef2e/038A1763.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:21.136Z"
+    },
+    {
+      "fingerprint": "2f234c62107fd5ec0b8f3e4dcf78ec651fe301be",
+      "relativePath": "038A1849.JPG",
+      "size": 11109349,
+      "assetId": "6Ac3NGaFyEGDMeuLSbrPAO",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6Ac3NGaFyEGDMeuLSbrPAO/8c460bb6d04ab76008664178d08dc047/038A1849.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:28.780Z"
+    },
+    {
+      "fingerprint": "ee242ded9b8abdb51582efcd3d55e8d3fafcd64c",
+      "relativePath": "038A1375.JPG",
+      "size": 24532562,
+      "assetId": "5l97KgFAGud06ulVKLZn8x",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5l97KgFAGud06ulVKLZn8x/55b4507f8a59e08373fed4243ea2167b/038A1375.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:34.897Z"
+    },
+    {
+      "fingerprint": "ab684bba46fead35b72390dd3248f3fcf16be548",
+      "relativePath": "038A1899.JPG",
+      "size": 8905183,
+      "assetId": "4tLE1SUJ2UMczSyykefsGp",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4tLE1SUJ2UMczSyykefsGp/cd680cbb4a26992e25624050f3805bf8/038A1899.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:39.577Z"
+    },
+    {
+      "fingerprint": "4b0ebaaa8474ad9d7d34f92ea8cd800c8bda707d",
+      "relativePath": "038A1903.JPG",
+      "size": 20581579,
+      "assetId": "1PYjPvaoYEleRa4S3RV077",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1PYjPvaoYEleRa4S3RV077/4c01302b594ce1b96fb076d3e3a0707f/038A1903.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:45.102Z"
+    },
+    {
+      "fingerprint": "84ea466eae59d4987ba84b6ab91fda646094a311",
+      "relativePath": "038A4262.JPG",
+      "size": 10087606,
+      "assetId": "3deZX9Z5kdEEpFslrVx14w",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3deZX9Z5kdEEpFslrVx14w/ba40125ff2ca0514b843bce475ce8070/038A4262.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:50.491Z"
+    },
+    {
+      "fingerprint": "06d88071a6ba68a03335d98253c60bf7c9ccc93b",
+      "relativePath": "038A5153.JPG",
+      "size": 1799099,
+      "assetId": "71IRLi9frMvcFlIrHjMCWW",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/71IRLi9frMvcFlIrHjMCWW/f49157ff88a72370082dd1b3b539ca09/038A5153.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:53.835Z"
+    },
+    {
+      "fingerprint": "ff163347ee64de5e7c6805bddcf745d8a72e960f",
+      "relativePath": "038A4308 (2021-11-12T18_28_30.265).JPG",
+      "size": 13925190,
+      "assetId": "4HfgpKZ1gx4uM4jlYcywLS",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4HfgpKZ1gx4uM4jlYcywLS/0f094aadc44a4930acdba4631e3fcec0/038A4308__2021-11-12T18_28_30.265_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:57.671Z"
+    },
+    {
+      "fingerprint": "ffc933cecace4de7f400285efa424f2da153489a",
+      "relativePath": "038A5157.JPG",
+      "size": 1953354,
+      "assetId": "13iKrYU4ynZhBuLKTOfcxq",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/13iKrYU4ynZhBuLKTOfcxq/b7c8048b4f07a86c565a236880ca933a/038A5157.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:36:59.431Z"
+    },
+    {
+      "fingerprint": "a2b638ca4d4656538d7d27527ea32fcdaec546a5",
+      "relativePath": "038A5165.JPG",
+      "size": 1514942,
+      "assetId": "5q0Kfi58tlCsrUFO1XIxpr",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5q0Kfi58tlCsrUFO1XIxpr/aeb52f41c08d9c8e06d850c0158590ee/038A5165.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:00.623Z"
+    },
+    {
+      "fingerprint": "4f77f1b0f02d8bf1df13f90329c93acf9cce8411",
+      "relativePath": "038A5185.JPG",
+      "size": 1803536,
+      "assetId": "5BFmrGQOvevZEQvtU909MU",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5BFmrGQOvevZEQvtU909MU/041ad66be1b3b35edbc81a8da9766ee2/038A5185.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:02.541Z"
+    },
+    {
+      "fingerprint": "9c2f5a36eb01600eda60b3eb6b00173a67c6de99",
+      "relativePath": "038A2154.jpeg",
+      "size": 30443636,
+      "assetId": "5Y2gIyVH5rncFwn029jsMK",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5Y2gIyVH5rncFwn029jsMK/85dbbc7acff80e8c4ff491768f210408/038A2154.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:03.175Z"
+    },
+    {
+      "fingerprint": "5f969936b6e49e942fcbdcf192646ae171816308",
+      "relativePath": "038A5190.JPG",
+      "size": 1789286,
+      "assetId": "5cjVm9tBcFutSebciZRXsG",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5cjVm9tBcFutSebciZRXsG/b8f5ccf2c0f9c26a02f4c4f6c64bc555/038A5190.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:04.213Z"
+    },
+    {
+      "fingerprint": "a1ad57eb9f597d1abf6c624d3c36430be684cf65",
+      "relativePath": "038A5208.JPG",
+      "size": 1835838,
+      "assetId": "1lWXilWRTGsIK2Id3uZleS",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1lWXilWRTGsIK2Id3uZleS/d4aabf995ef100fd7afe2d6c20053b6a/038A5208.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:06.670Z"
+    },
+    {
+      "fingerprint": "977e3368766ffcac34c4aa4387d20ecad00c4ddf",
+      "relativePath": "038A5300.JPG",
+      "size": 10817626,
+      "assetId": "5hj3zWEJ72pRMROcWXIS6u",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5hj3zWEJ72pRMROcWXIS6u/5c4ec3d0b325fa0ed446ec67dceaaa84/038A5300.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:13.074Z"
+    },
+    {
+      "fingerprint": "ce0da5fe233ae1666b53f3f8d3b5c00f7e16b697",
+      "relativePath": "038A5342.JPG",
+      "size": 7404015,
+      "assetId": "1uSFaB5m9NoBufJPuaJiBj",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1uSFaB5m9NoBufJPuaJiBj/dcb5941aaaf2a991778c4d3cbb724d65/038A5342.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:15.515Z"
+    },
+    {
+      "fingerprint": "d9c19a10a935029d60139f98ed3f25749a7fc107",
+      "relativePath": "038A5595.jpeg",
+      "size": 1980072,
+      "assetId": "2dtFoDHCHeO0nCieyC6p26",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2dtFoDHCHeO0nCieyC6p26/0e1cb481075b258d4b2bd8d690de5f88/038A5595.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:16.333Z"
+    },
+    {
+      "fingerprint": "44c753d4956f8e6f9f88f520056f2f145ee7da8e",
+      "relativePath": "038A5638.jpeg",
+      "size": 2650505,
+      "assetId": "VAqK30iiKMKEru3HtvJxf",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/VAqK30iiKMKEru3HtvJxf/b123da61cb085c6d623fd4c34c2fdd95/038A5638.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:19.950Z"
+    },
+    {
+      "fingerprint": "cfe12ef37fe4a0d6b02ade12c9e0512d86f87023",
+      "relativePath": "038A5312 (2022-08-08T18_06_28.200).JPG",
+      "size": 6080998,
+      "assetId": "3nQ52i7HZi7k4iSMgd2Ymu",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3nQ52i7HZi7k4iSMgd2Ymu/2971b98956063d3c44bdd9ce49092a3b/038A5312__2022-08-08T18_06_28.200_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:21.539Z"
+    },
+    {
+      "fingerprint": "1ba02557fe7f8e6fef1ea126803356093eab9e30",
+      "relativePath": "038A5774.jpeg",
+      "size": 2541577,
+      "assetId": "5NP7noKB8sYhydmU13QWzH",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5NP7noKB8sYhydmU13QWzH/375af067a03926c536490778eae6ff99/038A5774.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:24.013Z"
+    },
+    {
+      "fingerprint": "f15bbf0578671f9c77faa91c9438508a5df88995",
+      "relativePath": "038A5688.jpeg",
+      "size": 2660998,
+      "assetId": "38ucGR8CIamdxfwYI91uES",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/38ucGR8CIamdxfwYI91uES/79869fa927651bf3453edcdbd7e1295c/038A5688.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:24.808Z"
+    },
+    {
+      "fingerprint": "c21f5208e3aab8818ef706b2987400dcde09e12a",
+      "relativePath": "038A5778.jpeg",
+      "size": 3689026,
+      "assetId": "6f9GoAsLw5WrdR46RuSB4A",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6f9GoAsLw5WrdR46RuSB4A/72423f85cf47711415a8f2dd4a9f402f/038A5778.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:26.909Z"
+    },
+    {
+      "fingerprint": "ce6fd615975f50e90ee1921425ab9d5c20e7bb52",
+      "relativePath": "038A5779.jpeg",
+      "size": 2870131,
+      "assetId": "38hZoNia6cAU9axyC4tCpS",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/38hZoNia6cAU9axyC4tCpS/270dd1c3cca2d6f91b4ad7aaca6deaac/038A5779.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:28.842Z"
+    },
+    {
+      "fingerprint": "bbf551dca99fdcd81242c76c0b37939cfdf076ce",
+      "relativePath": "038A5795.jpeg",
+      "size": 3066480,
+      "assetId": "6xB0KgnLrrOVaEAmtjZAYC",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6xB0KgnLrrOVaEAmtjZAYC/a11a2c40a1b0cc513658e011c67d00d5/038A5795.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:31.659Z"
+    },
+    {
+      "fingerprint": "ea53400687f3cae28ae21d8938b059f6e7b52c14",
+      "relativePath": "038A5780.jpeg",
+      "size": 3647626,
+      "assetId": "7HVXE7IKmM8XGPjReRcNv5",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7HVXE7IKmM8XGPjReRcNv5/2cbad86fac4bf2f27f2ecb91fdfe3a99/038A5780.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:31.678Z"
+    },
+    {
+      "fingerprint": "f37403a966236bf552f6ead8d25a0b7864013c50",
+      "relativePath": "038A5808.jpeg",
+      "size": 2294594,
+      "assetId": "39hPajP9AR98wsT6IqP5vb",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/39hPajP9AR98wsT6IqP5vb/44a7d7457863866c102f8886bf18c67f/038A5808.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:33.780Z"
+    },
+    {
+      "fingerprint": "f26b3ad2951ad56524efde13321e41976f247d26",
+      "relativePath": "038A5814.jpeg",
+      "size": 2956709,
+      "assetId": "3msA3BTQE0Ua9Ftp1BHY9h",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3msA3BTQE0Ua9Ftp1BHY9h/d1874f58e792230e5e38af4bf3890595/038A5814.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:43.836Z"
+    },
+    {
+      "fingerprint": "82b44fa9540632eab36c5073b805bbeec06e1b4a",
+      "relativePath": "038A6745.jpg",
+      "size": 19515300,
+      "assetId": "3zKD39ckTHtNj7C8PKvXEa",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3zKD39ckTHtNj7C8PKvXEa/1258a13fa435ad68da0dec08121836f7/038A6745.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:47.949Z"
+    },
+    {
+      "fingerprint": "dc61c6453e6bc150a9977db92410a51605c32cb0",
+      "relativePath": "038A7982.jpeg",
+      "size": 2518061,
+      "assetId": "5oR9lZKDwOk4tMJDhR9a6E",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5oR9lZKDwOk4tMJDhR9a6E/9f2b79f026d1216c4a811b841315a6f4/038A7982.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:48.748Z"
+    },
+    {
+      "fingerprint": "6900e12f272c6266044d41d0abb008edb3cbeb0d",
+      "relativePath": "038A6775.jpg",
+      "size": 18338096,
+      "assetId": "3ZqBrhRj19wpi3tyIvvYcZ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3ZqBrhRj19wpi3tyIvvYcZ/cab9b4773883a21fba9fd2538b774696/038A6775.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:50.825Z"
+    },
+    {
+      "fingerprint": "8cad2d2c252abc2e3c1632698f78bd38d4831a23",
+      "relativePath": "038A7990.jpeg",
+      "size": 3449818,
+      "assetId": "23ylzlZfpvdsB4qZ6seTHh",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/23ylzlZfpvdsB4qZ6seTHh/f2b82d67488cf0046d8a7c3747287da5/038A7990.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:52.193Z"
+    },
+    {
+      "fingerprint": "f88d75fde55d8b49c70ba058da403c022a8c4ea0",
+      "relativePath": "038A7997.jpeg",
+      "size": 2510856,
+      "assetId": "3V61MdOiuHocfMoV6ZU8oF",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3V61MdOiuHocfMoV6ZU8oF/2841e6cbf78d606e25a211395f49b023/038A7997.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:55.584Z"
+    },
+    {
+      "fingerprint": "095eabec4f381f8e4aa01ef63ae30ba021c04239",
+      "relativePath": "038A8000.jpeg",
+      "size": 2673684,
+      "assetId": "3EtSXgB5xbNezeC2QoWZiY",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3EtSXgB5xbNezeC2QoWZiY/00d000cad0008f853ef2c21a67eee3f6/038A8000.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:55.682Z"
+    },
+    {
+      "fingerprint": "c23cd55fba9721191b1dd4d1c6eff1103992ef4e",
+      "relativePath": "038A8009.jpeg",
+      "size": 2608928,
+      "assetId": "2EP0XWxujdW8baiOw5RKge",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2EP0XWxujdW8baiOw5RKge/6103ed9be4c9d4c549a86896d664c070/038A8009.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:59.067Z"
+    },
+    {
+      "fingerprint": "70a2a8646ec10f9a1cef816ab5f1516a54a2c92f",
+      "relativePath": "038A8026.jpeg",
+      "size": 2572252,
+      "assetId": "3bKzTCW1KLw5pV2k7CmnTc",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3bKzTCW1KLw5pV2k7CmnTc/16c2029459987d14ec9ffb8048393d20/038A8026.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:37:59.319Z"
+    },
+    {
+      "fingerprint": "b9f176e23bd9e6a0afe1ffa8ddbee4901aa61359",
+      "relativePath": "038A8017.jpeg",
+      "size": 2851998,
+      "assetId": "2WgRw8kvYJA8Dhzx5z3yYu",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2WgRw8kvYJA8Dhzx5z3yYu/5834a494c1e6f5343c42ad83d3f8981a/038A8017.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:00.150Z"
+    },
+    {
+      "fingerprint": "184a13e69c16df494025cacc8f5be8c207574487",
+      "relativePath": "038A8030.jpeg",
+      "size": 3044271,
+      "assetId": "272L5WiwjguasOXVocubcg",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/272L5WiwjguasOXVocubcg/1febb4c94168d89835a2b3cc0554e119/038A8030.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:04.194Z"
+    },
+    {
+      "fingerprint": "3127783937e7eefbc312e7f2cfb9c257daa38eec",
+      "relativePath": "038A8035.jpeg",
+      "size": 2966116,
+      "assetId": "5ksvP0ycSIaYFDLshVTptu",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5ksvP0ycSIaYFDLshVTptu/bdd633e9680e32b1a9f073f6e84e4cb1/038A8035.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:05.385Z"
+    },
+    {
+      "fingerprint": "40960642da9efb7754faf7ae3a1f4875453ee3f6",
+      "relativePath": "038A8036.jpeg",
+      "size": 2943909,
+      "assetId": "30eKebhz4AcpXpjoEh2Dol",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/30eKebhz4AcpXpjoEh2Dol/bb2404cbd1295261fe38e6ef3b8c8019/038A8036.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:05.750Z"
+    },
+    {
+      "fingerprint": "f9c0d65d7b941741f1d782666a73f7cc9262b4de",
+      "relativePath": "038A8054.jpeg",
+      "size": 2815765,
+      "assetId": "4XbcJvuVjMp2fhzSo2aeMb",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4XbcJvuVjMp2fhzSo2aeMb/08daf5c6475aece0e51d4111b5fb9894/038A8054.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:08.078Z"
+    },
+    {
+      "fingerprint": "30d725485055284ec1d096178bdc3566b6676751",
+      "relativePath": "038A8086.jpeg",
+      "size": 2538874,
+      "assetId": "F2UDE56exD1iKx3zEHUgN",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/F2UDE56exD1iKx3zEHUgN/77ac2ed68426d1f1aa791db14f360c25/038A8086.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:09.258Z"
+    },
+    {
+      "fingerprint": "ec1a7f0fe91d5acf8a7a3678074bf19bb1c1c1cc",
+      "relativePath": "038A8060.jpeg",
+      "size": 2692244,
+      "assetId": "oPdo8DpKgW3Kp0GXp0xk7",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/oPdo8DpKgW3Kp0GXp0xk7/12975269d957510341e487665e637df5/038A8060.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:10.562Z"
+    },
+    {
+      "fingerprint": "4b0f4e43e7435a23c99c3425fb0d21d6a9b73ece",
+      "relativePath": "038A8099.jpeg",
+      "size": 2836466,
+      "assetId": "4yA8ECA5uBVNVvUCdg6rQy",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4yA8ECA5uBVNVvUCdg6rQy/416f6952e9a0d0de872aad069cef9adc/038A8099.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:11.822Z"
+    },
+    {
+      "fingerprint": "3617ad951f4e5b618b0ebfd06d97390413664aac",
+      "relativePath": "038A8597.jpg",
+      "size": 13737280,
+      "assetId": "4JERk6Ww64ScyjhlkyNJsl",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4JERk6Ww64ScyjhlkyNJsl/f453828a6e8dcfa0739807655501beca/038A8597.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:26.109Z"
+    },
+    {
+      "fingerprint": "5b5e87ee25d3a6b6144a6e640360b01864fdb684",
+      "relativePath": "038A8614.jpg",
+      "size": 14060077,
+      "assetId": "7AYpz34iI6N6P7uYtVf8Gr",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7AYpz34iI6N6P7uYtVf8Gr/5dec1f6bbafc9b0715852c2e38f4bd22/038A8614.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:30.700Z"
+    },
+    {
+      "fingerprint": "ef54fb1968b8a3baa418fee831ab36a96356c015",
+      "relativePath": "038A9615.jpeg",
+      "size": 4237728,
+      "assetId": "6iVgXdlB6mx3SzHNao7qJT",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6iVgXdlB6mx3SzHNao7qJT/8411b6a883459204757b1a56b8a67989/038A9615.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:35.990Z"
+    },
+    {
+      "fingerprint": "ccd25af13280aee6e12d5baf06eb834a8d7ca1bc",
+      "relativePath": "038A9690 (2022-10-15T16_36_04.352) (1).jpeg",
+      "size": 3130462,
+      "assetId": "5mNEfdGKmtCL5ypI4g0XHN",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5mNEfdGKmtCL5ypI4g0XHN/11c2ac66090e9ae7c960f7fa95283f91/038A9690__2022-10-15T16_36_04.352___1_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:40.287Z"
+    },
+    {
+      "fingerprint": "230afbe377094f851861c73f78008f0a36acd7ae",
+      "relativePath": "038A8381.jpeg",
+      "size": 28951006,
+      "assetId": "6FI4upCTSthKwIOs4gc9MK",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6FI4upCTSthKwIOs4gc9MK/afe3dc27a1a861e56a07f2e55021c35d/038A8381.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:40.386Z"
+    },
+    {
+      "fingerprint": "ea789df9c597b562611ac4ee1c5c54668631627f",
+      "relativePath": "038A9698 (2022-10-15T16_36_21.666).jpeg",
+      "size": 3764126,
+      "assetId": "3byh7q9gsgtNHuO3nTsyDM",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3byh7q9gsgtNHuO3nTsyDM/b60ab8403cf25494754e2bb6907db014/038A9698__2022-10-15T16_36_21.666_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:42.364Z"
+    },
+    {
+      "fingerprint": "77b77e8e03d580a21cecd5ab6ab9a932ec764099",
+      "relativePath": "038A9724 (2022-10-15T16_37_02.559).jpeg",
+      "size": 5294584,
+      "assetId": "5sjFEHMIzxzKEH0iLrfBJE",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5sjFEHMIzxzKEH0iLrfBJE/13669a5351991f0aada6ce470105aeb0/038A9724__2022-10-15T16_37_02.559_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:49.461Z"
+    },
+    {
+      "fingerprint": "db74752d2e67da2ff5695260655ef6babacbd50b",
+      "relativePath": "038A9731 (2022-10-15T16_37_07.269).jpeg",
+      "size": 4671816,
+      "assetId": "1jwph0i7IqPl6HkMatOjnH",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1jwph0i7IqPl6HkMatOjnH/3360e6443238d1811fc01d188e4fb6ef/038A9731__2022-10-15T16_37_07.269_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:49.732Z"
+    },
+    {
+      "fingerprint": "1b48b4d8dda4e4e7dba2c3190544a53bd3a6cde9",
+      "relativePath": "104007694_635300307069450_783362115973244027_n.jpg",
+      "size": 49493,
+      "assetId": "7udWmuyzM1pVSleTOvx3XT",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7udWmuyzM1pVSleTOvx3XT/d127b5d72a0c96f67f8248b3083fb651/104007694_635300307069450_783362115973244027_n.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:53.192Z"
+    },
+    {
+      "fingerprint": "a425ffd2a9a1dc00dc2de09d32bdedd3c7117cb3",
+      "relativePath": "20140208_172407-1.jpg",
+      "size": 2533300,
+      "assetId": "65jmyaAK5uZQgUEMM2alXU",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/65jmyaAK5uZQgUEMM2alXU/c7aef02ff3b2403b31f319ecbf8f36c9/20140208_172407-1.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:56.029Z"
+    },
+    {
+      "fingerprint": "9cf58220225d872ca638de96cda7a1a125e684e3",
+      "relativePath": "20240221_102415.jpg",
+      "size": 2651480,
+      "assetId": "cxi9TPEOP61Z7raxIgG9I",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/cxi9TPEOP61Z7raxIgG9I/72d17ee09083af0df292c8fcf6c62e78/20240221_102415.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:38:59.534Z"
+    },
+    {
+      "fingerprint": "1e5131fa2cb1b89a9c095b631d66573397aa5b49",
+      "relativePath": "20240221_102425.jpg",
+      "size": 2827280,
+      "assetId": "2ACV9E3J8SwZRIkD4ZjtwQ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2ACV9E3J8SwZRIkD4ZjtwQ/493401c12e7144652ad7525fcf1f7388/20240221_102425.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:39:01.379Z"
+    },
+    {
+      "fingerprint": "7c7ba2fb80212e9d211772133f0e42b114e425d5",
+      "relativePath": "1 (86).jpg",
+      "size": 10190898,
+      "assetId": "1TAden76daWfwQu9vCDgaU",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1TAden76daWfwQu9vCDgaU/e92406461bb84be910bd5a43f1b74488/1__86_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:39:02.834Z"
+    },
+    {
+      "fingerprint": "717be7735283a4c6c97b6a0808e9e41fc1d58263",
+      "relativePath": "20240221_124055.jpg",
+      "size": 3079216,
+      "assetId": "5YcwrvQXbS0cI2gCUEzur1",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5YcwrvQXbS0cI2gCUEzur1/18cd1f4be8319063e6df1d17ea11bcf6/20240221_124055.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:39:06.166Z"
+    },
+    {
+      "fingerprint": "6fe2bb285c835b8d594133732ecf44f599e7d379",
+      "relativePath": "20240221_125303 (1).jpg",
+      "size": 2769612,
+      "assetId": "67AZG5zOpEayiQFJOP6Xv3",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/67AZG5zOpEayiQFJOP6Xv3/de321908efdebf410dae2b6fd888e802/20240221_125303__1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:39:11.991Z"
+    },
+    {
+      "fingerprint": "90e4e9a8aac41a1c9f91beaafe4ca7c203a333e8",
+      "relativePath": "27TH CROWN SHOOT (311)a.jpg",
+      "size": 5560804,
+      "assetId": "01rSqsa3EE1WqgSDyhndHO",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/01rSqsa3EE1WqgSDyhndHO/7c8291e0b623082fba6dcaf613ed5b1b/27TH_CROWN_SHOOT__311_a.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:39:14.194Z"
+    },
+    {
+      "fingerprint": "89fdbe976e67eb8669b36f873104dafbd89429ef",
+      "relativePath": "27TH CROWN SHOOT (428)A.jpg",
+      "size": 15730602,
+      "assetId": "4syBeZfQxv94kICu1RSGyj",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4syBeZfQxv94kICu1RSGyj/ccc841f41d3249493f740932459967a6/27TH_CROWN_SHOOT__428_A.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:39:28.261Z"
+    },
+    {
+      "fingerprint": "5af2e833baf05c3f17f85a5f5d82980be5321605",
+      "relativePath": "27TH CROWN SHOOT (254)-2A.jpg",
+      "size": 9366652,
+      "assetId": "3kB8e5XqavyCCwh3FEY4r9",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3kB8e5XqavyCCwh3FEY4r9/5c9ceb40ee3a513dcdc8bed9731f37ff/27TH_CROWN_SHOOT__254_-2A.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:39:30.284Z"
+    },
+    {
+      "fingerprint": "86600ba819065b78d169e674df91a168e25e2e8e",
+      "relativePath": "27TH CROWN SHOOT (455)-2i.jpg",
+      "size": 10107771,
+      "assetId": "6u3S6U7frDm8bjjTOW6wIg",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6u3S6U7frDm8bjjTOW6wIg/682388ac43fbd3a999952121d2bf7bba/27TH_CROWN_SHOOT__455_-2i.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:39:36.744Z"
+    },
+    {
+      "fingerprint": "5ecac47f21cc8f01940f9645068c180b3d26afa9",
+      "relativePath": "3 (58).jpg",
+      "size": 5726491,
+      "assetId": "7pi0CsvtQ0eBhNt2EI4K63",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7pi0CsvtQ0eBhNt2EI4K63/341327e7d647cb9b411b66506a6988f8/3__58_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:39:36.866Z"
+    },
+    {
+      "fingerprint": "2191865d7d6acc98d727e8fe1a37c1c4315d1c53",
+      "relativePath": "4C5A2118.jpeg",
+      "size": 23572796,
+      "assetId": "eTneYdEcYcNM5qAisZPNt",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/eTneYdEcYcNM5qAisZPNt/931fb42ef1905084b52571dd3c5d5894/4C5A2118.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:39:54.967Z"
+    },
+    {
+      "fingerprint": "d3a7ceec28fde60f8e8ce2d7c5c6e2b9d1457289",
+      "relativePath": "3.jpg",
+      "size": 9764931,
+      "assetId": "5xJbD23I7o5ot7w7XxrN2i",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5xJbD23I7o5ot7w7XxrN2i/750a7f981437045da005d170200ebe24/3.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:39:56.451Z"
+    },
+    {
+      "fingerprint": "3d116a477950529cbf12702565c0119e2e03991d",
+      "relativePath": "4C5A2120.jpeg",
+      "size": 24658598,
+      "assetId": "61s0VZbflIXnuprlfTfQXr",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/61s0VZbflIXnuprlfTfQXr/93cfc7b75765baa6c8a8a9a5ada1a611/4C5A2120.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:00.913Z"
+    },
+    {
+      "fingerprint": "7c97f5f2140ca276775ac3a3386a7f3048cf61f4",
+      "relativePath": "AKUA XMAS SHOOT (147).jpg",
+      "size": 7616218,
+      "assetId": "3MGS009Uadjuo6axbv4gAY",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3MGS009Uadjuo6axbv4gAY/7f8dad5ba440cd0e84fb209b57c583ca/AKUA_XMAS_SHOOT__147_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:09.307Z"
+    },
+    {
+      "fingerprint": "84d59730f464207865451ce433882b6f2a4d747c",
+      "relativePath": "4C5A2244.jpeg",
+      "size": 23471581,
+      "assetId": "lNfpDoAVb1SOLINhTsfFl",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/lNfpDoAVb1SOLINhTsfFl/126cb894ca0c74afe9d461602ce03813/4C5A2244.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:09.784Z"
+    },
+    {
+      "fingerprint": "12035671f8c8e5a9a68161b1ea6af2b28af960cd",
+      "relativePath": "AKUA XMAS SHOOT (16).jpg",
+      "size": 7799168,
+      "assetId": "5xRBH7CLaPfoRLY1I7L1jN",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5xRBH7CLaPfoRLY1I7L1jN/dfbc32b18c2f6e710f58555c73db4ee1/AKUA_XMAS_SHOOT__16_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:18.039Z"
+    },
+    {
+      "fingerprint": "22d4a040d27b0577d210c8846a7ee313f5645920",
+      "relativePath": "AKUA XMAS SHOOT (29).jpg",
+      "size": 11467056,
+      "assetId": "2iywAaMiAPYCjLfo7LM8ig",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2iywAaMiAPYCjLfo7LM8ig/13d943d0dddd75fc704087aeabf75b0c/AKUA_XMAS_SHOOT__29_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:19.313Z"
+    },
+    {
+      "fingerprint": "e0bf0102602ee22ea369a3a165f63b38fd29548e",
+      "relativePath": "AKUA XMAS SHOOT (333).jpg",
+      "size": 10534622,
+      "assetId": "5uo2AclH0a5KwVQolZ17zu",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5uo2AclH0a5KwVQolZ17zu/c2706c8aa60115ff5d5c3f724d46be83/AKUA_XMAS_SHOOT__333_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:29.613Z"
+    },
+    {
+      "fingerprint": "4c0b7ca20e35aa6291a16ea8eea2446ed7cbe517",
+      "relativePath": "AKUA XMAS SHOOT (331).jpg",
+      "size": 11760293,
+      "assetId": "11BRaqijQfrbeVF8GGNA7L",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/11BRaqijQfrbeVF8GGNA7L/8818d5c20034712554fc213ed85acb14/AKUA_XMAS_SHOOT__331_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:29.905Z"
+    },
+    {
+      "fingerprint": "0d8f69c6e9aa3adc54d4522147bfc7377e283234",
+      "relativePath": "AKUA XMAS SHOOT (407).jpg",
+      "size": 7470970,
+      "assetId": "5pyS0IHqQNcZ9PTjWzNQdN",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5pyS0IHqQNcZ9PTjWzNQdN/b1a61b262aa0f5d468c401b401c3d5f5/AKUA_XMAS_SHOOT__407_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:37.200Z"
+    },
+    {
+      "fingerprint": "66de8232ea8a779f94ebbf07d9ed8e74cde0466b",
+      "relativePath": "AKUA XMAS SHOOT (459).jpg",
+      "size": 11149152,
+      "assetId": "Z7cUTgYf6G0fmhEPy8kzy",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/Z7cUTgYf6G0fmhEPy8kzy/0c43655c12e716a7ca8fc35824031c49/AKUA_XMAS_SHOOT__459_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:41.041Z"
+    },
+    {
+      "fingerprint": "06779fbb95d88b58f6bf8ae17f9200019c532bb4",
+      "relativePath": "AN (98).JPG",
+      "size": 14517994,
+      "assetId": "68DOw2JNvqbSMTceRf75kQ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/68DOw2JNvqbSMTceRf75kQ/48c53ed6c0ae1b54a2916b9f9c352fcd/AN__98_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:47.540Z"
+    },
+    {
+      "fingerprint": "14545049395b48f41c44a14962bb97de2c8283c4",
+      "relativePath": "ANISA  (8)A.jpg",
+      "size": 5310689,
+      "assetId": "6ZbvgTWTICDes3aMoZT10e",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6ZbvgTWTICDes3aMoZT10e/c7bf0a15b69c2b2e704b27fd86c30e39/ANISA___8_A.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:47.725Z"
+    },
+    {
+      "fingerprint": "a8ff44e94ff596d5a550f427052bfcf8b4803ab5",
+      "relativePath": "BIRTHDAY SHOOT_29.JPG",
+      "size": 5801979,
+      "assetId": "5WNP0jHb7KoxUSFyo224nm",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5WNP0jHb7KoxUSFyo224nm/f395d796a7015667ce5077e2efdcb7fa/BIRTHDAY_SHOOT_29.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:54.960Z"
+    },
+    {
+      "fingerprint": "d7e90353ff9d5fbd60c17b956df2fb7f248236f7",
+      "relativePath": "BIRTHDAY SHOOT_31.JPG",
+      "size": 7085831,
+      "assetId": "9gUi58DxZSrgexZZ6GNBm",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/9gUi58DxZSrgexZZ6GNBm/f25f747c820cd479ffe582124a625062/BIRTHDAY_SHOOT_31.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:40:56.359Z"
+    },
+    {
+      "fingerprint": "47605a6a1fedf29ebbc687b5469537c8a88be02f",
+      "relativePath": "CHIDERA 2022_127.jpeg",
+      "size": 4469344,
+      "assetId": "6fmEGWQJIjGrRgNGdh5iCh",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6fmEGWQJIjGrRgNGdh5iCh/f6b5734436aca5e118b8f86d48279d74/CHIDERA_2022_127.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:41:05.300Z"
+    },
+    {
+      "fingerprint": "3558b7dcefaacbe06b3c3f3e282b44df000ff7f0",
+      "relativePath": "CHIDE (75) (2022-01-01T22_55_57.911).jpeg",
+      "size": 15987337,
+      "assetId": "I3HwTC7KAycQ989hnh64G",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/I3HwTC7KAycQ989hnh64G/d980cbdaf179224750e4da86bf99fd96/CHIDE__75___2022-01-01T22_55_57.911_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:41:10.296Z"
+    },
+    {
+      "fingerprint": "d332250f30f34d6e33555139ea76805f9866d93d",
+      "relativePath": "CHIDERA 2022_151.jpeg",
+      "size": 6871221,
+      "assetId": "5enN8HWOsWsrIfPf58A7gb",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5enN8HWOsWsrIfPf58A7gb/a3440a8501158c888492b9f91abe0f97/CHIDERA_2022_151.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:41:17.925Z"
+    },
+    {
+      "fingerprint": "5c92e05a45e032044345541dc2e4acbafc4b7ac8",
+      "relativePath": "CHIDERA 2022_184.jpg",
+      "size": 5039486,
+      "assetId": "6KpmNEyxrejiYF3WeP3E58",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6KpmNEyxrejiYF3WeP3E58/d3990fe03cde98ffc629c6ad9ab83741/CHIDERA_2022_184.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:41:19.613Z"
+    },
+    {
+      "fingerprint": "ae4654ee4e2d68fb357e2f22298ca0d9e4d3c47c",
+      "relativePath": "CHIDERA 2022_286.jpg",
+      "size": 16006551,
+      "assetId": "6ptDDA2U052aVmxfoVjdbZ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6ptDDA2U052aVmxfoVjdbZ/1d5b3e93b59e174dc4ec239563f31215/CHIDERA_2022_286.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:41:34.739Z"
+    },
+    {
+      "fingerprint": "d05a8e27b862b2de2a50d4d521251b7706d021be",
+      "relativePath": "4C5A2246.jpeg",
+      "size": 25901571,
+      "assetId": "1USYD7rCEkVm7jvsh2nZsD",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1USYD7rCEkVm7jvsh2nZsD/0dc5c401e88ce706abf47af9b3b0f635/4C5A2246.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:41:39.474Z"
+    },
+    {
+      "fingerprint": "71d0b30f84b5e71e807d012456c38d9b7f669790",
+      "relativePath": "CHIDERA 2022_87.jpg",
+      "size": 7664347,
+      "assetId": "5SwtqLKulkTJCjgK5yiNjJ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5SwtqLKulkTJCjgK5yiNjJ/07836609764246234cd5f5f538381dd4/CHIDERA_2022_87.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:41:44.683Z"
+    },
+    {
+      "fingerprint": "74335e1fc90d798cdf430f1a83b45ae35bfd3e6b",
+      "relativePath": "CHIDERA 2022_86.jpg",
+      "size": 7898634,
+      "assetId": "2FBxW8LAsWGuY74SqcW2zc",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2FBxW8LAsWGuY74SqcW2zc/dd874a5bd613ce33e693c60a6295397a/CHIDERA_2022_86.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:41:47.167Z"
+    },
+    {
+      "fingerprint": "a1f545d38aca4cdd5cff9378dbde43f367bb5a61",
+      "relativePath": "COMFORT (173).jpg",
+      "size": 8827793,
+      "assetId": "5XBT5O5oBNJQavZMr0QAaS",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5XBT5O5oBNJQavZMr0QAaS/1035901984fcb4fcca9d6fa0cf1d9f51/COMFORT__173_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:41:55.315Z"
+    },
+    {
+      "fingerprint": "eadc317e6c48ed5a408a6f545a0f102194c04f55",
+      "relativePath": "DJI_0129.JPG",
+      "size": 4224334,
+      "assetId": "601HqDFAFepUEJuCFByskB",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/601HqDFAFepUEJuCFByskB/591aae4e507f14b9a6965bb63a331f0d/DJI_0129.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:41:56.149Z"
+    },
+    {
+      "fingerprint": "c8d454db1c9871caa8760a3455e3cc201aaf04c0",
+      "relativePath": "CHIDERA 2022_88.jpg",
+      "size": 8041296,
+      "assetId": "3O3slULqBKRPUvzNoSNxf3",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3O3slULqBKRPUvzNoSNxf3/c32865ac7819c23f6c3a8b0ef181512b/CHIDERA_2022_88.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:42:28.265Z"
+    },
+    {
+      "fingerprint": "87563eef5848add9e045b257e5be8de876ecead4",
+      "relativePath": "DSC00875.jpeg",
+      "size": 29306583,
+      "assetId": "68iRKvb6wxCGwq7jYceIkh",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/68iRKvb6wxCGwq7jYceIkh/85babd6a29cd042de8a2ab317ac20975/DSC00875.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:42:35.452Z"
+    },
+    {
+      "fingerprint": "419358ac90011942ba553c0cc17129c294dd8eba",
+      "relativePath": "DSC00772 (2023-10-18T14_03_54.799).jpeg",
+      "size": 31709414,
+      "assetId": "2oeRcVvwTL5ELPAtvnjD5c",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2oeRcVvwTL5ELPAtvnjD5c/1156e3ce7f87eaee94c33dc36a72cb3f/DSC00772__2023-10-18T14_03_54.799_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:42:36.137Z"
+    },
+    {
+      "fingerprint": "7ae58ef5570f1bfe2478d1fd3c0b99b08875dae9",
+      "relativePath": "DSC01040 (2023-10-18T05_26_30.604).jpeg",
+      "size": 28519471,
+      "assetId": "5jYgKi3cttf19RTxQxCiTC",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5jYgKi3cttf19RTxQxCiTC/3127ea0217719e65f34cadec66a0e919/DSC01040__2023-10-18T05_26_30.604_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:43:09.712Z"
+    },
+    {
+      "fingerprint": "3c5ad1b99a21053e5f955b8787409d26ad2f9cae",
+      "relativePath": "DSC01038 (2023-10-18T05_27_01.039).jpeg",
+      "size": 29144656,
+      "assetId": "4WkRoBRI9CQ5B4Z54dNH4O",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4WkRoBRI9CQ5B4Z54dNH4O/6570808040eb085a5773e4d529cf7f44/DSC01038__2023-10-18T05_27_01.039_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:43:20.024Z"
+    },
+    {
+      "fingerprint": "06b5953a31786cef95194d8c676424a13d576384",
+      "relativePath": "DSC02906.jpeg",
+      "size": 17614347,
+      "assetId": "2Ikx15WmcveFpjFfpQyC7n",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2Ikx15WmcveFpjFfpQyC7n/90c3e20321c180b49cd24ec31dcfb08e/DSC02906.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:43:22.524Z"
+    },
+    {
+      "fingerprint": "28510f072e14a8788c62bd5595d9bf25bde690e2",
+      "relativePath": "DSC03618 (2023-08-23T06_10_21.794).jpg",
+      "size": 8801745,
+      "assetId": "5rla3N81PgP4NtXxWBWUEV",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5rla3N81PgP4NtXxWBWUEV/9b094246101673573ccc367311cec80b/DSC03618__2023-08-23T06_10_21.794_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:43:34.793Z"
+    },
+    {
+      "fingerprint": "c2e677c161265becc41ad8490b147ff6a3f99b94",
+      "relativePath": "DSC03635 (1).jpg",
+      "size": 4774311,
+      "assetId": "6553I9BUzWmaX06Qfnu9C1",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6553I9BUzWmaX06Qfnu9C1/1287dfe0951e5faf3121f219a3ae8d8e/DSC03635__1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:43:43.424Z"
+    },
+    {
+      "fingerprint": "53d7c7eb904b992abe421981d178121b98c52456",
+      "relativePath": "DSC03641.jpg",
+      "size": 9418375,
+      "assetId": "2glmJEhDdMpa9wb107AT3J",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2glmJEhDdMpa9wb107AT3J/62b2a179c5b9b9c8f967c0edb2985479/DSC03641.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:43:52.681Z"
+    },
+    {
+      "fingerprint": "0c5251073f613a130add01ec4728bcdd80654ff1",
+      "relativePath": "DSC03643.jpg",
+      "size": 9658887,
+      "assetId": "c08ncQnNJmHR7YfmAURMU",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/c08ncQnNJmHR7YfmAURMU/6a30e3ed06f6a90299bed9fdba17ed4e/DSC03643.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:44:00.596Z"
+    },
+    {
+      "fingerprint": "5d2627ba315aa8209b3360debca0661371844cee",
+      "relativePath": "DSC03654 (2023-08-23T06_12_03.593).jpg",
+      "size": 10559369,
+      "assetId": "23iqp1zh0p4zqBpe42lvbA",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/23iqp1zh0p4zqBpe42lvbA/3f9ae504b33198d2bfb48374bb99cb20/DSC03654__2023-08-23T06_12_03.593_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:44:11.141Z"
+    },
+    {
+      "fingerprint": "4d054680386b8da06796c0c36a23cf79b055e851",
+      "relativePath": "DSC03677 (2023-08-23T06_13_07.931) (1).jpg",
+      "size": 5277491,
+      "assetId": "7AdRyV0t3XC7bae2dSqsPH",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7AdRyV0t3XC7bae2dSqsPH/904f371c52c4b0f2e1ed22e78526757b/DSC03677__2023-08-23T06_13_07.931___1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:44:17.695Z"
+    },
+    {
+      "fingerprint": "58c0f9e743155c8737ac25bd3729785522fa8948",
+      "relativePath": "DSC03217.jpeg",
+      "size": 24449725,
+      "assetId": "aBdxw7MgGlSRTsj7tukcR",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/aBdxw7MgGlSRTsj7tukcR/45fb5b5fc9f720e2e538db89295a7cc2/DSC03217.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:44:47.031Z"
+    },
+    {
+      "fingerprint": "e8699ec6af806fea86fe16fbf2e86af886abe2da",
+      "relativePath": "DSC03745.jpg",
+      "size": 16169649,
+      "assetId": "3HBBDtHoWvksOKEXe6AGEn",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3HBBDtHoWvksOKEXe6AGEn/d194a4ead289ed32950ce07d35c259f9/DSC03745.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:44:56.601Z"
+    },
+    {
+      "fingerprint": "ccb9441178c68cf59a11c2f7d0ed3c1c35a451c8",
+      "relativePath": "DSC00884.jpeg",
+      "size": 29762149,
+      "assetId": "3pZe0jc7tZssbi9t8yC16r",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3pZe0jc7tZssbi9t8yC16r/86419508e93ac0b38d90fb2e52f66379/DSC00884.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:45:04.925Z"
+    },
+    {
+      "fingerprint": "fcfc6e7b477983d7e5e27ce81f4738cda9c6df36",
+      "relativePath": "DSC03801.jpg",
+      "size": 9426190,
+      "assetId": "5Kl087oNYdoW1bHfDXEedT",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5Kl087oNYdoW1bHfDXEedT/dd9fe924d3445e8e4fc9574851dcdac2/DSC03801.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:45:05.293Z"
+    },
+    {
+      "fingerprint": "509c487b945c4e64ed4f62482675f6104414d059",
+      "relativePath": "DSC03856.jpg",
+      "size": 11225555,
+      "assetId": "402vkxnLtEMOwPuTHiuvMr",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/402vkxnLtEMOwPuTHiuvMr/2054400fdbbee992ff7f2b13757625fb/DSC03856.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:45:27.554Z"
+    },
+    {
+      "fingerprint": "447c33fe3fd6cd7770e741a7dc8b212210c42d1f",
+      "relativePath": "DSC03799.jpg",
+      "size": 7816615,
+      "assetId": "5PGBlikF74BIIN4GQHUzEu",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5PGBlikF74BIIN4GQHUzEu/3e06662d15fc2592144744262bc2b7cb/DSC03799.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:45:29.842Z"
+    },
+    {
+      "fingerprint": "514f03034ddbb8ff73fed6d9cfdb6234bed0fe96",
+      "relativePath": "DSC03960.jpg",
+      "size": 8892572,
+      "assetId": "1VIMXPp0BroPEeSVmAowvS",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1VIMXPp0BroPEeSVmAowvS/1a6b55f099d003abc6d66bd4f40856de/DSC03960.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:45:36.000Z"
+    },
+    {
+      "fingerprint": "e0f0e35d40c5d9c20698d0ccb5407d561acac7bb",
+      "relativePath": "DSC03999.jpg",
+      "size": 11745616,
+      "assetId": "2Nbob6CGBC4xQDDsvBWIiC",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2Nbob6CGBC4xQDDsvBWIiC/67e17d1f614af5715460544ebf206be2/DSC03999.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:45:44.121Z"
+    },
+    {
+      "fingerprint": "07a872ccf8dd27032f67e193f4abbf1629234f74",
+      "relativePath": "DSC03923 (1).jpg",
+      "size": 7823882,
+      "assetId": "3ywGypBHdhKHAxmRqFcXcY",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3ywGypBHdhKHAxmRqFcXcY/1320c8692b9472ab8b2bd95dd7c6a2b2/DSC03923__1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:45:56.103Z"
+    },
+    {
+      "fingerprint": "244a090b3ab71b73fe1f0f1453a5edbf543bc046",
+      "relativePath": "DSC04055.jpg",
+      "size": 11219779,
+      "assetId": "2DCR0HrB45v355uxYnrYeG",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2DCR0HrB45v355uxYnrYeG/4678a81a0724bf093640eae72157b451/DSC04055.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:45:56.169Z"
+    },
+    {
+      "fingerprint": "c8f1775322eda1b86b639eaed9773e3da1841264",
+      "relativePath": "DSC04131.jpg",
+      "size": 8543606,
+      "assetId": "7L3v0pD73WhCo8D2leV2Ga",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7L3v0pD73WhCo8D2leV2Ga/b5dbbcecfc731167db9c92374897f4bb/DSC04131.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:46:11.486Z"
+    },
+    {
+      "fingerprint": "f3c703ff43d979969f29a6ef2236a3bbe5061bd6",
+      "relativePath": "DSC04234 (2023-08-23T06_39_56.025).jpg",
+      "size": 8699218,
+      "assetId": "2Cyc0RfGi6QhgzBID8F0CG",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2Cyc0RfGi6QhgzBID8F0CG/457cc14e875565d6ebc1d27d1a497eb5/DSC04234__2023-08-23T06_39_56.025_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:46:27.770Z"
+    },
+    {
+      "fingerprint": "0f45786e0157600d87518332d6a5c26d313eff00",
+      "relativePath": "DSC04481.jpg",
+      "size": 13342530,
+      "assetId": "6aBeFOpOyVQ3tgJRRZUTw5",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6aBeFOpOyVQ3tgJRRZUTw5/752a2c7ca5cf4120b556f4068da0e026/DSC04481.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:46:28.462Z"
+    },
+    {
+      "fingerprint": "b9120215cf2ecea51293abb1467d10c84e408f94",
+      "relativePath": "DSC04728.jpg",
+      "size": 11964992,
+      "assetId": "2UwMOfoLYckmEpFM14ZEzG",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2UwMOfoLYckmEpFM14ZEzG/a96bf04bbd5d3b56bc41e6d7251a315b/DSC04728.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:46:45.918Z"
+    },
+    {
+      "fingerprint": "36265cea20876fa43989b26042241c19520512b0",
+      "relativePath": "DSC04706.jpg",
+      "size": 11023496,
+      "assetId": "6RJ9yODikAUTm4DveKiQ5Z",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6RJ9yODikAUTm4DveKiQ5Z/984c66e4874fe00273f173b5ca754c15/DSC04706.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:46:46.598Z"
+    },
+    {
+      "fingerprint": "131c5ef1df421f57e443853aae5b6639528370bf",
+      "relativePath": "DSC04989 (1).jpg",
+      "size": 3526084,
+      "assetId": "6WW9PnovoEbl1XkoSQWmtk",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6WW9PnovoEbl1XkoSQWmtk/35f163e79e057dbf10f774c3586c8e86/DSC04989__1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:46:54.676Z"
+    },
+    {
+      "fingerprint": "2a990d31fe1a86c6943a94563a85ca9f81caeb37",
+      "relativePath": "DSC05058 (2023-08-23T07_23_22.422).jpg",
+      "size": 3189254,
+      "assetId": "5vaD59tbefDuTkX2dw6QYH",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5vaD59tbefDuTkX2dw6QYH/88453fe2d7323cd95fbc6815f1f15249/DSC05058__2023-08-23T07_23_22.422_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:46:58.534Z"
+    },
+    {
+      "fingerprint": "71d2c65d966f938d62dddf2f01d61748246a06a6",
+      "relativePath": "DSC04037.jpg",
+      "size": 11138769,
+      "assetId": "2H0bDDSQJGtFOvVbPm83WL",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2H0bDDSQJGtFOvVbPm83WL/f695f0568754645968090c49379b759f/DSC04037.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:47:14.429Z"
+    },
+    {
+      "fingerprint": "eac8b7eb96a285d57bc5a443b75f253d615e431d",
+      "relativePath": "DSC05087 (2024-02-19T00_20_33.225).jpg",
+      "size": 16828105,
+      "assetId": "55arTGEEWfSjFga7iiyEOF",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/55arTGEEWfSjFga7iiyEOF/25c3656a54675191aaad7036e987bf21/DSC05087__2024-02-19T00_20_33.225_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:47:17.872Z"
+    },
+    {
+      "fingerprint": "26c17c6f70e18cb1afa2a529395fc3fcacc18feb",
+      "relativePath": "DSC05110 (2024-02-19T00_21_34.766).jpg",
+      "size": 10644180,
+      "assetId": "4IFQRaReWEopvE2uQWHcmO",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4IFQRaReWEopvE2uQWHcmO/45d2911839dcb395a82b219ab5c02aba/DSC05110__2024-02-19T00_21_34.766_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:47:30.853Z"
+    },
+    {
+      "fingerprint": "df013b67982d0086d3258c22a6b07720d7f2a59d",
+      "relativePath": "DSC05128 (2023-08-23T07_27_28.261).jpg",
+      "size": 11854732,
+      "assetId": "3Hytyz28XEyF5YPX5U2ziJ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3Hytyz28XEyF5YPX5U2ziJ/82364f5aaed0f4886aaea98ee71234fa/DSC05128__2023-08-23T07_27_28.261_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:47:44.193Z"
+    },
+    {
+      "fingerprint": "cf9291ff6cdf928fcd515ff4f1e8ec1dcf62bf3b",
+      "relativePath": "DSC05178 (2024-02-19T16_18_46.795).jpg",
+      "size": 10027347,
+      "assetId": "6dfVsvbkILHH5oanGfcpxH",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6dfVsvbkILHH5oanGfcpxH/5f0e63f610f011cd3959919cc8463e33/DSC05178__2024-02-19T16_18_46.795_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:47:57.845Z"
+    },
+    {
+      "fingerprint": "4d0b77e3fb9f2bbbe2e7a2836f5040ee113c5490",
+      "relativePath": "DSC05182 (2024-02-19T16_19_02.630).jpg",
+      "size": 13466070,
+      "assetId": "70QOAzU4DelYnrnZ8a8vWA",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/70QOAzU4DelYnrnZ8a8vWA/c6c0a031fb22d342e96d0889aaaf4cdb/DSC05182__2024-02-19T16_19_02.630_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:48:13.495Z"
+    },
+    {
+      "fingerprint": "d18bea661953db65affccab5619314108d54ea43",
+      "relativePath": "DSC05184 (2023-08-23T07_30_56.661).jpg",
+      "size": 4824259,
+      "assetId": "5LvJoQcwUBVaArhFqbYFsk",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5LvJoQcwUBVaArhFqbYFsk/50bcd54b939cace2fb8282474ebd9816/DSC05184__2023-08-23T07_30_56.661_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:48:22.030Z"
+    },
+    {
+      "fingerprint": "6313d8075df0fd99a555a28924b64a5645dd1663",
+      "relativePath": "DSC05194.jpg",
+      "size": 9126783,
+      "assetId": "357whstLGL76cWY7cs3WvU",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/357whstLGL76cWY7cs3WvU/bd587fb66e4ef8b7366b82325379d00b/DSC05194.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:48:31.793Z"
+    },
+    {
+      "fingerprint": "0a542afc306e5c610f0dc89ba7f11400a736d23c",
+      "relativePath": "DSC05107 (2024-02-19T00_21_26.602).jpg",
+      "size": 11382226,
+      "assetId": "5detZlZOLLKRRdpQykyJNe",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5detZlZOLLKRRdpQykyJNe/461e7edb23b1e4b47af5519592bd6674/DSC05107__2024-02-19T00_21_26.602_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:48:32.329Z"
+    },
+    {
+      "fingerprint": "48c9dea2e6131c1b1667b21f7c41e6a0d069cfbb",
+      "relativePath": "DSC05205 (2024-02-19T00_24_39.494).jpg",
+      "size": 16577210,
+      "assetId": "2W2x8ZM97ACRRKJKoOW0nO",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2W2x8ZM97ACRRKJKoOW0nO/caad61d5c746faddca84e6d36b601426/DSC05205__2024-02-19T00_24_39.494_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:48:49.380Z"
+    },
+    {
+      "fingerprint": "a42c90bb12dd1a9e82cb202feebeb0fc2d6e7c98",
+      "relativePath": "DSC05216 (2024-02-19T00_25_02.416).jpg",
+      "size": 14833050,
+      "assetId": "6m6CxzeYb7pv7uRU4p4vi5",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6m6CxzeYb7pv7uRU4p4vi5/eab6af22db48e176d8c333449bbd1178/DSC05216__2024-02-19T00_25_02.416_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:49:07.401Z"
+    },
+    {
+      "fingerprint": "5c7357cdddd5b5588fb137f225e5125dded12c76",
+      "relativePath": "DSC05322 (2023-08-23T07_39_00.972) (2).jpg",
+      "size": 15808706,
+      "assetId": "12nB1XFOBpAZfYUHGssAdo",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/12nB1XFOBpAZfYUHGssAdo/e8376cf09d5585b59e37fc291da77cef/DSC05322__2023-08-23T07_39_00.972___2_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:49:10.436Z"
+    },
+    {
+      "fingerprint": "eae9923de677e7e3ac813cc40edb2e308d85dbb2",
+      "relativePath": "DSC05326.jpg",
+      "size": 15516276,
+      "assetId": "79pzXXP6WhIdQihHdoEiBa",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/79pzXXP6WhIdQihHdoEiBa/694a2939e680a1bc06304d03546f1a57/DSC05326.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:49:22.223Z"
+    },
+    {
+      "fingerprint": "fd37f9dae88eb6729cf9fa019704cdfcfa78c4d9",
+      "relativePath": "DSC05365.jpg",
+      "size": 15233120,
+      "assetId": "5wZ3SEm8A3prbWEQBbodeB",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5wZ3SEm8A3prbWEQBbodeB/31ab16ca8a800c9e663fd13a0d7d6955/DSC05365.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:49:35.204Z"
+    },
+    {
+      "fingerprint": "00401915e18e4808023a7181db3118413cba6405",
+      "relativePath": "DSC05381 (1).jpg",
+      "size": 13847974,
+      "assetId": "6jjsdh6syY8qAL62A5NMlb",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6jjsdh6syY8qAL62A5NMlb/6712d71a722091bafed1197c61f9c42a/DSC05381__1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:49:48.074Z"
+    },
+    {
+      "fingerprint": "b3fcd2bf2f766cb0751396b04ba160b6458036b5",
+      "relativePath": "DSC05328.jpg",
+      "size": 15761410,
+      "assetId": "Guc5xvspFvYHgg4szQmeW",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/Guc5xvspFvYHgg4szQmeW/121cf059a8a12fe9d0056fb8fccf0004/DSC05328.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:49:48.376Z"
+    },
+    {
+      "fingerprint": "214d7c803410dfbc348c45d2b159cd341e0547c7",
+      "relativePath": "DSC05211 (2024-02-19T00_24_52.121).jpg",
+      "size": 18007235,
+      "assetId": "5fRNRly2GaZ1seaK0xpNCF",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5fRNRly2GaZ1seaK0xpNCF/a99baf9a6f33b44f2f38109b8e9ab30f/DSC05211__2024-02-19T00_24_52.121_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:49:54.025Z"
+    },
+    {
+      "fingerprint": "cd5a2a14e072ab9644ebb9429b0548447a0ce3bb",
+      "relativePath": "DSC05494.jpg",
+      "size": 14307165,
+      "assetId": "28lqZBV8XAaMhIOv5luMX2",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/28lqZBV8XAaMhIOv5luMX2/40cdef49dce61c994e943aa6d0a6e5e7/DSC05494.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:50:00.726Z"
+    },
+    {
+      "fingerprint": "323a4c97818703d7ee5ff773d3aa1fe86792d8c4",
+      "relativePath": "DSC05528.jpg",
+      "size": 16470404,
+      "assetId": "2XWDPlN9fncNNAwPyAszot",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2XWDPlN9fncNNAwPyAszot/261bdd109921fac2eaab1fc56ba44c5a/DSC05528.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:50:10.152Z"
+    },
+    {
+      "fingerprint": "252ea269263302e3e35f7acaed34dd5fd7c12c1b",
+      "relativePath": "DSC05557 (1).jpg",
+      "size": 13404955,
+      "assetId": "6B4PUICb74yxCrd6D5FWUJ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6B4PUICb74yxCrd6D5FWUJ/712f2edebda37b9f947bec0278c0903f/DSC05557__1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:50:13.018Z"
+    },
+    {
+      "fingerprint": "a40871c8a39c95ce8b875adbe88a1a9626f2140b",
+      "relativePath": "DSC05662 (2023-08-23T08_01_01.961).jpg",
+      "size": 12645026,
+      "assetId": "5a99CyIjCTC6VIfUkJr5Yc",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5a99CyIjCTC6VIfUkJr5Yc/16f9f95cbcc3c5d535059e83c1d847df/DSC05662__2023-08-23T08_01_01.961_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:50:22.575Z"
+    },
+    {
+      "fingerprint": "eb9733de796d33ce264145c856b845ffb14ec356",
+      "relativePath": "DSC05665 (1).jpg",
+      "size": 10679799,
+      "assetId": "7vwrpypqPIOtjAfdE0HUTm",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7vwrpypqPIOtjAfdE0HUTm/6f752e2672c5f1aa29f5686248496a89/DSC05665__1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:50:26.615Z"
+    },
+    {
+      "fingerprint": "76899ed0553dacd501cd4571402dc0f301599b9b",
+      "relativePath": "DSC05814 (2024-08-17T08_20_14.049).jpg",
+      "size": 12831393,
+      "assetId": "JPuxZBf65jVADc0MfHttU",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/JPuxZBf65jVADc0MfHttU/4187aa41f01b63b5b55591d97f4e8e89/DSC05814__2024-08-17T08_20_14.049_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:50:45.085Z"
+    },
+    {
+      "fingerprint": "d63924d24bbb54976e159c58619df5d4a5a671dd",
+      "relativePath": "DSC05523 (1).jpg",
+      "size": 26144359,
+      "assetId": "5ljjofp5KSlFWMddAtD5Z9",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5ljjofp5KSlFWMddAtD5Z9/56a529228a0128ab58c3ea0b20070521/DSC05523__1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:50:46.404Z"
+    },
+    {
+      "fingerprint": "f00789a06440a5c829cf39f022eba1aaf1467385",
+      "relativePath": "DSC05665 (2023-08-22T05_17_11.921).jpeg",
+      "size": 23148958,
+      "assetId": "7cjTQq98jFKNOnY3SikM7o",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7cjTQq98jFKNOnY3SikM7o/e65d89b2f7b5102f58d1894271d5f607/DSC05665__2023-08-22T05_17_11.921_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:50:49.621Z"
+    },
+    {
+      "fingerprint": "3698e568aeb39a7c5c35175d88613d692ee61c1c",
+      "relativePath": "DSC05823 (2024-08-17T08_20_40.742).jpg",
+      "size": 11307928,
+      "assetId": "1bNYTxtdPo6G49Ggf1vBra",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1bNYTxtdPo6G49Ggf1vBra/8ac752cf0311473be75da4428b93829e/DSC05823__2024-08-17T08_20_40.742_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:50:55.151Z"
+    },
+    {
+      "fingerprint": "3bef83c6bdcc9496d5908529bfa074cf7a653c8d",
+      "relativePath": "DSC05859 (2024-08-17T08_22_19.395).jpg",
+      "size": 12481969,
+      "assetId": "1lN2naoLq330yJ2YpDEEEI",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1lN2naoLq330yJ2YpDEEEI/e39e16836181ccd7487e8d771e5bec87/DSC05859__2024-08-17T08_22_19.395_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:00.387Z"
+    },
+    {
+      "fingerprint": "482ea0b2eafef578f41ddab8d70819d43d7069db",
+      "relativePath": "DSC06009 (1).jpeg",
+      "size": 7947313,
+      "assetId": "1rWgmUnTCktZjfaxgv7Mft",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1rWgmUnTCktZjfaxgv7Mft/6757c87e4b65ca4e500b7dd2252f5388/DSC06009__1_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:02.660Z"
+    },
+    {
+      "fingerprint": "f8114fea231052baf0d6ad0df17bf7cf0d54fc81",
+      "relativePath": "DSC06073 (2023-01-16T18_03_13.259).jpeg",
+      "size": 6625698,
+      "assetId": "34u8G51eN5WtiwvSHcvZAu",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/34u8G51eN5WtiwvSHcvZAu/92e01879426a46fbf1ec0af86e366db6/DSC06073__2023-01-16T18_03_13.259_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:07.070Z"
+    },
+    {
+      "fingerprint": "2ef6eeee29ad01154e03105852f77d63cbe5a29b",
+      "relativePath": "DSC05895 (1).jpeg",
+      "size": 4304070,
+      "assetId": "6EwvgsvP4cCZMEzs341zsQ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6EwvgsvP4cCZMEzs341zsQ/2f6bb0d3108c9d023753af39bcdde8b2/DSC05895__1_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:07.325Z"
+    },
+    {
+      "fingerprint": "005f2c98ea664ef4b63a91bbd4eb62a8ec2b3be1",
+      "relativePath": "DSC06081 (2023-01-16T18_03_46.538).jpeg",
+      "size": 6475226,
+      "assetId": "7flt4NouLStz2dfB0v4dHP",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7flt4NouLStz2dfB0v4dHP/4ae36a62ad4b8a096565429d3db33e03/DSC06081__2023-01-16T18_03_46.538_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:11.380Z"
+    },
+    {
+      "fingerprint": "0c4bbc12dccf3bfab37160332e63b67888035418",
+      "relativePath": "DSC06111 (2023-01-16T18_05_55.582).jpeg",
+      "size": 6312854,
+      "assetId": "501SqZu8MB3JP4goDVhngN",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/501SqZu8MB3JP4goDVhngN/e2fd24029816fc7045d14aec26f97b62/DSC06111__2023-01-16T18_05_55.582_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:16.274Z"
+    },
+    {
+      "fingerprint": "4f28e45abcdff3da57f5e9f19633c28c712e02be",
+      "relativePath": "DSC06109 (2023-01-16T18_05_47.073).jpeg",
+      "size": 6476129,
+      "assetId": "6FtKHtZt24J9KRYlL3WSaN",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6FtKHtZt24J9KRYlL3WSaN/350d42af257d46e424c63802a933f567/DSC06109__2023-01-16T18_05_47.073_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:20.944Z"
+    },
+    {
+      "fingerprint": "6b79dfa4a302b9215e5f719b194c06e91137b17f",
+      "relativePath": "DSC06128 (2023-01-16T18_07_05.269).jpeg",
+      "size": 6260194,
+      "assetId": "JMv1ZTvdRSULQHtZyfNjI",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/JMv1ZTvdRSULQHtZyfNjI/535660a834551095bdcd90a8de393907/DSC06128__2023-01-16T18_07_05.269_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:21.146Z"
+    },
+    {
+      "fingerprint": "1fcb60bfe069f5a1aaa2251497d9fb44ece7aaca",
+      "relativePath": "DSC06129 (2023-01-16T18_07_09.509) (1).jpeg",
+      "size": 5981209,
+      "assetId": "5rsnVMEb4B3nEQhKqv3Fgb",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5rsnVMEb4B3nEQhKqv3Fgb/782b00253a759e8deaa6836a1fb4c9ed/DSC06129__2023-01-16T18_07_09.509___1_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:23.988Z"
+    },
+    {
+      "fingerprint": "4e7ec6863978013c8d73dd5b2fa40507fb2b2b41",
+      "relativePath": "DSC06155.jpeg",
+      "size": 5848422,
+      "assetId": "3fbATIKGdG5IwIOaCD6lRj",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3fbATIKGdG5IwIOaCD6lRj/d54728d36a857085c5b0a5946b8e126a/DSC06155.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:28.709Z"
+    },
+    {
+      "fingerprint": "997afa6d9eea80c81cb2456a8f2963619c0d7a65",
+      "relativePath": "DSC06157 (2023-01-16T18_08_59.438) (1).jpeg",
+      "size": 5679284,
+      "assetId": "DuBDCr7XPfn65cJOiWXuD",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/DuBDCr7XPfn65cJOiWXuD/d452b42850b18ab5dfcba8942a050145/DSC06157__2023-01-16T18_08_59.438___1_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:30.717Z"
+    },
+    {
+      "fingerprint": "a71f099fc2581ed6257fc454837155ee3d592e4c",
+      "relativePath": "DSC06176 (2023-01-16T18_10_15.542).jpeg",
+      "size": 5889880,
+      "assetId": "2jPndiBZHNWMC4aPYBOxW5",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2jPndiBZHNWMC4aPYBOxW5/12d6b363e308d43b03ab1b2797076428/DSC06176__2023-01-16T18_10_15.542_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:33.074Z"
+    },
+    {
+      "fingerprint": "d816c16f648a572a48a4a3e22eec79bc472fcb39",
+      "relativePath": "DSC06183 (2023-01-16T18_10_44.348).jpeg",
+      "size": 5409889,
+      "assetId": "3DbvbRgeZrVENfCquxco8E",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3DbvbRgeZrVENfCquxco8E/39dc25ecd546dd67895bb56ca23d309e/DSC06183__2023-01-16T18_10_44.348_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:38.083Z"
+    },
+    {
+      "fingerprint": "bcff642d50aec0cc5d3e053dfd04dddb0929546e",
+      "relativePath": "DSC06181 (2023-01-16T18_10_34.376).jpeg",
+      "size": 5447083,
+      "assetId": "3SngnkBsPLnb4KRonRDk4C",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3SngnkBsPLnb4KRonRDk4C/e1743f22f9757a6ab6fa030ea4132cb4/DSC06181__2023-01-16T18_10_34.376_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:42.056Z"
+    },
+    {
+      "fingerprint": "c4c08d158fee0b3ef5516591775ba7abe5d8c6c2",
+      "relativePath": "DSC06202 (2023-01-16T18_12_08.049).jpeg",
+      "size": 5593808,
+      "assetId": "43EApLTCVmt3kc1etjs27t",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/43EApLTCVmt3kc1etjs27t/59513d2ee27a93fb4fc4c95fa3edcf21/DSC06202__2023-01-16T18_12_08.049_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:42.096Z"
+    },
+    {
+      "fingerprint": "233654b8f5b336b28663804f2684f541e1590851",
+      "relativePath": "DSC06209 (2023-01-16T18_12_40.316).jpeg",
+      "size": 5278961,
+      "assetId": "mO37z7Yonue0O4v8SytOd",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/mO37z7Yonue0O4v8SytOd/c230600b89cff3718749fae1ebc8a410/DSC06209__2023-01-16T18_12_40.316_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:44.073Z"
+    },
+    {
+      "fingerprint": "b0e4220577c8607b004a5bada3b5f11b3b1f01fb",
+      "relativePath": "DSC06262 (2023-01-16T18_16_21.724).jpeg",
+      "size": 7154337,
+      "assetId": "6vEIlUl9hwqqLc7BZjEZkx",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6vEIlUl9hwqqLc7BZjEZkx/bfb9c1655d5445a2ce900a30c19b55b0/DSC06262__2023-01-16T18_16_21.724_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:49.623Z"
+    },
+    {
+      "fingerprint": "1b615e37686f9605b54f1136cc9449ad68b01e23",
+      "relativePath": "DSC06243 (2023-01-16T18_15_02.007) (1).jpeg",
+      "size": 5150628,
+      "assetId": "rdrb6tWIbrJ9xY6aP0qO0",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/rdrb6tWIbrJ9xY6aP0qO0/7381f42a5c4f971ff7f92691c5a2c743/DSC06243__2023-01-16T18_15_02.007___1_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:53.288Z"
+    },
+    {
+      "fingerprint": "401298d7c4b0d5ef8c6d053056bdfe005451ef3f",
+      "relativePath": "DSC06407 (2023-01-16T18_27_05.019) (1).jpeg",
+      "size": 5206931,
+      "assetId": "2Ope2JnHrRDLxNcPkkUxex",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2Ope2JnHrRDLxNcPkkUxex/03ea57bd5e32c0a587eeba0a4b7598c4/DSC06407__2023-01-16T18_27_05.019___1_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:51:53.419Z"
+    },
+    {
+      "fingerprint": "b2976ff0be69dd12f35f5c6b5f7f3fbede8508c4",
+      "relativePath": "DSC06428 (2024-02-23T07_12_34.579).jpg",
+      "size": 14889877,
+      "assetId": "6L6etSUd0jHX8pSrssXw9o",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6L6etSUd0jHX8pSrssXw9o/039b87eae0db66acb91fed5eb04f04cd/DSC06428__2024-02-23T07_12_34.579_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:52:03.325Z"
+    },
+    {
+      "fingerprint": "759db7958b97167d94335c44caa08fa0052ac153",
+      "relativePath": "DSC06524 (2023-01-16T18_35_08.686).jpeg",
+      "size": 8565304,
+      "assetId": "3LJYY7py1O9G4GfWXt6LEi",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3LJYY7py1O9G4GfWXt6LEi/d6bfb9607870c77feeb4391c14c5f8fa/DSC06524__2023-01-16T18_35_08.686_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:52:13.511Z"
+    },
+    {
+      "fingerprint": "042cb591c970ce114eb6621f5d2115e8aa9f04cd",
+      "relativePath": "DSC06444 (2023-01-16T18_29_35.255).jpeg",
+      "size": 5248290,
+      "assetId": "3N3P8UdE2IV1GMskQ5N0Nw",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3N3P8UdE2IV1GMskQ5N0Nw/e98154bd778ce2b1ad071be48133fc88/DSC06444__2023-01-16T18_29_35.255_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:52:27.552Z"
+    },
+    {
+      "fingerprint": "56933c9b7104835675e212c25bfe15438b4bf195",
+      "relativePath": "DSC06512 (2024-02-23T07_15_53.501).jpg",
+      "size": 16115292,
+      "assetId": "2Zblh79IDy8DsFs8MkIAwd",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2Zblh79IDy8DsFs8MkIAwd/2b2b3618600034eee172d57eaf987e17/DSC06512__2024-02-23T07_15_53.501_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:52:37.185Z"
+    },
+    {
+      "fingerprint": "8b4d63bbeef7984f02b982aa1b4094c5962d3ad7",
+      "relativePath": "DSC06531 (2024-02-23T07_16_51.854).jpg",
+      "size": 17002269,
+      "assetId": "1q0JoF3NmQypIObkIN2GZa",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1q0JoF3NmQypIObkIN2GZa/18058be518bca31398298da4780b2fc9/DSC06531__2024-02-23T07_16_51.854_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:52:40.900Z"
+    },
+    {
+      "fingerprint": "29706b5eb3b988a751dbdb9fa4ae7c3149ff7b83",
+      "relativePath": "DSC06561 (2023-01-16T18_38_19.331) (1).jpeg",
+      "size": 7614687,
+      "assetId": "4rPBVkuJwchykoFqtnu3r",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4rPBVkuJwchykoFqtnu3r/d34bfa1b2e705b9db7d47c1de8ae3f75/DSC06561__2023-01-16T18_38_19.331___1_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:52:55.918Z"
+    },
+    {
+      "fingerprint": "ffc5b0b426105c2d551b1c0d7773dba02fd6f879",
+      "relativePath": "DSC06561 (2024-02-23T07_18_17.216).jpg",
+      "size": 13380948,
+      "assetId": "7f7zr1KhztMdIIRakmIDd9",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7f7zr1KhztMdIIRakmIDd9/9ce721827b6d7ceb4f88e655c5bc1130/DSC06561__2024-02-23T07_18_17.216_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:52:57.784Z"
+    },
+    {
+      "fingerprint": "0d7e65b127c58f3eaceb245a7c444fc79edb0832",
+      "relativePath": "DSC06568.jpg",
+      "size": 18758875,
+      "assetId": "49vij3Kgg1zo1Ka6qpa9X5",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/49vij3Kgg1zo1Ka6qpa9X5/79d685b91b143504795b02d6fcaaad87/DSC06568.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:53:13.291Z"
+    },
+    {
+      "fingerprint": "b52f6c4402b011614a868697e73d6f2aae3bf1e7",
+      "relativePath": "DSC06596.jpg",
+      "size": 15828474,
+      "assetId": "3QTTugnxisFVlMkOd20yst",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3QTTugnxisFVlMkOd20yst/123f28df48ad86d3b7ae4e6237f028f3/DSC06596.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:53:15.967Z"
+    },
+    {
+      "fingerprint": "e98ffff8982034c7f897a51231870e0eaa3eaba9",
+      "relativePath": "DSC06595.jpg",
+      "size": 15117948,
+      "assetId": "2DEBGsk0nsj1S88M3ul2eQ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2DEBGsk0nsj1S88M3ul2eQ/57fba9a43d4d7b46ba41ba3439a0f068/DSC06595.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:53:35.452Z"
+    },
+    {
+      "fingerprint": "35c802effaaa5dfe0f6d0d5762d3896e2454de3d",
+      "relativePath": "DSC06607.jpg",
+      "size": 17236357,
+      "assetId": "HJ5Rgb974A5vfU0qcBcjk",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/HJ5Rgb974A5vfU0qcBcjk/f853bcf8835858596207f8ead01d455b/DSC06607.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:53:40.711Z"
+    },
+    {
+      "fingerprint": "e73e6c6a5eab44106b9254820b65a06113df5b14",
+      "relativePath": "DSC06609 (2024-02-23T07_20_43.062).jpg",
+      "size": 16305456,
+      "assetId": "6kH3TP2amNPEnYq5qD3Kai",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6kH3TP2amNPEnYq5qD3Kai/97324d21b01c53d05e133c62a9f0455c/DSC06609__2024-02-23T07_20_43.062_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:54:10.960Z"
+    },
+    {
+      "fingerprint": "d7a71e3eb980e4953884f6b7cb175a628b1a6c21",
+      "relativePath": "DSC06628 (2024-02-23T07_21_34.637).jpg",
+      "size": 20969839,
+      "assetId": "5gVllR1RxCGI7HMSHuY0IM",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5gVllR1RxCGI7HMSHuY0IM/552fc21435da8babf031cbd2048d56ff/DSC06628__2024-02-23T07_21_34.637_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:54:12.031Z"
+    },
+    {
+      "fingerprint": "88f1e27b59fb93c008bd63b85d6887f8bdb4dd8d",
+      "relativePath": "DSC06630 (2024-02-23T07_21_43.017).jpg",
+      "size": 18983942,
+      "assetId": "sNEhFVN7p75M87Px6BTBb",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/sNEhFVN7p75M87Px6BTBb/e1680ba5652c6c9022cfac26a7a2a2ef/DSC06630__2024-02-23T07_21_43.017_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:54:13.085Z"
+    },
+    {
+      "fingerprint": "eb08ea0fe368d2db661d6b947652244fda6b0d95",
+      "relativePath": "DSC06635.jpeg",
+      "size": 5964469,
+      "assetId": "7jaBWmcyLyL4PlYWCCg7dj",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7jaBWmcyLyL4PlYWCCg7dj/79e19a50c82237754a61da6282f5e3bd/DSC06635.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:54:24.761Z"
+    },
+    {
+      "fingerprint": "ced5a2b59ac36a2a4b73027e95accb8083dddb59",
+      "relativePath": "DSC06650.jpeg",
+      "size": 6192529,
+      "assetId": "44mQVGmueLkoZjF4KjtIj2",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/44mQVGmueLkoZjF4KjtIj2/198eb556458c79c844834e58d3b712fb/DSC06650.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:54:27.294Z"
+    },
+    {
+      "fingerprint": "0d83d4cfc6eacfc740748773184dd982cdbb91a7",
+      "relativePath": "DSC06633 (2024-02-23T07_21_54.978).jpg",
+      "size": 18228510,
+      "assetId": "2p53rxXiDgrKwDRpUnBHvK",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2p53rxXiDgrKwDRpUnBHvK/e87654f11e6aa814d7238c55d2fb7a7c/DSC06633__2024-02-23T07_21_54.978_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:54:32.346Z"
+    },
+    {
+      "fingerprint": "e34a7486c3e1362917259a7ad1bf2444cf204976",
+      "relativePath": "DSC06702.jpeg",
+      "size": 1938211,
+      "assetId": "3rTNfBNbhnN4c6P8bdZceI",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3rTNfBNbhnN4c6P8bdZceI/42139d297785374f5d33b5ff789dc810/DSC06702.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:54:33.886Z"
+    },
+    {
+      "fingerprint": "ec69f4fc4d3d905bf87d2d03eb82e0e2b08c37b5",
+      "relativePath": "DSC06680.jpeg",
+      "size": 5798847,
+      "assetId": "1xMd0uZqeNkJ1jgb5b88hS",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1xMd0uZqeNkJ1jgb5b88hS/86c066714e0b038d2971e9d706c0afde/DSC06680.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:54:35.811Z"
+    },
+    {
+      "fingerprint": "228fdd8a90aed197d95b3862cb2fb356a3ade2b7",
+      "relativePath": "DSC06793 (1).jpeg",
+      "size": 7876606,
+      "assetId": "6ca7sUbZwAfOTlqSju4Gzm",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6ca7sUbZwAfOTlqSju4Gzm/89f6bf7d972dcd1fd9547878473cea7c/DSC06793__1_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:54:45.472Z"
+    },
+    {
+      "fingerprint": "83f37567f7b88d78d845f5fcd168b37d3f629e50",
+      "relativePath": "DSC06803.jpeg",
+      "size": 6169077,
+      "assetId": "6pRRkEiODFPjp38nzNdnGR",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6pRRkEiODFPjp38nzNdnGR/df5ab4e20482547326f58c3b529d8f80/DSC06803.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:54:51.134Z"
+    },
+    {
+      "fingerprint": "adab41f7d73be096bfeb9a34227a54084c01f654",
+      "relativePath": "DSC06706 (2024-02-23T21_38_38.968).jpg",
+      "size": 12959045,
+      "assetId": "5dLMGKAT44VG5Eul5mXehi",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5dLMGKAT44VG5Eul5mXehi/bfbb731a95b289da55a2d7e9936094f8/DSC06706__2024-02-23T21_38_38.968_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:54:53.770Z"
+    },
+    {
+      "fingerprint": "bf4c7037303369c328f9719b67ff9bde3deee1c6",
+      "relativePath": "DSC06831 (2024-03-02T20_37_16.965).jpg",
+      "size": 13392390,
+      "assetId": "xjtbeuLL64keo2rZBGcRz",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/xjtbeuLL64keo2rZBGcRz/9fdc677b98f00f2fc2ed368f9c091952/DSC06831__2024-03-02T20_37_16.965_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:55:06.552Z"
+    },
+    {
+      "fingerprint": "edcd0f95391f5f022f64f72e7fdcd331e982d800",
+      "relativePath": "DSC06837 (2).jpeg",
+      "size": 8123870,
+      "assetId": "6uzSlrIh5IaYWzy1aQs5ZA",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6uzSlrIh5IaYWzy1aQs5ZA/7e43c321b5da7fae001b1dbbd79f3634/DSC06837__2_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:55:22.142Z"
+    },
+    {
+      "fingerprint": "fede056d5d5d37dfc9e0ae2d2cce8ee644909e84",
+      "relativePath": "DSC06834 (2024-03-02T20_37_26.826).jpg",
+      "size": 16077637,
+      "assetId": "4g20GBfKNUtqyVjVuKmh4l",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4g20GBfKNUtqyVjVuKmh4l/4f3c79b1b020e0ad6b0ef27b538db0ef/DSC06834__2024-03-02T20_37_26.826_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:55:34.199Z"
+    },
+    {
+      "fingerprint": "5c7ce41ec0d95a663eb461bee5522b8bc5e68926",
+      "relativePath": "DSC06847.jpeg",
+      "size": 8366289,
+      "assetId": "zC4MjdWRCPTUNJOSCOKFe",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/zC4MjdWRCPTUNJOSCOKFe/0ae6df555be7a0a6072f6bda004cfea2/DSC06847.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:55:43.565Z"
+    },
+    {
+      "fingerprint": "18916bb1ae6adaaca5bbf73695e36bc5975289a4",
+      "relativePath": "DSC06964.jpeg",
+      "size": 7508422,
+      "assetId": "6t5hkkDxROdXx27LfKXz55",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6t5hkkDxROdXx27LfKXz55/ceff4c5922fdae7076879813167b5282/DSC06964.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:55:43.891Z"
+    },
+    {
+      "fingerprint": "9a9d65ace2ef9222091d4efcce9d44ef3284b041",
+      "relativePath": "DSC06970.jpeg",
+      "size": 6800932,
+      "assetId": "MRmhLEQSvEIJtqtVvZT9t",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/MRmhLEQSvEIJtqtVvZT9t/19fa316053484baff7f67be60b5f3238/DSC06970.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:55:55.504Z"
+    },
+    {
+      "fingerprint": "4d5950f3d0c478dc0088a18f28650af7c191946d",
+      "relativePath": "DSC06968.jpeg",
+      "size": 7646884,
+      "assetId": "592oewC6rWlYcA4gYZ7gZj",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/592oewC6rWlYcA4gYZ7gZj/b4de7f045f850472d75d6462be0c8e6c/DSC06968.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:55:56.246Z"
+    },
+    {
+      "fingerprint": "a51823a855bdb884c7b1c0a05f4fb20daff0df6d",
+      "relativePath": "DSC06825 (2024-03-02T20_36_52.767).jpg",
+      "size": 18801843,
+      "assetId": "7zmpLuAett2zu8AtC5FPn0",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7zmpLuAett2zu8AtC5FPn0/2865704a6f7a232178841165d45adff0/DSC06825__2024-03-02T20_36_52.767_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:55:57.783Z"
+    },
+    {
+      "fingerprint": "a582514d43b4e84904d75d3de8e7ac640f76818c",
+      "relativePath": "DSC06987.jpeg",
+      "size": 7008169,
+      "assetId": "7o8DcEKSLNmCo0awL2ULcP",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7o8DcEKSLNmCo0awL2ULcP/35acfe1e1521fdde48d29901dd3cd2a5/DSC06987.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:56:05.149Z"
+    },
+    {
+      "fingerprint": "f518c6f96724f5529988c0992f12cf93077deb8c",
+      "relativePath": "DSC07023.jpeg",
+      "size": 6893014,
+      "assetId": "7byYGYZS56kVoiIzKWgQlu",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7byYGYZS56kVoiIzKWgQlu/8728b64744b7956d6776cb799eeee1fd/DSC07023.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:56:09.182Z"
+    },
+    {
+      "fingerprint": "389e20cf588cfbc9e76bb6ba9cadd527b7bf0a3f",
+      "relativePath": "DSC07028.jpeg",
+      "size": 7208410,
+      "assetId": "UDwHfekkEjWFYAVJ9r74E",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/UDwHfekkEjWFYAVJ9r74E/c72502ed1b7b9ec8ba4080deb454d916/DSC07028.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:56:13.600Z"
+    },
+    {
+      "fingerprint": "80250bd261771968012bdcad5657c8d3113a855b",
+      "relativePath": "DSC07049.jpeg",
+      "size": 7846840,
+      "assetId": "4Z0xt77Wm5MH529nK41RCF",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4Z0xt77Wm5MH529nK41RCF/1cae6dc6a8ffcb32ec57dc1fa1998bd9/DSC07049.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:56:17.944Z"
+    },
+    {
+      "fingerprint": "8ea16573bdec7277bd5d6be920aeefd0a3e3989c",
+      "relativePath": "DSC07019.jpeg",
+      "size": 7085171,
+      "assetId": "6WcBzXAv8iAC0SmOiS9DCg",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6WcBzXAv8iAC0SmOiS9DCg/04803944fa12d0ffe4f1278fb4bef137/DSC07019.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:56:19.582Z"
+    },
+    {
+      "fingerprint": "a6a953b002cc7ab2ed4ff9d155183320bb2cdaec",
+      "relativePath": "DSC07065 (2023-01-16T19_10_19.028).jpeg",
+      "size": 6497310,
+      "assetId": "7thdafDpPB15j5EiMRb2Fs",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7thdafDpPB15j5EiMRb2Fs/7b4192ae6b4e9eb3291743c14023405b/DSC07065__2023-01-16T19_10_19.028_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:56:25.341Z"
+    },
+    {
+      "fingerprint": "75dfbfce9b2f1ca9cb54f6219fbcf197dbf2efca",
+      "relativePath": "DSC07432.jpeg",
+      "size": 4837229,
+      "assetId": "5MufXP6CPY1DFvRdqHmiNW",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5MufXP6CPY1DFvRdqHmiNW/62324dec103ecca8c8525b37c5be1325/DSC07432.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:56:35.331Z"
+    },
+    {
+      "fingerprint": "04bda19025921e7b8ffb85a516fe7f3d0dd6ba84",
+      "relativePath": "DSC07121 (2023-01-16T19_14_40.380) (1).jpeg",
+      "size": 6534093,
+      "assetId": "4ZeiSHtL2hvWUeecpZmwFi",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4ZeiSHtL2hvWUeecpZmwFi/d46d8119af0bad5a3aa247e204efc440/DSC07121__2023-01-16T19_14_40.380___1_.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:56:37.642Z"
+    },
+    {
+      "fingerprint": "61dd6034f5f87cfb1946549d6312e48168897596",
+      "relativePath": "DSC07125.jpeg",
+      "size": 8050155,
+      "assetId": "OVsEt4pYxRrYgPxoRhGma",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/OVsEt4pYxRrYgPxoRhGma/cb7154cff17d3a879609521893045731/DSC07125.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:56:40.682Z"
+    },
+    {
+      "fingerprint": "7ef04ff9831c6da277d4c3178886d72ec4371c95",
+      "relativePath": "DSC07469.jpeg",
+      "size": 5119203,
+      "assetId": "2sJCwyrlpf3OIsQyEB2PKM",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2sJCwyrlpf3OIsQyEB2PKM/c37bc7a461e51ab852d5a9daea23ca13/DSC07469.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:56:43.946Z"
+    },
+    {
+      "fingerprint": "87a340ad9786511ba320a9132e703b159e9c21f8",
+      "relativePath": "DSC07507.jpeg",
+      "size": 4160480,
+      "assetId": "4OpIHfJm8gBCdVzobJvHd1",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4OpIHfJm8gBCdVzobJvHd1/e29c9250c61d86391ba42211ec044dc4/DSC07507.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:56:54.317Z"
+    },
+    {
+      "fingerprint": "cecfca5e7dcc20dd8027b7eebb6df6caaa4b846e",
+      "relativePath": "DSC09190 (2024-05-12T20_37_20.838).jpg",
+      "size": 18140362,
+      "assetId": "1x3SnwefekV74AnqP9qD99",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1x3SnwefekV74AnqP9qD99/db4b2fb1e9f30785dbae81eb8bd52208/DSC09190__2024-05-12T20_37_20.838_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:57:02.394Z"
+    },
+    {
+      "fingerprint": "be942c499b19ac698d201fa0ce79d66afe2527c3",
+      "relativePath": "DSC07479.jpeg",
+      "size": 5937820,
+      "assetId": "oJWQYR11bnEWq4C08YJe9",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/oJWQYR11bnEWq4C08YJe9/2e782cbdfd98ff54121226d719750d1b/DSC07479.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:57:07.413Z"
+    },
+    {
+      "fingerprint": "965596aa29c9a46a8c326efd5be235fcfdcc3c10",
+      "relativePath": "DSC09398 (1).jpg",
+      "size": 19751785,
+      "assetId": "2zytMbAFXfQDdmGNagz8ZB",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2zytMbAFXfQDdmGNagz8ZB/fd617cca4a5f0e8793dec9cf2b4d83e9/DSC09398__1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:57:23.830Z"
+    },
+    {
+      "fingerprint": "9e4feb31113aa67fba468be9fd7c330bb4311f44",
+      "relativePath": "DSC09456 (2024-05-12T20_44_32.515).jpg",
+      "size": 11111796,
+      "assetId": "WYVy0camepshmhTFsKFAK",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/WYVy0camepshmhTFsKFAK/c73b4515e2aded0cfdf088aa222f5061/DSC09456__2024-05-12T20_44_32.515_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:57:24.971Z"
+    },
+    {
+      "fingerprint": "df6187f3aa2938b5358e5dd723b12c36604223a1",
+      "relativePath": "GHA00080 (2020-10-04T21_35_25.692).JPG",
+      "size": 6607906,
+      "assetId": "2KSmlei44xNBzca2HvP7IW",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2KSmlei44xNBzca2HvP7IW/e651e7a329eec8b11f0b259c5f46ab40/GHA00080__2020-10-04T21_35_25.692_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:57:36.148Z"
+    },
+    {
+      "fingerprint": "769f6bcfb37d092409d4f077fd3bedebe3d2f522",
+      "relativePath": "GHA00024 (2020-10-04T21_34_46.546).JPG",
+      "size": 6587244,
+      "assetId": "5fFpLgcXjgluyezmlvUkcX",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5fFpLgcXjgluyezmlvUkcX/8d158d5e6e005c6c39a6e944f1547de8/GHA00024__2020-10-04T21_34_46.546_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:57:36.520Z"
+    },
+    {
+      "fingerprint": "af31103c3c808348a3a6af4d76a17a038cec5f84",
+      "relativePath": "GHA00257 (2020-10-29T03_16_09.226).JPG",
+      "size": 12734953,
+      "assetId": "2gJikMZz4hMyEhw4RiPvoq",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2gJikMZz4hMyEhw4RiPvoq/53b4db60f0548be2312710aec10a8d88/GHA00257__2020-10-29T03_16_09.226_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:57:53.991Z"
+    },
+    {
+      "fingerprint": "fb26e72f999200dd681bd161825dfa65efa6e9e0",
+      "relativePath": "GHA00234 (2020-09-09T22_56_49.924).JPG",
+      "size": 13572035,
+      "assetId": "1VUIyhRtTJ7CUllZRowXoV",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1VUIyhRtTJ7CUllZRowXoV/408985c99e38bde6e097d8055de07203/GHA00234__2020-09-09T22_56_49.924_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:57:56.196Z"
+    },
+    {
+      "fingerprint": "1dcad2a0fef46c573083ac87895b766a211b87e5",
+      "relativePath": "DSC09340 (2024-05-12T20_41_21.906).jpg",
+      "size": 9665461,
+      "assetId": "4FGYfZP6jIDtePEcrdwVh2",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4FGYfZP6jIDtePEcrdwVh2/fe5a061b5ed0542427d6388f1a0d8c22/DSC09340__2024-05-12T20_41_21.906_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:58:00.780Z"
+    },
+    {
+      "fingerprint": "7e1f39ea4fc0e6a45cf35b39a649cafcdb5378bd",
+      "relativePath": "GHA00316 (2020-10-04T21_40_10.356).JPG",
+      "size": 7716494,
+      "assetId": "7Fgrh0IkDCRKrDrz9VWLqX",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7Fgrh0IkDCRKrDrz9VWLqX/465f78699a0370ebac9ae6c1d2f54986/GHA00316__2020-10-04T21_40_10.356_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:58:08.702Z"
+    },
+    {
+      "fingerprint": "40e1ab679e1ac39bc65abb819b770b6c61d05897",
+      "relativePath": "GHA00274 (2020-09-30T02_24_55.332).JPG",
+      "size": 9742108,
+      "assetId": "eTiPuILFCnNiW9sQe8yfo",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/eTiPuILFCnNiW9sQe8yfo/0a01e226ef28f2f84c85fcd6d023db4e/GHA00274__2020-09-30T02_24_55.332_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:58:10.076Z"
+    },
+    {
+      "fingerprint": "e75c0fb4321af47b808009c04ac0cdc0daa9fc2f",
+      "relativePath": "GHA00320 (2020-10-29T03_16_15.754).JPG",
+      "size": 8307004,
+      "assetId": "7iNppSSTDQVHYPNCVxeDeZ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7iNppSSTDQVHYPNCVxeDeZ/19797071575887bdf3bf5e3dd7b6edad/GHA00320__2020-10-29T03_16_15.754_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:58:14.495Z"
+    },
+    {
+      "fingerprint": "20cd4358752730d2307fe01b091fa4553dec9c96",
+      "relativePath": "GHA00408 (2020-09-15T03_25_16.101).JPG",
+      "size": 9223652,
+      "assetId": "4z4E0gwC4AOy9LlNY6aX6T",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4z4E0gwC4AOy9LlNY6aX6T/3270c8c0219d04762cfd890f996d7f50/GHA00408__2020-09-15T03_25_16.101_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:58:25.357Z"
+    },
+    {
+      "fingerprint": "69e88407cd528bee7de6d0b6399ac5375021d4b7",
+      "relativePath": "GHA00355 (2020-10-29T03_16_23.447).JPG",
+      "size": 10776579,
+      "assetId": "6fbACE7sFZtldejh2Ts5gE",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6fbACE7sFZtldejh2Ts5gE/d6f1985b57adb64d6babd42d9d7c6ce7/GHA00355__2020-10-29T03_16_23.447_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:58:29.572Z"
+    },
+    {
+      "fingerprint": "bb39ef9615561d2ddbf2b2f9bb0f3b4505f273e7",
+      "relativePath": "GHA00478.JPG",
+      "size": 6962630,
+      "assetId": "2EwBoovuzhzSJ3Ij4aZKKC",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2EwBoovuzhzSJ3Ij4aZKKC/bc5b669fb5c4bdb50361113c5f204586/GHA00478.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:58:37.834Z"
+    },
+    {
+      "fingerprint": "080f0850844bc3481e6fb963efc205c0601e0e0a",
+      "relativePath": "GHA00406 (2020-09-15T03_25_11.190).JPG",
+      "size": 12325159,
+      "assetId": "14nApYfVjYFgTKAJobscd1",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/14nApYfVjYFgTKAJobscd1/2b1669571bffa7eef8009211f2842a55/GHA00406__2020-09-15T03_25_11.190_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:58:55.814Z"
+    },
+    {
+      "fingerprint": "45f72252506fc774b7b6937f9c732fbeb42afb12",
+      "relativePath": "GHA00618.JPG",
+      "size": 8445840,
+      "assetId": "5wPhgc8hiSmnTDQxNhhxuH",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5wPhgc8hiSmnTDQxNhhxuH/9febfa6562002b756456ed0cc1696c40/GHA00618.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:58:58.123Z"
+    },
+    {
+      "fingerprint": "280e747ac60d88840483c47d85c44ff81da3f660",
+      "relativePath": "GHA00484 (2020-10-29T03_16_54.747).JPG",
+      "size": 10243000,
+      "assetId": "1dBjmzif330897xeAmJdIX",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1dBjmzif330897xeAmJdIX/9f5549cd63ed684be81f2bad8f5b05b1/GHA00484__2020-10-29T03_16_54.747_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:59:01.050Z"
+    },
+    {
+      "fingerprint": "6ed7a2946feef33be53b0bf6d908cbbf8713d6de",
+      "relativePath": "GHA00712 (2020-10-04T21_46_54.542).JPG",
+      "size": 9127309,
+      "assetId": "1uAPYA3wYYlfAN2EirkgZo",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1uAPYA3wYYlfAN2EirkgZo/40cd4f4c4ea56b5005fb833004a6f3ca/GHA00712__2020-10-04T21_46_54.542_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:59:06.924Z"
+    },
+    {
+      "fingerprint": "789acc37bdeca3d673ed087d078f2b7eddb98cad",
+      "relativePath": "GHA00876 (2020-10-04T21_50_28.840).JPG",
+      "size": 7728296,
+      "assetId": "xWdE7J1gYg6hj5C4LgCoO",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/xWdE7J1gYg6hj5C4LgCoO/e3ab9e43f4ce2732fec1311f7fa3354c/GHA00876__2020-10-04T21_50_28.840_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:59:09.554Z"
+    },
+    {
+      "fingerprint": "4312f975993738a23a9ad747a0acfdabd82237f3",
+      "relativePath": "GHA00880 (2020-09-30T02_25_58.771).JPG",
+      "size": 6008638,
+      "assetId": "17dLWfgFPGepluxS4rHqek",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/17dLWfgFPGepluxS4rHqek/eab95fa778c2dd4b9a7c674df3950ed1/GHA00880__2020-09-30T02_25_58.771_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:59:31.714Z"
+    },
+    {
+      "fingerprint": "439f20156024c060873830173688f9fee081027a",
+      "relativePath": "GHA00961 (2020-07-15T07_11_49.986).jpg",
+      "size": 10006317,
+      "assetId": "1YU8G5Olvw5pkksc9r2w4L",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1YU8G5Olvw5pkksc9r2w4L/f339c3d1f3dd29063f3fab33cd678627/GHA00961__2020-07-15T07_11_49.986_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:59:33.472Z"
+    },
+    {
+      "fingerprint": "d6a773fc5314749553b5ed18b215ad3f9cbbb94b",
+      "relativePath": "GHA01113 (2020-07-15T08_28_21.111).jpg",
+      "size": 8643726,
+      "assetId": "3FzVYs3ZYu3FuqZy4wrxq2",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3FzVYs3ZYu3FuqZy4wrxq2/5c81032fdf9d98c0abafef6779fab684/GHA01113__2020-07-15T08_28_21.111_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:59:55.179Z"
+    },
+    {
+      "fingerprint": "d0c9050c296e0f6486cbc6e9c6005d37e9207bdc",
+      "relativePath": "GHA01087 (2020-07-15T08_25_40.240).jpg",
+      "size": 9031270,
+      "assetId": "1wunTMukKiUuoTTNDz059x",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1wunTMukKiUuoTTNDz059x/33339e650ead023e1912ea13c054a7b2/GHA01087__2020-07-15T08_25_40.240_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:59:56.698Z"
+    },
+    {
+      "fingerprint": "73f758b610c3ee5aa428703644f7f9ee963cd1e1",
+      "relativePath": "GHA01044 (2020-07-15T08_21_03.794).jpg",
+      "size": 11454391,
+      "assetId": "2V7sBZ48P9ip8q0CWRClGm",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2V7sBZ48P9ip8q0CWRClGm/cce999e4a3ba70b286549da00087600d/GHA01044__2020-07-15T08_21_03.794_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T14:59:58.943Z"
+    },
+    {
+      "fingerprint": "dbad7e8709d96c864d02b020f485cd5639a2f3a2",
+      "relativePath": "GHA01319.JPG",
+      "size": 9284625,
+      "assetId": "5D7BZ9FDTH37nDNNi4mmYF",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5D7BZ9FDTH37nDNNi4mmYF/88985d475dceb61c9ca48d8572dae88a/GHA01319.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:00:11.281Z"
+    },
+    {
+      "fingerprint": "5934a06237a87dd98643126f906f6152765d3a5c",
+      "relativePath": "GHA01742.JPG",
+      "size": 12953869,
+      "assetId": "cNXpEqsN3g45mmJ6g37C9",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/cNXpEqsN3g45mmJ6g37C9/f86ab21fbd2b91c39facded012034232/GHA01742.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:00:13.319Z"
+    },
+    {
+      "fingerprint": "50421a1d17c578273616636fa033c5ed1552ac67",
+      "relativePath": "IMG_0922.jpg",
+      "size": 12473792,
+      "assetId": "3k78M6ZLm6kWFEEnLHWjoV",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3k78M6ZLm6kWFEEnLHWjoV/ff9cdc98d25f11045c4b680d991d9883/IMG_0922.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:00:27.974Z"
+    },
+    {
+      "fingerprint": "e1a6c62a0b6b1dd0ea22210cb623a792ea38a97f",
+      "relativePath": "IMG_0050.jpg",
+      "size": 7157113,
+      "assetId": "4IbuILDpe7CO4RFRyl4NR2",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4IbuILDpe7CO4RFRyl4NR2/bc5c6269b90f531b558b807957636ce0/IMG_0050.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:00:31.800Z"
+    },
+    {
+      "fingerprint": "c953427c8f005a91e620142e6f74efbfc8280ecc",
+      "relativePath": "IMG_0949.jpg",
+      "size": 9863528,
+      "assetId": "19Dqpi1Y9LPLQi5720y5zP",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/19Dqpi1Y9LPLQi5720y5zP/242e72b0a48a49ab6ac591461fb0911b/IMG_0949.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:00:39.520Z"
+    },
+    {
+      "fingerprint": "86d57015b5f51a7dff6ed49a4d1d1595b115d837",
+      "relativePath": "IMG_1066.jpg",
+      "size": 9718503,
+      "assetId": "4zIIeuQ4I5ue31XpwEHgJa",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4zIIeuQ4I5ue31XpwEHgJa/54c17ccd5553471676d26b55083fca29/IMG_1066.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:00:43.802Z"
+    },
+    {
+      "fingerprint": "9138aa1fd4f1d9af23472e7d73c95ef796b703ad",
+      "relativePath": "IMG_2661.jpg",
+      "size": 2635709,
+      "assetId": "67aQ6hgplMNyw8ixzi2dKH",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/67aQ6hgplMNyw8ixzi2dKH/25c085733139d6b22299022410289bac/IMG_2661.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:00:44.867Z"
+    },
+    {
+      "fingerprint": "204132c85f416c3da2ba657dcc8f53cc92b2f92c",
+      "relativePath": "IMG_2842.jpg",
+      "size": 6476383,
+      "assetId": "7ew2PqfFKsPULKQG6c3Gun",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7ew2PqfFKsPULKQG6c3Gun/d871e3767a362c1db45d3bfcb5148494/IMG_2842.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:00:55.936Z"
+    },
+    {
+      "fingerprint": "1ab65437138343c5097115a8943dd42044ce3cce",
+      "relativePath": "IMG_3727.jpg",
+      "size": 7351132,
+      "assetId": "5uuq1zdvMlinkFKrWtJSiF",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5uuq1zdvMlinkFKrWtJSiF/cc2567cd9e526c9aaa3fd38a9fc19e6f/IMG_3727.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:00:55.962Z"
+    },
+    {
+      "fingerprint": "3c8bf0b6391c43788741c64ba28f5120c8f430f7",
+      "relativePath": "IMG_3831.jpg",
+      "size": 9107321,
+      "assetId": "44ChHWsvx7o7nItTInPgU5",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/44ChHWsvx7o7nItTInPgU5/5865b9113bbcb87ae7c14aa3f6944693/IMG_3831.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:01:07.842Z"
+    },
+    {
+      "fingerprint": "96778af4ac97f4e05f6a2b41da3c40fc8a239e94",
+      "relativePath": "IMG_3833.jpg",
+      "size": 8704231,
+      "assetId": "5IeUphkxQF8y8S3rANPfX2",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5IeUphkxQF8y8S3rANPfX2/3fd1dbbc8f504e36bf88a6e42973e449/IMG_3833.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:01:11.819Z"
+    },
+    {
+      "fingerprint": "e67342a3671379dbe0dcd004348cf7567a598a25",
+      "relativePath": "IMG_3879.jpg",
+      "size": 9999443,
+      "assetId": "1Hl8RBZkQAiUmARrAH4dg2",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1Hl8RBZkQAiUmARrAH4dg2/eaf32b31b5d0dd5f4a662f3d15245bca/IMG_3879.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:01:16.959Z"
+    },
+    {
+      "fingerprint": "6f9f44d30353ef5da1d98903a6848d883c0c798f",
+      "relativePath": "IMG_4938 (2020-06-15T19_25_48.867).jpg",
+      "size": 11105710,
+      "assetId": "1jZBaSOyj0eaRWApiBA9Z8",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1jZBaSOyj0eaRWApiBA9Z8/904660c8bfc8763da2bd4764284f604f/IMG_4938__2020-06-15T19_25_48.867_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:01:27.586Z"
+    },
+    {
+      "fingerprint": "f1d9455c7512f7934d598467d8da462d1aa6023f",
+      "relativePath": "IMG_5105 (2020-06-15T19_26_18.616).jpg",
+      "size": 13491157,
+      "assetId": "6N74TqRMpbNTLFG0SQ24JC",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6N74TqRMpbNTLFG0SQ24JC/78dec37e12d87ee5f9f205f1d6db22c6/IMG_5105__2020-06-15T19_26_18.616_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:01:31.735Z"
+    },
+    {
+      "fingerprint": "301eabcbf22ee63e097562d271514c54ee950ab8",
+      "relativePath": "IMG_5107 (2020-06-15T19_26_33.957).jpg",
+      "size": 11949783,
+      "assetId": "2vBIPo3xmkDrKIVLNyzJde",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2vBIPo3xmkDrKIVLNyzJde/0197cdb04a53df80cd91482def128923/IMG_5107__2020-06-15T19_26_33.957_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:01:38.204Z"
+    },
+    {
+      "fingerprint": "9801d4050fd26ca8e9da84d19ee6e27c122fbb09",
+      "relativePath": "GHA01160 (2020-07-15T08_34_13.067).jpg",
+      "size": 15883408,
+      "assetId": "5T55C3PNJ3Xd49UOXakzuU",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5T55C3PNJ3Xd49UOXakzuU/6f926e65e6b78378d1038df752b2996f/GHA01160__2020-07-15T08_34_13.067_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:01:40.527Z"
+    },
+    {
+      "fingerprint": "824c5e690b220aaedf86cce28e3866d1cf60187b",
+      "relativePath": "IMG_6444 (2020-04-10T00_03_31.000).jpg",
+      "size": 9526724,
+      "assetId": "4uaobA7ULZVHVD0dyuJ23M",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4uaobA7ULZVHVD0dyuJ23M/0bfad18c6336c8dc9ee757da77ad1e3c/IMG_6444__2020-04-10T00_03_31.000_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:01:54.642Z"
+    },
+    {
+      "fingerprint": "394e317202ba25ef9334ec4395678ced90a200bf",
+      "relativePath": "IMG_6614.jpg",
+      "size": 8794073,
+      "assetId": "2ZKlUvsdP2E0nYHYov2DER",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2ZKlUvsdP2E0nYHYov2DER/3235ff39ec3a69fdb06bc3ab66dfb111/IMG_6614.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:02.451Z"
+    },
+    {
+      "fingerprint": "bb32b05de037e883c0d23a0f15ab28e2fb11aa50",
+      "relativePath": "IMG_7020.jpg",
+      "size": 7788464,
+      "assetId": "5FEVVmmJOPF2bE7TfjgK1S",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5FEVVmmJOPF2bE7TfjgK1S/04e762d5cdbd72a16389379e4722cfe2/IMG_7020.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:11.066Z"
+    },
+    {
+      "fingerprint": "c9ec80e4961295ff7257a6a874353dfd34bb995a",
+      "relativePath": "IMG_6700 (2020-12-31T15_36_03.281).jpg",
+      "size": 8309219,
+      "assetId": "7j9aTeNDEZxznS4U0Rns8G",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7j9aTeNDEZxznS4U0Rns8G/4b99b4dfcde74c66ed86a29391e949d7/IMG_6700__2020-12-31T15_36_03.281_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:15.291Z"
+    },
+    {
+      "fingerprint": "50f61ea81f1e2ec271111d55896432dab7f1fc2f",
+      "relativePath": "IMG_7024.jpg",
+      "size": 8958973,
+      "assetId": "2BHVHhHXm1swHlIEQ1ejtd",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2BHVHhHXm1swHlIEQ1ejtd/7b7e85cc40c4299e3810e9df365399b4/IMG_7024.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:18.762Z"
+    },
+    {
+      "fingerprint": "c2b598a5a1ce9e5476ae3bea40f67ad6d6dbdbe5",
+      "relativePath": "IMG_7079 (2020-06-19T22_42_48.896).jpg",
+      "size": 5734514,
+      "assetId": "3HcjQAdWT4cAZL05Mne0De",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3HcjQAdWT4cAZL05Mne0De/32d741eca47a000b44bf23ff209e3036/IMG_7079__2020-06-19T22_42_48.896_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:22.340Z"
+    },
+    {
+      "fingerprint": "5a7fa32b59f56d07cea307fa13cf52f899a0c176",
+      "relativePath": "IMG_7079.jpg",
+      "size": 7210181,
+      "assetId": "ZmzbUdwgnufwRjJs1Hv4f",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/ZmzbUdwgnufwRjJs1Hv4f/e56002a9ff5711aed1ed997ccd090458/IMG_7079.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:27.859Z"
+    },
+    {
+      "fingerprint": "4e56704fe8fc40472feef96834659d5bd8867057",
+      "relativePath": "IMG_6577 (2020-04-10T00_03_33.000).jpg",
+      "size": 10954413,
+      "assetId": "1ARZTmMjfRZ5AccvUfEf8Q",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1ARZTmMjfRZ5AccvUfEf8Q/39ef235a3563971d321ce552be6a30ac/IMG_6577__2020-04-10T00_03_33.000_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:29.773Z"
+    },
+    {
+      "fingerprint": "38560171c418947593f537f9d680c67d6e42a8cb",
+      "relativePath": "IMG_7082-2.jpg",
+      "size": 5285915,
+      "assetId": "6r0q3ysADMqQXzETois8TS",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6r0q3ysADMqQXzETois8TS/e93a89addbdf71e5e250ed11cde5f816/IMG_7082-2.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:31.452Z"
+    },
+    {
+      "fingerprint": "265371d7520440511974a86155dd488428aa0355",
+      "relativePath": "IMG_7090.jpg",
+      "size": 5664574,
+      "assetId": "6ZV29NvwwCivxlnsv9DiM0",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6ZV29NvwwCivxlnsv9DiM0/d75c1a09014f8a41529f81379d81a200/IMG_7090.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:34.006Z"
+    },
+    {
+      "fingerprint": "40b4e064bc193359213e239ca0de717fd42b402e",
+      "relativePath": "IMG_7148 - Copy.jpg",
+      "size": 3084245,
+      "assetId": "5IhYMhHyVuB9KW5CEhHQ4D",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5IhYMhHyVuB9KW5CEhHQ4D/a203ad5bf5a2859272891cfe41c41314/IMG_7148_-_Copy.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:36.627Z"
+    },
+    {
+      "fingerprint": "ccf4cb66614dc54b538a449014202e7bdb5f6944",
+      "relativePath": "IMG_7254.jpg",
+      "size": 9839606,
+      "assetId": "1OxvySITPqSPZo4TkR8qRj",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1OxvySITPqSPZo4TkR8qRj/52873956f889216055ebf87ce3886bd9/IMG_7254.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:41.928Z"
+    },
+    {
+      "fingerprint": "796c10f065ab00ae1c4ad26344a2373b6cd714f1",
+      "relativePath": "IMG_7420.jpg",
+      "size": 6001968,
+      "assetId": "1hfzoTsNhVmQg4qKE6a0AZ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1hfzoTsNhVmQg4qKE6a0AZ/c893b328f182664c19c5718e65f0c88c/IMG_7420.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:50.415Z"
+    },
+    {
+      "fingerprint": "5ee76282932acf966be53b853f12f6703bffa0f2",
+      "relativePath": "IMG_7430.jpg",
+      "size": 7462182,
+      "assetId": "1i5jQDADVuuVZeMA49YaU0",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1i5jQDADVuuVZeMA49YaU0/99aa4cbc0edf5c0af250981e56c9e551/IMG_7430.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:02:57.406Z"
+    },
+    {
+      "fingerprint": "6b5f1ca45b4182497265b942e31855bd5fd7ed88",
+      "relativePath": "IMG_7533.jpg",
+      "size": 6130196,
+      "assetId": "3rWGEqRyfgm2L1woGCPLva",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3rWGEqRyfgm2L1woGCPLva/9abd1628e276e44eed4ff2185d0fd828/IMG_7533.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:03.500Z"
+    },
+    {
+      "fingerprint": "5c536ec608c1262bd93cc612fa1c04d777ef767e",
+      "relativePath": "IMG_7538.jpg",
+      "size": 7682271,
+      "assetId": "7zu3siZRVaXygtswrL4hD6",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7zu3siZRVaXygtswrL4hD6/2c6f9c1db1fb9884c08e0100dc2174fe/IMG_7538.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:12.880Z"
+    },
+    {
+      "fingerprint": "0073c658931f89a67b3e5c26334e07d96cfb9ff5",
+      "relativePath": "IMG_7198.jpg",
+      "size": 9076549,
+      "assetId": "2zdj6QlW0OClhlDjUqnhfP",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2zdj6QlW0OClhlDjUqnhfP/f394fa95f32eb6a5c11f7f6b5d43af5d/IMG_7198.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:13.548Z"
+    },
+    {
+      "fingerprint": "2bf7aea9cbbec1d4e617cf536bb5ebec2a7da6a4",
+      "relativePath": "IMG_7269.jpg",
+      "size": 9612374,
+      "assetId": "74r4CzUd2gZx1zfra1ccAz",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/74r4CzUd2gZx1zfra1ccAz/81a3e513c45b1bce38afffc747f8ce4a/IMG_7269.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:16.353Z"
+    },
+    {
+      "fingerprint": "acefa814958efd1c9d2fd882d2593ca846b45e77",
+      "relativePath": "IMG_7802 (2020-12-31T15_37_56.966).jpg",
+      "size": 6784394,
+      "assetId": "7E2T75bm9kzSOey44JSoBj",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7E2T75bm9kzSOey44JSoBj/b04b6f0d033ff0cbc92900f7bddc2aa0/IMG_7802__2020-12-31T15_37_56.966_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:20.377Z"
+    },
+    {
+      "fingerprint": "71622f87acaf040ba9f567f9a207c67f42980c98",
+      "relativePath": "IMG_8136.jpg",
+      "size": 2740537,
+      "assetId": "46rTGBmoHwwN2c33rLBCIb",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/46rTGBmoHwwN2c33rLBCIb/56c8a5b701686599752c851ac8542f73/IMG_8136.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:21.149Z"
+    },
+    {
+      "fingerprint": "897dc290f5151ffbfeea144760b1835edf2f717c",
+      "relativePath": "IMG_8686.jpg",
+      "size": 5903184,
+      "assetId": "3NEqsBRQgM7aX3zkYQXFnY",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3NEqsBRQgM7aX3zkYQXFnY/ee4324875b6eb0e398b11b5bc140c9a1/IMG_8686.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:28.864Z"
+    },
+    {
+      "fingerprint": "84615e7252f44a564a34d93ce5975f4f4775c0a2",
+      "relativePath": "IMG_8440.jpg",
+      "size": 14158815,
+      "assetId": "41zDH7lzYBLN9M5QvKk2Ge",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/41zDH7lzYBLN9M5QvKk2Ge/07e2578d70dd6474ef410ed64f349d3c/IMG_8440.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:32.599Z"
+    },
+    {
+      "fingerprint": "74d612b52460be7b2601484ce6032854e20fa13f",
+      "relativePath": "IMG_9046.jpg",
+      "size": 8691473,
+      "assetId": "5YlcxQ6hGPVVNXjoNPiyJZ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5YlcxQ6hGPVVNXjoNPiyJZ/1efd620e093d43dcb5d212a680465a57/IMG_9046.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:36.683Z"
+    },
+    {
+      "fingerprint": "621435ac728767d0b18888a67776eb5921e09f64",
+      "relativePath": "IMG_7719.jpg",
+      "size": 7425316,
+      "assetId": "1AKcBQ8HFl406q0Eiybff5",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1AKcBQ8HFl406q0Eiybff5/1a45d5ceb444fdc97ce16b1e987ddc97/IMG_7719.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:40.464Z"
+    },
+    {
+      "fingerprint": "0898daf8bd98fa02d65eb1b06f3e1c6afd8df887",
+      "relativePath": "IMG_9249.jpg",
+      "size": 8241065,
+      "assetId": "5PUDKNhHX6KSqscNe0lVxI",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5PUDKNhHX6KSqscNe0lVxI/38fed6439f23dce0b665c901eda57c5d/IMG_9249.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:40.514Z"
+    },
+    {
+      "fingerprint": "42739346b1930e4a49199733ff51a499c83d7004",
+      "relativePath": "IMG_9308.jpg",
+      "size": 4021569,
+      "assetId": "2JZcKEt6usEQIoxLKqcW7f",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2JZcKEt6usEQIoxLKqcW7f/8cea315e3a87bfa2555b8bbba382507f/IMG_9308.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:43.066Z"
+    },
+    {
+      "fingerprint": "251b68b9bfb9b2af7bcdead0f239155d6e4e52cd",
+      "relativePath": "IMG_9387.jpg",
+      "size": 8788919,
+      "assetId": "36b7m9fskRHRBA1JPoQoME",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/36b7m9fskRHRBA1JPoQoME/32ce27eecc40d13c42e3b9fda7efbf9f/IMG_9387.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:48.622Z"
+    },
+    {
+      "fingerprint": "099152a8869addfb3de3498d3ea72988be1f5bad",
+      "relativePath": "IMG_9418.jpg",
+      "size": 4606047,
+      "assetId": "ctrLGxSVPXxBpk9KatXvX",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/ctrLGxSVPXxBpk9KatXvX/9f1ed7d3ca2852a66f879cfe5b3fb5dd/IMG_9418.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:49.877Z"
+    },
+    {
+      "fingerprint": "d955b965774b5200e393939f9ef2a7a23203f0f7",
+      "relativePath": "IMG_9435.jpg",
+      "size": 4773223,
+      "assetId": "3y1fIt4VC4OdBEgiNmaWsl",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3y1fIt4VC4OdBEgiNmaWsl/031809e1564fc96b0fdb83f2c5027095/IMG_9435.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:53.546Z"
+    },
+    {
+      "fingerprint": "615569068feffd3a9e9b508a26126a6671d39d18",
+      "relativePath": "IMG_9539.jpg",
+      "size": 4368354,
+      "assetId": "6z5yOMXj6MEzEOqwkClNBz",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6z5yOMXj6MEzEOqwkClNBz/0d764cdcd47930630e73579bb1e21bc2/IMG_9539.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:03:55.275Z"
+    },
+    {
+      "fingerprint": "a108707ce3f606154b43781573bf6b3db4b7a94e",
+      "relativePath": "IMG_9675.jpg",
+      "size": 12291321,
+      "assetId": "4pmlyOgR3IMjsZXoPiELjO",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4pmlyOgR3IMjsZXoPiELjO/3536223571bddb8f5b29bc964389a843/IMG_9675.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:03.952Z"
+    },
+    {
+      "fingerprint": "0ffe24d9346f5dba39747c75d44aa7350df647d9",
+      "relativePath": "IMG_9679.jpg",
+      "size": 11710524,
+      "assetId": "6jahGmy7DG8sjvHvYAIUyi",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6jahGmy7DG8sjvHvYAIUyi/8242d83616f5fb0cb57da691b8447f5e/IMG_9679.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:06.498Z"
+    },
+    {
+      "fingerprint": "d4bc07382e1eb5f97d1e165bbadc16956f5ef6e8",
+      "relativePath": "IMG_9686.jpg",
+      "size": 11550104,
+      "assetId": "6NnKaGJQ2W1QSmWDCXS3ZF",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6NnKaGJQ2W1QSmWDCXS3ZF/2e34714ed133f02af17e09be74753136/IMG_9686.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:12.557Z"
+    },
+    {
+      "fingerprint": "43598895c9f20343976bb606ef8eedba15e52a61",
+      "relativePath": "IMG_9687 (1).jpg",
+      "size": 12839346,
+      "assetId": "7KWOsnOscklDBd5B3wQWHS",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7KWOsnOscklDBd5B3wQWHS/3b72af78caf7486182eb2ebe8c8a84ba/IMG_9687__1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:15.877Z"
+    },
+    {
+      "fingerprint": "56d64c6e26f8c7b890fd339409df282b496411a1",
+      "relativePath": "JOSI (52).JPG",
+      "size": 8077490,
+      "assetId": "4JbgmNZiUbfoLn0sQN3Ol",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4JbgmNZiUbfoLn0sQN3Ol/4fe7b803616362a7a23922a1893a15a5/JOSI__52_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:19.623Z"
+    },
+    {
+      "fingerprint": "383865c7ca71c5b5351cb86abf4d884636f6c349",
+      "relativePath": "MINA (17).jpg",
+      "size": 15182959,
+      "assetId": "3gmGTq3ty3eCrFyYkSBChs",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3gmGTq3ty3eCrFyYkSBChs/6d36b0cb893a0c1491c0ecaf24221d17/MINA__17_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:24.130Z"
+    },
+    {
+      "fingerprint": "2c5589960701c2b7dfb6461e3dd14c7d52eef3ed",
+      "relativePath": "MINA (187).JPG",
+      "size": 3991208,
+      "assetId": "1PYxL8SaEGwYqcHK5KOGHl",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1PYxL8SaEGwYqcHK5KOGHl/39372ea6253cacdd95886685d973e10d/MINA__187_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:24.193Z"
+    },
+    {
+      "fingerprint": "d3170a5aee478988313e8f531a4d96744deed75c",
+      "relativePath": "MINA (240).JPG",
+      "size": 3824649,
+      "assetId": "1qGyGTV2362RpQr5PdXvgj",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1qGyGTV2362RpQr5PdXvgj/b90477e2fb99e02c2f106edf35ea9da9/MINA__240_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:30.090Z"
+    },
+    {
+      "fingerprint": "439d00e476a1cdbeac2d8cf86079add24953a0cc",
+      "relativePath": "MINA (234).JPG",
+      "size": 9254504,
+      "assetId": "4KGDkBa685qKOHt88wExI0",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4KGDkBa685qKOHt88wExI0/f0cb9a07d09bd92871b66522ed6f6297/MINA__234_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:35.973Z"
+    },
+    {
+      "fingerprint": "4465850eb2ae86ba1f4c2293140beffe2e280153",
+      "relativePath": "MINA (360).JPG",
+      "size": 11263170,
+      "assetId": "5MyNNxlv7VGzVc3VEFFdSf",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5MyNNxlv7VGzVc3VEFFdSf/8d8b491a33c0ee80d712f3df6bdf1a39/MINA__360_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:40.470Z"
+    },
+    {
+      "fingerprint": "39cb85db204b316b96c7a0cf6efc36a5fe2e3ee8",
+      "relativePath": "IMG_9343.jpg",
+      "size": 18628499,
+      "assetId": "5YMnx0Abr6YX8uFjXmDM96",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5YMnx0Abr6YX8uFjXmDM96/42332f6953f30a131b0122b700c4ff4a/IMG_9343.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:44.297Z"
+    },
+    {
+      "fingerprint": "8d8257cc8a35f7e22cf1771a4b6bdfbd894bd858",
+      "relativePath": "MINA (62).JPG",
+      "size": 10433612,
+      "assetId": "IGviQIYhs50ovA62zujrR",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/IGviQIYhs50ovA62zujrR/a7c7c0087e7344e40ab0903771924e83/MINA__62_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:45.612Z"
+    },
+    {
+      "fingerprint": "3c58bf0820828cb1d4ffbacbc5ec343b68f6b360",
+      "relativePath": "Screen Shot 2020-07-23 at 11.11.58 PM.png",
+      "size": 1771412,
+      "assetId": "eqaBajYNvQTuwVgJrxFn0",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/eqaBajYNvQTuwVgJrxFn0/0dc6058e44dbd39c03978d80b286e681/Screen_Shot_2020-07-23_at_11.11.58_PM.png",
+      "contentType": "image/png",
+      "uploadedAt": "2026-05-14T15:04:51.249Z"
+    },
+    {
+      "fingerprint": "cba3eb178d3a3d44dd0af25350c284bcf1f1908b",
+      "relativePath": "Screen Shot 2020-07-23 at 11.12.30 PM.png",
+      "size": 754513,
+      "assetId": "2I76U4T5Ut6pdGmgBUZKEg",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2I76U4T5Ut6pdGmgBUZKEg/a8ab32308a77852e29cabf0c8e0f14b6/Screen_Shot_2020-07-23_at_11.12.30_PM.png",
+      "contentType": "image/png",
+      "uploadedAt": "2026-05-14T15:04:55.480Z"
+    },
+    {
+      "fingerprint": "b3a9a54465cd529f7d749907ba4e80187f307a63",
+      "relativePath": "REMMY103.jpeg",
+      "size": 27203765,
+      "assetId": "I7peYbDOWHhdN4NbL8Ym7",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/I7peYbDOWHhdN4NbL8Ym7/84579d265729f3c14b56d94f3d600bf2/REMMY103.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:04:57.271Z"
+    },
+    {
+      "fingerprint": "ecc66ff841a9bbd0ba115fc2b64e2ce190477300",
+      "relativePath": "Screen Shot 2020-07-23 at 11.38.17 PM.png",
+      "size": 825004,
+      "assetId": "6ETlAc2Cvgrd1YugCVtZlk",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6ETlAc2Cvgrd1YugCVtZlk/98eed59dbee40f32e15121ac600d18ef/Screen_Shot_2020-07-23_at_11.38.17_PM.png",
+      "contentType": "image/png",
+      "uploadedAt": "2026-05-14T15:04:57.579Z"
+    },
+    {
+      "fingerprint": "5a672f928869aaeca622b6936a889004e0d85683",
+      "relativePath": "Screen Shot 2020-07-23 at 11.47.37 PM.png",
+      "size": 1251641,
+      "assetId": "2QrALeVpOe3TOfGbG4b5Z6",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2QrALeVpOe3TOfGbG4b5Z6/4babcb172e44a87ebc7e01d28073d1f4/Screen_Shot_2020-07-23_at_11.47.37_PM.png",
+      "contentType": "image/png",
+      "uploadedAt": "2026-05-14T15:04:59.941Z"
+    },
+    {
+      "fingerprint": "2ca63abb7a30126fa5300b295c9b951efd8b73cd",
+      "relativePath": "Screen Shot 2020-07-23 at 11.41.10 PM.png",
+      "size": 528619,
+      "assetId": "3qHHS3ekaaa9ezNRehqwKN",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3qHHS3ekaaa9ezNRehqwKN/2a4cf93849d9dce194d0e957cab57ee7/Screen_Shot_2020-07-23_at_11.41.10_PM.png",
+      "contentType": "image/png",
+      "uploadedAt": "2026-05-14T15:05:01.085Z"
+    },
+    {
+      "fingerprint": "672af0c0bdaef238694be4d5fec267bff07593e3",
+      "relativePath": "Screen Shot 2020-07-23 at 11.53.52 PM.png",
+      "size": 1678062,
+      "assetId": "4WdeeGkYwl4qRZOeXfWQUg",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4WdeeGkYwl4qRZOeXfWQUg/2d53b696e0aaab32a4cbd47ee640ec02/Screen_Shot_2020-07-23_at_11.53.52_PM.png",
+      "contentType": "image/png",
+      "uploadedAt": "2026-05-14T15:05:03.961Z"
+    },
+    {
+      "fingerprint": "253585de4c56460b1804af9fa92e12e9430dc609",
+      "relativePath": "REMMY68.jpeg",
+      "size": 22320575,
+      "assetId": "1RR4tixqzRdzDsqbOyJT9j",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1RR4tixqzRdzDsqbOyJT9j/5a17cec3723d22f2aca6a7fc96facfed/REMMY68.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:05:07.269Z"
+    },
+    {
+      "fingerprint": "e0dec17a9ef47e26ad52bde34740e15c1d9d0b2d",
+      "relativePath": "VANESSA (24).jpg",
+      "size": 9415634,
+      "assetId": "7vlGmlkNPj6sGY9ZAeBezP",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7vlGmlkNPj6sGY9ZAeBezP/b35a985d477421d22e755ecc6c0bfc96/VANESSA__24_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:05:10.438Z"
+    },
+    {
+      "fingerprint": "665d6be78ee432cc53682709a330d8c3a8d52bd6",
+      "relativePath": "ZNA K (450) (2020-12-11T09_16_48.992).jpg",
+      "size": 14432794,
+      "assetId": "5CAKBqHSDI48JfPpcAakMH",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5CAKBqHSDI48JfPpcAakMH/af65a344826ce5501762cb9555571467/ZNA_K__450___2020-12-11T09_16_48.992_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:05:17.949Z"
+    },
+    {
+      "fingerprint": "57a958d8f2b089f9c640e013b90ee300fee6e793",
+      "relativePath": "ZNA K (516) (2020-12-11T09_17_18.593).jpg",
+      "size": 11553554,
+      "assetId": "5TBfyhNSvWNxh5hnL9HdoB",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5TBfyhNSvWNxh5hnL9HdoB/b9b3e552326d24ef4592d81cd00384cc/ZNA_K__516___2020-12-11T09_17_18.593_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:05:20.783Z"
+    },
+    {
+      "fingerprint": "f922b266fc86eb429d5792786137f4e8e020c009",
+      "relativePath": "ZNA K (152) (2020-12-14T04_11_24.017).jpg",
+      "size": 11388779,
+      "assetId": "4R5qyo3SIFwfCxdQTunAkX",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4R5qyo3SIFwfCxdQTunAkX/fb74fe44e89b8d7b68a84295b4342d49/ZNA_K__152___2020-12-14T04_11_24.017_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:05:30.739Z"
+    },
+    {
+      "fingerprint": "a338f9fe15d3c2659bd7311af31cbf090da294ef",
+      "relativePath": "ZNA K 03-04 (220) (1).JPG",
+      "size": 17984985,
+      "assetId": "222LruPHgbAX3t5C16XPts",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/222LruPHgbAX3t5C16XPts/8db9bfb043d2d215d0adb1d39f6dd32e/ZNA_K_03-04__220___1_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:05:30.816Z"
+    },
+    {
+      "fingerprint": "4e4432e1707469742f5f53db9323e0be5a8c9840",
+      "relativePath": "ZNA K 03-04 (345).JPG",
+      "size": 16176703,
+      "assetId": "3cS215S9YJaXJZ1vrh3YGl",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3cS215S9YJaXJZ1vrh3YGl/8b9c26e9efa14b07376f21e5e4a2178e/ZNA_K_03-04__345_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:05:35.739Z"
+    },
+    {
+      "fingerprint": "64efd6aec4f2368ccc8ef961dc43e0539c9172e6",
+      "relativePath": "ZNA K 03-04 (396).JPG",
+      "size": 16754974,
+      "assetId": "6DhDHkXBxMpHCtTOUnmOip",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6DhDHkXBxMpHCtTOUnmOip/0109d8a62c83c7f55b838bbcb85453d3/ZNA_K_03-04__396_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:05:45.087Z"
+    },
+    {
+      "fingerprint": "8a95fca7144005a854ff8c871a9df217e2b9fdaf",
+      "relativePath": "ZNA K 03-04 (444)i.jpg",
+      "size": 4660495,
+      "assetId": "N1aAGuXOkY1UvBIZusQon",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/N1aAGuXOkY1UvBIZusQon/3b05a864175d39051694fb538ea36459/ZNA_K_03-04__444_i.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:05:45.088Z"
+    },
+    {
+      "fingerprint": "815e951f565d433ead831dcf23c27554ebfdaed2",
+      "relativePath": "ZNA K 760 (136) (1).jpg",
+      "size": 19530564,
+      "assetId": "65bzuM1jReiKJfg7whdhKP",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/65bzuM1jReiKJfg7whdhKP/cda5124e5af1f9ad324512634c88b165/ZNA_K_760__136___1_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:06:00.830Z"
+    },
+    {
+      "fingerprint": "add427476edd6db752772eac5b58ede79857f3c6",
+      "relativePath": "ZNA K 760 (281).jpg",
+      "size": 21961461,
+      "assetId": "6Bl1Wnv6n2Q07NNipQMZK7",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6Bl1Wnv6n2Q07NNipQMZK7/e470d0e798054db8eda1df312a0d2f4a/ZNA_K_760__281_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:06:03.245Z"
+    },
+    {
+      "fingerprint": "43d6e102a888100d3cec8a0de5cf1bbe2438680e",
+      "relativePath": "ZNA K 760 (420).jpg",
+      "size": 16055705,
+      "assetId": "4o7cvXyCbTZHBPEDTs601W",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4o7cvXyCbTZHBPEDTs601W/2fd0956c3d3da6504d21df3d3359102a/ZNA_K_760__420_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:06:14.841Z"
+    },
+    {
+      "fingerprint": "e3172c96667704eae400b8751f8b96be5eb13a6e",
+      "relativePath": "ZNA K 760 (394).jpg",
+      "size": 20310814,
+      "assetId": "6XE6bIMPzAp12or36Erfps",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6XE6bIMPzAp12or36Erfps/29f3c5ade8184c4bc03c8e43daa914f3/ZNA_K_760__394_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:06:19.025Z"
+    },
+    {
+      "fingerprint": "1bf94d034f1ea165d98cf50995c9cf1b01882ce1",
+      "relativePath": "ZNA K 760 (460).jpg",
+      "size": 13943398,
+      "assetId": "1l1Z3yJRZiomGX6lrsvnAs",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1l1Z3yJRZiomGX6lrsvnAs/39a2366dd267cf8ab15893420f89ce4a/ZNA_K_760__460_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:06:28.886Z"
+    },
+    {
+      "fingerprint": "e6a822e4c449a82d4649fffafae6652c22d8e76f",
+      "relativePath": "_MG_0121.jpg",
+      "size": 10646342,
+      "assetId": "1MmubDvSzQZPR5TOYVxXV9",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1MmubDvSzQZPR5TOYVxXV9/e07a0e7977d3339936794a5e7c208ee9/_MG_0121.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:06:34.835Z"
+    },
+    {
+      "fingerprint": "a42c1ff1ac19cc680b66a8e21469aeafe8c8ee60",
+      "relativePath": "_MG_0250.jpg",
+      "size": 14245101,
+      "assetId": "4jMCGCcQgs5hmllVRURGos",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4jMCGCcQgs5hmllVRURGos/914414a0b2c9a6a4beadbb17049c402e/_MG_0250.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:06:44.895Z"
+    },
+    {
+      "fingerprint": "10b978b6e88e095fd8f3921c5f3b3f5ea4c7f760",
+      "relativePath": "_MG_0251.jpg",
+      "size": 14289715,
+      "assetId": "7L3movaaeq9NJ0KQ62mRZX",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7L3movaaeq9NJ0KQ62mRZX/2f2f3336eaa97369e06ee840ec923779/_MG_0251.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:06:45.195Z"
+    },
+    {
+      "fingerprint": "6678d2e0a397f0141643840dfb1f969861cdad42",
+      "relativePath": "ZNA K 03-04 (360).JPG",
+      "size": 17017231,
+      "assetId": "7AmvdTnCcCrkk29TEFtzYa",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7AmvdTnCcCrkk29TEFtzYa/cfd56a018a0b0b3e26b4eb5e2466d235/ZNA_K_03-04__360_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:06:55.361Z"
+    },
+    {
+      "fingerprint": "2d7c24c4ea27d40d7a21beacddfb9d808fbb2b4b",
+      "relativePath": "_MG_0259.jpg",
+      "size": 10537613,
+      "assetId": "c60OewWCHLaYVd9qxR305",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/c60OewWCHLaYVd9qxR305/14e9420c322248732654058013705153/_MG_0259.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:06:56.420Z"
+    },
+    {
+      "fingerprint": "74c74d277bb8c6692bd87ca9906ecdd9e53ddea3",
+      "relativePath": "_MG_0258.jpg",
+      "size": 12964955,
+      "assetId": "1pxYETqZXWaYGqSSPzk4LO",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1pxYETqZXWaYGqSSPzk4LO/ce6807ab913edcf4aa1c68eaeeaf7638/_MG_0258.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:06:56.751Z"
+    },
+    {
+      "fingerprint": "a856b932a24704a5a9f1781fe7e386b78dbca678",
+      "relativePath": "_MG_0293.jpg",
+      "size": 10696350,
+      "assetId": "23IeEa1joI4gDK1YP4Ntnn",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/23IeEa1joI4gDK1YP4Ntnn/b5dccf0125da81970d80676dcd13799d/_MG_0293.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:07:09.157Z"
+    },
+    {
+      "fingerprint": "815a275c8fb61bcdb9bd2eb97e55d139b37c92a0",
+      "relativePath": "_MG_0287.jpg",
+      "size": 11710196,
+      "assetId": "4jsoUY7nFXu5TJdL6uD19l",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4jsoUY7nFXu5TJdL6uD19l/a65420c1875bbfe615793d26f1e9a38c/_MG_0287.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:07:09.160Z"
+    },
+    {
+      "fingerprint": "41d2689e105c5e7813692cacd892ccf4200a2cbe",
+      "relativePath": "_MG_0434.jpg",
+      "size": 10043171,
+      "assetId": "301XuGeWslBrhQ1wLE5bpm",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/301XuGeWslBrhQ1wLE5bpm/2365eef33082238377421ce91ef9e9d3/_MG_0434.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:07:20.054Z"
+    },
+    {
+      "fingerprint": "28290efc1c2bdedee83b29be1290aaeeb4963614",
+      "relativePath": "_MG_2789.jpg",
+      "size": 10802081,
+      "assetId": "0Wh7jEnaqtxA5giLowZAp",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/0Wh7jEnaqtxA5giLowZAp/d7bcf25e2a1931f952dcb0909b9e0148/_MG_2789.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:07:20.055Z"
+    },
+    {
+      "fingerprint": "4eb81cf1953a72e7736e724680b78949c82bcaa0",
+      "relativePath": "_MG_2806.jpg",
+      "size": 10099101,
+      "assetId": "7yAVTYELBGFGKMIE7VQMkl",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7yAVTYELBGFGKMIE7VQMkl/e87928c8c5f0b4544263fb5d3f43b7fb/_MG_2806.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:07:30.661Z"
+    },
+    {
+      "fingerprint": "f13ffa4b3dc0a469a16451441c54a5e6879d3aec",
+      "relativePath": "_MG_2790.jpg",
+      "size": 9551634,
+      "assetId": "3srKhi8dV8tr0MLThXTdCL",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3srKhi8dV8tr0MLThXTdCL/ef0ff7615e5972de66561c5ce61d8aa8/_MG_2790.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:07:31.037Z"
+    },
+    {
+      "fingerprint": "311ec4b75575534894c77bcf32dc533777707487",
+      "relativePath": "_MG_2809.jpg",
+      "size": 9613535,
+      "assetId": "5aBCisvPbLnhm0jX3jDSVi",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5aBCisvPbLnhm0jX3jDSVi/ca6aaf7b956737c956092d13f0f3a29e/_MG_2809.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:07:41.143Z"
+    },
+    {
+      "fingerprint": "164dfbb707f7465272fa3c7a269e88d68d3620a8",
+      "relativePath": "_MG_3060.jpg",
+      "size": 4897764,
+      "assetId": "qtLIs3UnwGWoMmiOXKV4Q",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/qtLIs3UnwGWoMmiOXKV4Q/e06c5798ef36d64749ceacf0e605e2af/_MG_3060.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:07:41.388Z"
+    },
+    {
+      "fingerprint": "144cded87eac60a0984302bd2571b89a9bde1e55",
+      "relativePath": "_MG_0282.jpg",
+      "size": 13594088,
+      "assetId": "5I0EC8r5v8dggTsalsAhs2",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5I0EC8r5v8dggTsalsAhs2/1b0d92f2ca5e4ba3733146cf07df37d8/_MG_0282.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:07:51.030Z"
+    },
+    {
+      "fingerprint": "d77e361a00ce947d300aea41e8c0f62ad2503856",
+      "relativePath": "_MG_3183.jpg",
+      "size": 9574810,
+      "assetId": "1qKdhYwnoA8CVn0p0MYyOk",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1qKdhYwnoA8CVn0p0MYyOk/7216471d80e01b35a19168772637e858/_MG_3183.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:07:51.537Z"
+    },
+    {
+      "fingerprint": "760727b395efb2408e923c221831c099d5d8984b",
+      "relativePath": "_MG_3189.jpg",
+      "size": 10960938,
+      "assetId": "75jgEk2cZftwiioZLLa0UI",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/75jgEk2cZftwiioZLLa0UI/b62dabcc129f8107c1385dff7c31616b/_MG_3189.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:07:53.031Z"
+    },
+    {
+      "fingerprint": "d9d8d44b423f10ac318ca35584177df06b1551a9",
+      "relativePath": "_MG_3780.jpg",
+      "size": 9227429,
+      "assetId": "5H0pVM8hlP5yI4nbmKzcvQ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5H0pVM8hlP5yI4nbmKzcvQ/276d04e36fdf8fca22676d9bda8caebb/_MG_3780.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:01.243Z"
+    },
+    {
+      "fingerprint": "45e85df9ad9467a7f0455bacd96838aa547d97b7",
+      "relativePath": "_MG_3782.jpg",
+      "size": 9387107,
+      "assetId": "1aKvCwphCJLHYmNKqxd6on",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1aKvCwphCJLHYmNKqxd6on/48c03e0a720519093b0ff68be79f0b84/_MG_3782.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:03.030Z"
+    },
+    {
+      "fingerprint": "a2c36fa5ff2193617108d5c0b40aaa91b8b750b3",
+      "relativePath": "_MG_3788.jpg",
+      "size": 10619864,
+      "assetId": "2jzek1dUoqrbBO6ZYB8GBh",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2jzek1dUoqrbBO6ZYB8GBh/033d8f35edc12b421f4a733c65628b73/_MG_3788.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:10.867Z"
+    },
+    {
+      "fingerprint": "5dc85597377b61c60e7941d0ce053f0aabef9d94",
+      "relativePath": "_MG_3796.jpg",
+      "size": 9942412,
+      "assetId": "270Y7PFCML4uEYyAw1HTR6",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/270Y7PFCML4uEYyAw1HTR6/b1a4b9e52c3390768409166cba7ca0c0/_MG_3796.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:13.764Z"
+    },
+    {
+      "fingerprint": "95c2510c5d37f81457e499c8bdf30bb60e4af91e",
+      "relativePath": "_MG_3806.jpg",
+      "size": 7939493,
+      "assetId": "2aHLhqZQqedvMRHCrimBAu",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2aHLhqZQqedvMRHCrimBAu/7ceaab08a12fc94058e64c834d006c34/_MG_3806.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:18.373Z"
+    },
+    {
+      "fingerprint": "d320e3f25bbdeadae623233268ab5c135f2b7707",
+      "relativePath": "_MG_3859.jpg",
+      "size": 10008727,
+      "assetId": "7fJJQs7uB0ArQihbKDUXn2",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7fJJQs7uB0ArQihbKDUXn2/95fc3a047a1e93934beaa333a11706bc/_MG_3859.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:22.573Z"
+    },
+    {
+      "fingerprint": "79f1b960e941affe4e0af545843185e4c12f671c",
+      "relativePath": "_MG_6022 (2020-11-30T03_03_33.357).jpg",
+      "size": 8569911,
+      "assetId": "1dsSciIrm6VRHkxX3mrriY",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1dsSciIrm6VRHkxX3mrriY/20aec7dcbee08d353a70ba256684772a/_MG_6022__2020-11-30T03_03_33.357_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:26.802Z"
+    },
+    {
+      "fingerprint": "aa170eac29179a2d6c98c28ee8bb93fc5f732c89",
+      "relativePath": "_MG_7304.jpg",
+      "size": 12347699,
+      "assetId": "3jG6zTMu54bDNLB1jJLeUe",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3jG6zTMu54bDNLB1jJLeUe/efaab21b7978a3859986f2bb914f26be/_MG_7304.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:33.165Z"
+    },
+    {
+      "fingerprint": "8851c827ffada0417f0294fa7bfc980209bccd77",
+      "relativePath": "_MG_7306.jpg",
+      "size": 13187902,
+      "assetId": "2cEPQdPvA9aYc7IApHL1me",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/2cEPQdPvA9aYc7IApHL1me/198aca9438d18fa91a69a3b97fd74998/_MG_7306.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:36.593Z"
+    },
+    {
+      "fingerprint": "3974dcc9d53d0bb6eab6d58ed546ad3e2a701f16",
+      "relativePath": "_MG_7317.jpg",
+      "size": 9614715,
+      "assetId": "3Qm24JwPryHITrXQy6UQw6",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3Qm24JwPryHITrXQy6UQw6/772b455229c16417e8767d04d3bae5c5/_MG_7317.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:41.381Z"
+    },
+    {
+      "fingerprint": "d3bc974d0eeb10f8f310bd8ced50ad957f3246bf",
+      "relativePath": "_MG_7323.jpg",
+      "size": 8248958,
+      "assetId": "5tUO4DhN3wI1raP4BS9DME",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5tUO4DhN3wI1raP4BS9DME/c0d4e59663a2d16d18edebec73384663/_MG_7323.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:44.070Z"
+    },
+    {
+      "fingerprint": "d24e005bc1bb9a6005e2dd6273b965a0595e9f13",
+      "relativePath": "_MG_7325.jpg",
+      "size": 16582594,
+      "assetId": "3VObpXIAqZjHgmU2D26mrR",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3VObpXIAqZjHgmU2D26mrR/f87bea185ab54d920486b09490fe0e12/_MG_7325.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:08:52.654Z"
+    },
+    {
+      "fingerprint": "4f82a1d981f447d4614503858d79bf4382475afb",
+      "relativePath": "_MG_7440.jpg",
+      "size": 8936829,
+      "assetId": "1QZikpiMXPJE9e9scUNuCw",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1QZikpiMXPJE9e9scUNuCw/a366fd0d4d47267b2fef8bf217253f7c/_MG_7440.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:09:01.343Z"
+    },
+    {
+      "fingerprint": "21ba042f241534c378ef7cc00c8f287a2fddd54a",
+      "relativePath": "_MG_7687.jpg",
+      "size": 15338086,
+      "assetId": "5NH0Ga1DFnOt9hi9v8xX20",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5NH0Ga1DFnOt9hi9v8xX20/978f0a48aa7902954f7f8dd64e864959/_MG_7687.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:09:15.740Z"
+    },
+    {
+      "fingerprint": "d8449fe4409877739375bb5c2b9f9a420a268475",
+      "relativePath": "_MG_3319.jpg",
+      "size": 11432940,
+      "assetId": "6o2Tly30aLjye9YUvTVzbs",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6o2Tly30aLjye9YUvTVzbs/43008133103e127080c850a1c0ffc1c1/_MG_3319.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:09:16.477Z"
+    },
+    {
+      "fingerprint": "1cdb9ac200d46dc781605654b627d721b47c3664",
+      "relativePath": "_MG_7337.jpg",
+      "size": 12614797,
+      "assetId": "3gZhl1v930xb604PEILYnJ",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3gZhl1v930xb604PEILYnJ/ace42f19d995905827d211f89b336710/_MG_7337.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:09:16.796Z"
+    },
+    {
+      "fingerprint": "8c040459b224dd6221aeb2c27266aa46f502d8af",
+      "relativePath": "_MG_8800.jpg",
+      "size": 4125833,
+      "assetId": "4lRXhsxeyfU1XLnZ2zEn1W",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4lRXhsxeyfU1XLnZ2zEn1W/c6557a615db21155a9f1fc1a68521a4d/_MG_8800.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:09:33.708Z"
+    },
+    {
+      "fingerprint": "bc7a827ca2e1e5fe0e1bcbb1c856ea68fc5e10c1",
+      "relativePath": "_MG_8384.jpg",
+      "size": 12672502,
+      "assetId": "6Wv6iC2nIz4srHJlsR4gGh",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/6Wv6iC2nIz4srHJlsR4gGh/760e4a04dae1cff779c83fc803a78a0a/_MG_8384.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:09:55.676Z"
+    },
+    {
+      "fingerprint": "73b8eef15837c29c00b7fd45e83f662ae5610833",
+      "relativePath": "_MG_9601.jpg",
+      "size": 11349778,
+      "assetId": "4uf4pir2KvhJsV3zENk9Ce",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4uf4pir2KvhJsV3zENk9Ce/4bf8680a4a212e165d6415a4134f8773/_MG_9601.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:09:55.989Z"
+    },
+    {
+      "fingerprint": "297343407ca49ca9b833a3bc02c76d3b3e9caa3d",
+      "relativePath": "_MG_9868.jpg",
+      "size": 10900162,
+      "assetId": "18N9sU1MZiQ2opjI0qxZ8y",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/18N9sU1MZiQ2opjI0qxZ8y/f9163967235289526ba826290d06dd25/_MG_9868.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:09:57.215Z"
+    },
+    {
+      "fingerprint": "d995a2dc9cc4428583d46a8e121cbfd54a8ad4c3",
+      "relativePath": "birthday  (26).JPG",
+      "size": 1750134,
+      "assetId": "pfw6rCmv2yY03SVVMHRJu",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/pfw6rCmv2yY03SVVMHRJu/3f16f57227ddb24a333e8a161a39e56e/birthday___26_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:10:02.043Z"
+    },
+    {
+      "fingerprint": "ae4b006ea582e9552c26ab37445bad8870fd59cb",
+      "relativePath": "_MG_9878.jpg",
+      "size": 6417368,
+      "assetId": "74DRqD6BD8Jm7BqENz18U1",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/74DRqD6BD8Jm7BqENz18U1/7a2d7a0c94315a2bab6909241a5585c0/_MG_9878.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:10:02.960Z"
+    },
+    {
+      "fingerprint": "67373187c8e2bbbcae2fd0e24a165ee2b12d2241",
+      "relativePath": "birthday  (73).JPG",
+      "size": 1652499,
+      "assetId": "3jj3jIZsijOhBa8ZDxTJDF",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/3jj3jIZsijOhBa8ZDxTJDF/a740939f7ed64394b87476df5e6d802c/birthday___73_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:10:04.120Z"
+    },
+    {
+      "fingerprint": "4694e665254c64f28d026c20a8ab30cb12832499",
+      "relativePath": "happy 70th bday (749).jpg",
+      "size": 9038631,
+      "assetId": "5L7hLUbv1FCyZ4CBWApakl",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5L7hLUbv1FCyZ4CBWApakl/9ee6c68470d8ae2b70745f154cc2d1c8/happy_70th_bday__749_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:10:13.094Z"
+    },
+    {
+      "fingerprint": "87c3096401bfe645a97a2ee114bfe737197b2e86",
+      "relativePath": "hi park (169) (1).JPG",
+      "size": 20269846,
+      "assetId": "5oAMrfEoj1CA30NmLY6sM",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5oAMrfEoj1CA30NmLY6sM/5e43559e73f531d0369f4c67576ed356/hi_park__169___1_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:10:29.329Z"
+    },
+    {
+      "fingerprint": "f576e23ce0b42d7322a4cded774216bfc595fe10",
+      "relativePath": "gifty raw (131) (2020-12-29T10_10_08.175).JPG",
+      "size": 8986943,
+      "assetId": "47m6YXUVjpIS35TDa9Eoeb",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/47m6YXUVjpIS35TDa9Eoeb/1c478818d57bad3aeae0851d48e5f989/gifty_raw__131___2020-12-29T10_10_08.175_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:10:31.051Z"
+    },
+    {
+      "fingerprint": "12c46e35dae333dbd8e6afedcafff6e89a54a64c",
+      "relativePath": "gifty raw (198) (2020-12-29T10_10_00.965).jpg",
+      "size": 14855676,
+      "assetId": "1jDRvj9fVpCkqeLS4yLE5Z",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1jDRvj9fVpCkqeLS4yLE5Z/f2608fc61911bbc860e26cf9ecee5dd0/gifty_raw__198___2020-12-29T10_10_00.965_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:10:40.216Z"
+    },
+    {
+      "fingerprint": "9f0ae553c8537c55aab4f26a9dd7f6c50e2c3d11",
+      "relativePath": "larabanga (37).jpg",
+      "size": 8467326,
+      "assetId": "4USEcLEmL5Pb8oSLC3J65z",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4USEcLEmL5Pb8oSLC3J65z/720a32ea1896228c2206e059be0512f4/larabanga__37_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:10:42.236Z"
+    },
+    {
+      "fingerprint": "cfaf53949f0d2a8d14857b92387cdc2739bbe978",
+      "relativePath": "mo (102).jpg",
+      "size": 7338644,
+      "assetId": "5pH1ebg1lwuPIXIXhjqZgC",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5pH1ebg1lwuPIXIXhjqZgC/de5aabe1124f1bdc3acd8dd020d2c334/mo__102_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:10:50.994Z"
+    },
+    {
+      "fingerprint": "2895a43e704bb8e871e24458e46c7149cc58b284",
+      "relativePath": "nella (25).jpg",
+      "size": 14057378,
+      "assetId": "1ikxM4sUBEtFO29P2537s7",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1ikxM4sUBEtFO29P2537s7/92f5285d6c404941e3a6932bb4c0e972/nella__25_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:11:10.681Z"
+    },
+    {
+      "fingerprint": "539674b1e16220ccc1b3e9c2f26bf7006d5fb314",
+      "relativePath": "hi park (197).JPG",
+      "size": 16517822,
+      "assetId": "5osyP7TzAar4N3kUcwo64f",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/5osyP7TzAar4N3kUcwo64f/e401a7141db42f6dd8fb96e3732651b6/hi_park__197_.JPG",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:11:15.022Z"
+    },
+    {
+      "fingerprint": "3190f777a49e3e45ffa8b4eb7d8582ec699bbb5d",
+      "relativePath": "xmas shoot277.jpeg",
+      "size": 22898220,
+      "assetId": "4xNYAoMhhmfjxkXS7BvDFS",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/4xNYAoMhhmfjxkXS7BvDFS/fc957119a7a66730dce57ddb2793d763/xmas_shoot277.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:11:31.905Z"
+    },
+    {
+      "fingerprint": "ddee4f8eafeaefd6f8753c84fcd2b83c54f01149",
+      "relativePath": "lookman (223).jpg",
+      "size": 20017469,
+      "assetId": "7mJRzw2ceEJOPLRcShlwIc",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/7mJRzw2ceEJOPLRcShlwIc/bc56e5c00d994df214dccdbceef9df42/lookman__223_.jpg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:11:41.500Z"
+    },
+    {
+      "fingerprint": "a783749418d02094440ee77f5ae904ab9f670cdc",
+      "relativePath": "xmas shoot227.jpeg",
+      "size": 20113660,
+      "assetId": "1m021HOZPG4O2aLaINinmP",
+      "fileUrl": "https://images.ctfassets.net/0ogx9cdi5rop/1m021HOZPG4O2aLaINinmP/e784435c5fa9b8695bd5e1c2dbe75713/xmas_shoot227.jpeg",
+      "contentType": "image/jpeg",
+      "uploadedAt": "2026-05-14T15:11:45.708Z"
+    }
+  ]
+}

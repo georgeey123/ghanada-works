@@ -1,7 +1,9 @@
 import { useParams, Link } from 'react-router-dom';
 import { useCategory, useProjects } from '@/hooks';
-import { ProjectCard } from '@/components/gallery';
+import { MasonryGrid, UniformGrid, Lightbox } from '@/components/gallery';
 import { Image, Loader } from '@/components/ui';
+import { getCategoryLayout } from '@/lib/utils';
+import type { ContentfulImage } from '@/types';
 
 export default function Category() {
   const { category: categorySlug } = useParams<{ category: string }>();
@@ -12,6 +14,16 @@ export default function Category() {
     useProjects(categorySlug);
 
   const isLoading = categoryLoading || projectsLoading;
+
+  const categoryImages: ContentfulImage[] = (projects ?? []).flatMap((project) =>
+    project.images.map((image, index) => ({
+      ...image,
+      title: image.title || `${project.title} - ${index + 1}`,
+    }))
+  );
+
+  const layout = category ? getCategoryLayout(category.slug) : 'uniform';
+  const GridComponent = layout === 'masonry' ? MasonryGrid : UniformGrid;
 
   if (isLoading) {
     return (
@@ -63,7 +75,7 @@ export default function Category() {
         </section>
       )}
 
-      {/* Projects Grid */}
+      {/* Category Gallery */}
       <div className="container py-12 md:py-16">
         {/* Header if no hero image */}
         {!category.heroImage && (
@@ -79,19 +91,11 @@ export default function Category() {
           </div>
         )}
 
-        {projects && projects.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {projects.map((project, index) => (
-              <ProjectCard
-                key={project.id}
-                project={project}
-                priority={index < 6}
-              />
-            ))}
-          </div>
+        {categoryImages.length > 0 ? (
+          <GridComponent images={categoryImages} batchSize={16} />
         ) : (
           <p className="text-center text-neutral-600 dark:text-neutral-400 py-12">
-            No projects in this category yet.
+            No images in this category yet.
           </p>
         )}
 
@@ -118,6 +122,8 @@ export default function Category() {
           </Link>
         </div>
       </div>
+
+      <Lightbox />
     </div>
   );
 }

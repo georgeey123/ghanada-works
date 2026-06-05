@@ -263,19 +263,6 @@ export default function MobileMenu() {
             Contact
           </Link>
 
-          <Link
-            to="/livestream"
-            onClick={handleLinkClick}
-            className={cn(
-              'block px-4 py-3 text-lg font-medium rounded-md transition-colors',
-              isActive('/livestream')
-                ? 'text-neutral-900 dark:text-white bg-neutral-100 dark:bg-neutral-800'
-                : 'text-neutral-600 dark:text-neutral-400'
-            )}
-            aria-current={isActive('/livestream') ? 'page' : undefined}
-          >
-            Livestream
-          </Link>
         </nav>
       </div>
     </div>

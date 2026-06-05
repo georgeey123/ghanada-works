@@ -30,6 +30,7 @@ export default function CategoryCard({
             alt={category.name}
             width={800}
             height={600}
+            fit="thumb"
             className="w-full h-full transition-transform duration-500 group-hover:scale-105"
           />
         ) : (

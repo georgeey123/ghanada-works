@@ -71,15 +71,14 @@ export interface SiteSettings {
 export type GridLayout = 'masonry' | 'uniform';
 
 // Category to layout mapping
-// Masonry: Weddings, Family, Lifestyle (dynamic, storytelling content)
-// Uniform: Glamour, Portrait, Headshots (structured, posed content)
+// Uniform is used across categories to preserve consistent orientation.
 export const CATEGORY_LAYOUTS: Record<string, GridLayout> = {
-  weddings: 'masonry',
+  weddings: 'uniform',
   glamour: 'uniform',
-  family: 'masonry',
+  family: 'uniform',
   portrait: 'uniform',
   headshots: 'uniform',
-  lifestyle: 'masonry',
+  lifestyle: 'uniform',
 };
 
 // Navigation item type

@@ -40,15 +40,15 @@ export default defineConfig([
       // other options...
     },
   },
-])
+]);
 ```
 
 You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
 
 ```js
 // eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+import reactX from 'eslint-plugin-react-x';
+import reactDom from 'eslint-plugin-react-dom';
 
 export default defineConfig([
   globalIgnores(['dist']),
@@ -69,5 +69,45 @@ export default defineConfig([
       // other options...
     },
   },
-])
+]);
 ```
+
+## Contentful Asset Upload Script
+
+Use the included script to upload both images and videos from a local folder into Contentful Assets.
+
+Script path: `scripts/upload-contentful-assets.mjs`
+
+Before running:
+
+- Set these values in `.env`:
+  - `VITE_CONTENTFUL_SPACE_ID=`
+  - `VITE_CONTENTFUL_UPLOAD_ACCESS_TOKEN=`
+  - `VITE_CONTENTFUL_ENVIRONMENT=`
+
+Default source folder:
+
+- `~/Downloads/AmazonPhotos`
+
+Run dry scan first:
+
+```bash
+npm run contentful:upload-assets -- --dry-run
+```
+
+Run upload:
+
+```bash
+npm run contentful:upload-assets
+```
+
+Useful options:
+
+```bash
+npm run contentful:upload-assets -- --source "~/Downloads/AmazonPhotos" --concurrency 3 --locale en-US --max-size-mb 150
+```
+
+Output files:
+
+- `.contentful-upload/upload-manifest.json` (successful uploads)
+- `.contentful-upload/upload-failures.json` (failed uploads)
